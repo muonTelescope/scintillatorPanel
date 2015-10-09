@@ -1,0 +1,1993 @@
+<?xml version="1.0" encoding="utf-8"?>
+<scene_description align="t" cut="201503040913-441466" version="2014.04" unit="1">
+	<models>
+		<import name="loopPanel.iam">
+		</import>
+		<import transformation="1.0 0.0 0.0 0.0 6.12323399574e-17 1.0 0.0 -1.0 6.12323399574e-17 0.0 0.0 0.0" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" name="loopPanel.iam(0)">
+			<child node="loopPanel.iam(0):loopPanel.iam">
+			</child>
+		</import>
+		<group label="loopPanel.iam" name="loopPanel.iam(0):loopPanel.iam" has_original_label="1">
+			<child node="loopPanel.iam(0):loopPanel:1">
+			</child>
+			<child node="loopPanel.iam(0):fiberLoop:1">
+			</child>
+			<child node="loopPanel.iam(0):m3Washer:1">
+			</child>
+			<child node="loopPanel.iam(0):m3Washer:2">
+			</child>
+			<child node="loopPanel.iam(0):2mmSpacer:1">
+			</child>
+			<child node="loopPanel.iam(0):2mmSpacer:2">
+			</child>
+			<child node="loopPanel.iam(0):sensor:1">
+			</child>
+			<child node="loopPanel.iam(0):m3x8:1">
+			</child>
+			<child node="loopPanel.iam(0):m3x8:2">
+			</child>
+		</group>
+		<group transformation="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 -0.168918916402 0.62837837028 -0.35" name="loopPanel.iam(0):loopPanel:1">
+			<child node="loopPanel.iam(0):loopPanel:1_BODY">
+			</child>
+		</group>
+		<group original_world_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.168918916402 -0.62837837028 0.35" name="loopPanel.iam(0):loopPanel:1_BODY">
+			<child node="loopPanel.iam(0):loopPanel:1_BODY-1">
+			</child>
+			<child node="loopPanel.iam(0):loopPanel:1_BODY-2">
+			</child>
+			<child node="loopPanel.iam(0):loopPanel:1_BODY-3">
+			</child>
+			<child node="loopPanel.iam(0):loopPanel:1_BODY-4">
+			</child>
+			<child node="loopPanel.iam(0):loopPanel:1_BODY-5">
+			</child>
+			<child node="loopPanel.iam(0):loopPanel:1_BODY-6">
+			</child>
+			<child node="loopPanel.iam(0):loopPanel:1_BODY-7">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="0" name="loopPanel.iam(0):loopPanel:1_BODY-1" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 0.0 0.0 0.0 -3.4450928484e-16 -1.0 0.0 1.0 -3.4450928484e-16 0.0 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="1" name="loopPanel.iam(0):loopPanel:1_BODY-2" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 0.0 0.0 0.0 -3.4450928484e-16 -1.0 0.0 1.0 -3.4450928484e-16 0.0 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="2" name="loopPanel.iam(0):loopPanel:1_BODY-3" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 0.0 0.0 0.0 -3.4450928484e-16 -1.0 0.0 1.0 -3.4450928484e-16 0.0 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="3" name="loopPanel.iam(0):loopPanel:1_BODY-4" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 0.0 0.0 0.0 -3.4450928484e-16 -1.0 0.0 1.0 -3.4450928484e-16 0.0 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="4" name="loopPanel.iam(0):loopPanel:1_BODY-5" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 0.0 0.0 0.0 -3.4450928484e-16 -1.0 0.0 1.0 -3.4450928484e-16 0.0 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="5" name="loopPanel.iam(0):loopPanel:1_BODY-6" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 0.0 0.0 0.0 -3.4450928484e-16 -1.0 0.0 1.0 -3.4450928484e-16 0.0 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="6" name="loopPanel.iam(0):loopPanel:1_BODY-7" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 0.0 0.0 0.0 -3.4450928484e-16 -1.0 0.0 1.0 -3.4450928484e-16 0.0 -6.08509223753 1.20838858187">
+		</lod_group>
+		<group transformation="1.0 3.33066907388e-16 1.57867114874e-15 -3.33066907388e-16 1.0 -2.55019689188e-31 -1.57867114874e-15 -2.70783428105e-31 1.0 -0.168918916402 -0.70848635976 0.535" name="loopPanel.iam(0):fiberLoop:1">
+			<child node="loopPanel.iam(0):fiberLoop:1_BODY">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="7" original_world_transform="1.0 4.27477985506e-46 0.0 4.27477985506e-46 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" original_transform="1.0 -3.33066907388e-16 -1.57867114874e-15 3.33066907388e-16 1.0 -2.70783428105e-31 1.57867114874e-15 -2.55019689188e-31 1.0 0.168918916402 0.70848635976 -0.535" transformation="1.0 -3.33066907388e-16 -1.57867114874e-15 -1.57867114874e-15 -3.4450928484e-16 -1.0 3.33066907388e-16 1.0 -3.4450928484e-16 0.168918916402 -5.37660587777 0.673388581872" name="loopPanel.iam(0):fiberLoop:1_BODY">
+		</lod_group>
+		<group transformation="1.0 -1.67501194934e-15 -1.11022302463e-16 1.67501194934e-15 1.0 2.98428325797e-16 1.11022302463e-16 -2.98428325797e-16 1.0 1.8310810836 8.07837837028 0.25" name="loopPanel.iam(0):m3Washer:1">
+			<child node="loopPanel.iam(0):m3Washer:1_BODY">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="8" original_world_transform="1.0 -3.31321998501e-32 0.0 -3.31321998501e-32 1.0 0.0 3.69778549322e-32 0.0 1.0 0.0 0.0 0.0" original_transform="1.0 1.67501194934e-15 1.11022302463e-16 -1.67501194934e-15 1.0 -2.98428325797e-16 -1.11022302463e-16 2.98428325797e-16 1.0 -1.8310810836 -8.07837837028 -0.25" transformation="1.0 1.67501194934e-15 1.11022302463e-16 1.11022302463e-16 -6.42937610637e-16 -1.0 -1.67501194934e-15 1.0 -6.42937610637e-16 -1.8310810836 -14.1634706078 0.958388581872" name="loopPanel.iam(0):m3Washer:1_BODY">
+		</lod_group>
+		<group transformation="0.999999999689 -1.25152479879e-16 -2.49276933735e-05 1.25159919047e-16 1.0 2.98428325797e-16 2.49276933735e-05 -2.98431445653e-16 0.999999999689 -2.1689189164 8.07837837028 0.25" name="loopPanel.iam(0):m3Washer:2">
+			<child node="loopPanel.iam(0):m3Washer:1_BODY-2">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="8" original_world_transform="0.999999999689 1.54985946946e-15 -2.49276933734e-05 -1.5498594689e-15 1.0 4.17542769898e-20 2.49276933734e-05 -3.11985536416e-21 0.999999999689 -4.00000623135 8.881784197e-15 4.56447054681e-05" original_transform="1.0 1.67501194934e-15 1.11022302463e-16 -1.67501194934e-15 1.0 -2.98428325797e-16 -1.11029078726e-16 2.98428325797e-16 1.0 -1.8310810836 -8.07837837028 -0.25" transformation="0.999999999379 -2.49276933733e-05 2.49276933642e-05 2.4927693372e-05 -6.4289585636e-16 -0.999999999689 2.49276933656e-05 0.999999999689 6.21389253985e-10 -1.8311112048 -14.1634249631 0.958342936791" name="loopPanel.iam(0):m3Washer:1_BODY-2">
+		</lod_group>
+		<group transformation="-0.212094145891 -5.56732021869e-16 0.977249238055 -0.977249238055 2.48902237263e-16 -0.212094145891 -1.25159919047e-16 -1.0 -5.96856651595e-16 1.8310810836 7.97837837028 0.25" name="loopPanel.iam(0):2mmSpacer:1">
+			<child node="loopPanel.iam(0):2mmSpacer:1_BODY">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="9" original_world_transform="1.0 -7.39557098645e-32 1.38777878078e-16 9.86076131526e-32 1.0 2.95822839458e-31 -1.38777878078e-16 0.0 1.0 6.66133814775e-16 0.0 -2.22044604925e-16" original_transform="-0.212094145891 -0.977249238055 -1.25159919047e-16 -5.56732021869e-16 2.48902237263e-16 -1.0 0.977249238055 -0.212094145891 -5.96856651595e-16 0.144049268969 1.84244613024 7.97837837028" transformation="-0.212094145891 -0.977249238055 -2.63937797126e-16 -0.977249238055 0.212094145891 9.41365936435e-16 -8.63969482462e-16 4.57591215394e-16 -1.0 1.32494608988 1.58615398606 14.0634706078" name="loopPanel.iam(0):2mmSpacer:1_BODY">
+		</lod_group>
+		<group transformation="0.99207844996 2.60526635457e-16 0.125619859597 -0.125619859597 4.97131079815e-16 0.99207844996 1.9601332423e-16 -1.0 5.25920350457e-16 -2.1689189164 7.97837837028 0.25" name="loopPanel.iam(0):2mmSpacer:2">
+			<child node="loopPanel.iam(0):2mmSpacer:1_BODY-2">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="9" original_world_transform="-0.0876521194248 -4.15917224144e-16 -0.996151146142 -7.79602229627e-16 1.0 -3.48926403142e-16 0.996151146142 7.46017515819e-16 -0.0876521194248 -2.25745856512 1.59872115546e-14 2.09594654996" original_transform="-0.212094145891 -0.977249238055 -1.25159919047e-16 -5.56732021869e-16 2.48902237263e-16 -1.0 0.977249238055 -0.212094145891 -5.96856651595e-16 0.144049268969 1.84244613024 7.97837837028" transformation="-0.0869577787747 0.0110108469356 0.996151146142 -0.125619859597 -0.99207844996 1.67515337524e-16 0.98826008499 -0.125136367116 0.0876521194248 0.0325543616328 0.961918997004 11.9675240578" name="loopPanel.iam(0):2mmSpacer:1_BODY-2">
+		</lod_group>
+		<group transformation="-1.0 1.31953584581e-16 1.11022302463e-16 1.11022302463e-16 -2.98428325797e-16 1.0 1.31953584581e-16 1.0 2.98428325797e-16 -0.940389065022 8.21838837028 0.36644831966" name="loopPanel.iam(0):sensor:1">
+			<child node="loopPanel.iam(0):pcb:1">
+			</child>
+			<child node="loopPanel.iam(0):0805:1">
+			</child>
+			<child node="loopPanel.iam(0):0805:2">
+			</child>
+			<child node="loopPanel.iam(0):0805:3">
+			</child>
+			<child node="loopPanel.iam(0):0805:4">
+			</child>
+			<child node="loopPanel.iam(0):0805:5">
+			</child>
+			<child node="loopPanel.iam(0):0805:6">
+			</child>
+			<child node="loopPanel.iam(0):0805:7">
+			</child>
+			<child node="loopPanel.iam(0):0805 Capacitor:1">
+			</child>
+			<child node="loopPanel.iam(0):0805 Capacitor:2">
+			</child>
+			<child node="loopPanel.iam(0):0805 Capacitor:3">
+			</child>
+			<child node="loopPanel.iam(0):128-0711-201:1">
+			</child>
+			<child node="loopPanel.iam(0):SOT23_5:1">
+			</child>
+			<child node="loopPanel.iam(0):FH33-4S-1SH:1">
+			</child>
+			<child node="loopPanel.iam(0):FH33-4S-1SH:2">
+			</child>
+			<child node="loopPanel.iam(0):MPPC:1">
+			</child>
+		</group>
+		<group original_world_transform="-1.0 9.65618401374e-17 1.11022302463e-16 1.11022302463e-16 -2.98428325797e-16 1.0 9.65618401374e-17 1.0 2.98428325797e-16 -6.4689189164 8.29839837028 0.85" transformation="1.0 0.0 -3.53917444435e-17 0.0 1.0 -4.93038065763e-32 3.53917444435e-17 4.93038065763e-32 1.0 5.52852985138 0.48355168034 0.08001" name="loopPanel.iam(0):pcb:1">
+			<child node="loopPanel.iam(0):pcb:1_BODY">
+			</child>
+		</group>
+		<group original_world_transform="1.0 0.0 4.16488499997e-33 0.0 1.0 0.0 4.16488499997e-33 0.0 1.0 0.0 0.0 2.22044604925e-16" transformation="-1.0 1.11022302463e-16 9.65618401374e-17 9.65618401374e-17 -2.98428325797e-16 1.0 1.11022302463e-16 1.0 2.98428325797e-16 -6.4689189164 -0.85 -8.29839837028" name="loopPanel.iam(0):pcb:1_BODY">
+			<child node="loopPanel.iam(0):pcb:1_BODY-1">
+			</child>
+			<child node="loopPanel.iam(0):pcb:1_BODY-2">
+			</child>
+			<child node="loopPanel.iam(0):pcb:1_BODY-3">
+			</child>
+			<child node="loopPanel.iam(0):pcb:1_BODY-4">
+			</child>
+			<child node="loopPanel.iam(0):pcb:1_BODY-5">
+			</child>
+			<child node="loopPanel.iam(0):pcb:1_BODY-6">
+			</child>
+			<child node="loopPanel.iam(0):pcb:1_BODY-7">
+			</child>
+			<child node="loopPanel.iam(0):pcb:1_BODY-8">
+			</child>
+			<child node="loopPanel.iam(0):pcb:1_BODY-9">
+			</child>
+			<child node="loopPanel.iam(0):pcb:1_BODY-10">
+			</child>
+			<child node="loopPanel.iam(0):pcb:1_BODY-11">
+			</child>
+			<child node="loopPanel.iam(0):pcb:1_BODY-12">
+			</child>
+			<child node="loopPanel.iam(0):pcb:1_BODY-13">
+			</child>
+			<child node="loopPanel.iam(0):pcb:1_BODY-14">
+			</child>
+			<child node="loopPanel.iam(0):pcb:1_BODY-15">
+			</child>
+			<child node="loopPanel.iam(0):pcb:1_BODY-16">
+			</child>
+			<child node="loopPanel.iam(0):pcb:1_BODY-17">
+			</child>
+			<child node="loopPanel.iam(0):pcb:1_BODY-18">
+			</child>
+			<child node="loopPanel.iam(0):pcb:1_BODY-19">
+			</child>
+			<child node="loopPanel.iam(0):pcb:1_BODY-20">
+			</child>
+			<child node="loopPanel.iam(0):pcb:1_BODY-21">
+			</child>
+			<child node="loopPanel.iam(0):pcb:1_BODY-22">
+			</child>
+			<child node="loopPanel.iam(0):pcb:1_BODY-23">
+			</child>
+			<child node="loopPanel.iam(0):pcb:1_BODY-24">
+			</child>
+			<child node="loopPanel.iam(0):pcb:1_BODY-25">
+			</child>
+			<child node="loopPanel.iam(0):pcb:1_BODY-26">
+			</child>
+			<child node="loopPanel.iam(0):pcb:1_BODY-27">
+			</child>
+			<child node="loopPanel.iam(0):pcb:1_BODY-28">
+			</child>
+			<child node="loopPanel.iam(0):pcb:1_BODY-29">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="10" name="loopPanel.iam(0):pcb:1_BODY-1" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -1.74782242223e-33 -2.29040808659e-32 4.16488499997e-33 -3.4450928484e-16 -1.0 4.16488499997e-33 1.0 -3.4450928484e-16 -5.03279947877e-33 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="11" name="loopPanel.iam(0):pcb:1_BODY-2" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -1.74782242223e-33 -2.29040808659e-32 4.16488499997e-33 -3.4450928484e-16 -1.0 4.16488499997e-33 1.0 -3.4450928484e-16 -5.03279947877e-33 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="12" name="loopPanel.iam(0):pcb:1_BODY-3" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -1.74782242223e-33 -2.29040808659e-32 4.16488499997e-33 -3.4450928484e-16 -1.0 4.16488499997e-33 1.0 -3.4450928484e-16 -5.03279947877e-33 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="13" name="loopPanel.iam(0):pcb:1_BODY-4" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -1.74782242223e-33 -2.29040808659e-32 4.16488499997e-33 -3.4450928484e-16 -1.0 4.16488499997e-33 1.0 -3.4450928484e-16 -5.03279947877e-33 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="14" name="loopPanel.iam(0):pcb:1_BODY-5" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -1.74782242223e-33 -2.29040808659e-32 4.16488499997e-33 -3.4450928484e-16 -1.0 4.16488499997e-33 1.0 -3.4450928484e-16 -5.03279947877e-33 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="15" name="loopPanel.iam(0):pcb:1_BODY-6" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -1.74782242223e-33 -2.29040808659e-32 4.16488499997e-33 -3.4450928484e-16 -1.0 4.16488499997e-33 1.0 -3.4450928484e-16 -5.03279947877e-33 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="16" name="loopPanel.iam(0):pcb:1_BODY-7" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -1.74782242223e-33 -2.29040808659e-32 4.16488499997e-33 -3.4450928484e-16 -1.0 4.16488499997e-33 1.0 -3.4450928484e-16 -5.03279947877e-33 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="17" name="loopPanel.iam(0):pcb:1_BODY-8" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -1.74782242223e-33 -2.29040808659e-32 4.16488499997e-33 -3.4450928484e-16 -1.0 4.16488499997e-33 1.0 -3.4450928484e-16 -5.03279947877e-33 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="18" name="loopPanel.iam(0):pcb:1_BODY-9" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -1.74782242223e-33 -2.29040808659e-32 4.16488499997e-33 -3.4450928484e-16 -1.0 4.16488499997e-33 1.0 -3.4450928484e-16 -5.03279947877e-33 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="19" name="loopPanel.iam(0):pcb:1_BODY-10" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -1.74782242223e-33 -2.29040808659e-32 4.16488499997e-33 -3.4450928484e-16 -1.0 4.16488499997e-33 1.0 -3.4450928484e-16 -5.03279947877e-33 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="20" name="loopPanel.iam(0):pcb:1_BODY-11" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -1.74782242223e-33 -2.29040808659e-32 4.16488499997e-33 -3.4450928484e-16 -1.0 4.16488499997e-33 1.0 -3.4450928484e-16 -5.03279947877e-33 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="21" name="loopPanel.iam(0):pcb:1_BODY-12" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -1.74782242223e-33 -2.29040808659e-32 4.16488499997e-33 -3.4450928484e-16 -1.0 4.16488499997e-33 1.0 -3.4450928484e-16 -5.03279947877e-33 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="22" name="loopPanel.iam(0):pcb:1_BODY-13" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -1.74782242223e-33 -2.29040808659e-32 4.16488499997e-33 -3.4450928484e-16 -1.0 4.16488499997e-33 1.0 -3.4450928484e-16 -5.03279947877e-33 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="23" name="loopPanel.iam(0):pcb:1_BODY-14" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -1.74782242223e-33 -2.29040808659e-32 4.16488499997e-33 -3.4450928484e-16 -1.0 4.16488499997e-33 1.0 -3.4450928484e-16 -5.03279947877e-33 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="24" name="loopPanel.iam(0):pcb:1_BODY-15" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -1.74782242223e-33 -2.29040808659e-32 4.16488499997e-33 -3.4450928484e-16 -1.0 4.16488499997e-33 1.0 -3.4450928484e-16 -5.03279947877e-33 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="25" name="loopPanel.iam(0):pcb:1_BODY-16" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -1.74782242223e-33 -2.29040808659e-32 4.16488499997e-33 -3.4450928484e-16 -1.0 4.16488499997e-33 1.0 -3.4450928484e-16 -5.03279947877e-33 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="26" name="loopPanel.iam(0):pcb:1_BODY-17" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -1.74782242223e-33 -2.29040808659e-32 4.16488499997e-33 -3.4450928484e-16 -1.0 4.16488499997e-33 1.0 -3.4450928484e-16 -5.03279947877e-33 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="27" name="loopPanel.iam(0):pcb:1_BODY-18" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -1.74782242223e-33 -2.29040808659e-32 4.16488499997e-33 -3.4450928484e-16 -1.0 4.16488499997e-33 1.0 -3.4450928484e-16 -5.03279947877e-33 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="28" name="loopPanel.iam(0):pcb:1_BODY-19" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -1.74782242223e-33 -2.29040808659e-32 4.16488499997e-33 -3.4450928484e-16 -1.0 4.16488499997e-33 1.0 -3.4450928484e-16 -5.03279947877e-33 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="29" name="loopPanel.iam(0):pcb:1_BODY-20" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -1.74782242223e-33 -2.29040808659e-32 4.16488499997e-33 -3.4450928484e-16 -1.0 4.16488499997e-33 1.0 -3.4450928484e-16 -5.03279947877e-33 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="30" name="loopPanel.iam(0):pcb:1_BODY-21" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -1.74782242223e-33 -2.29040808659e-32 4.16488499997e-33 -3.4450928484e-16 -1.0 4.16488499997e-33 1.0 -3.4450928484e-16 -5.03279947877e-33 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="31" name="loopPanel.iam(0):pcb:1_BODY-22" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -1.74782242223e-33 -2.29040808659e-32 4.16488499997e-33 -3.4450928484e-16 -1.0 4.16488499997e-33 1.0 -3.4450928484e-16 -5.03279947877e-33 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="32" name="loopPanel.iam(0):pcb:1_BODY-23" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -1.74782242223e-33 -2.29040808659e-32 4.16488499997e-33 -3.4450928484e-16 -1.0 4.16488499997e-33 1.0 -3.4450928484e-16 -5.03279947877e-33 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="33" name="loopPanel.iam(0):pcb:1_BODY-24" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -1.74782242223e-33 -2.29040808659e-32 4.16488499997e-33 -3.4450928484e-16 -1.0 4.16488499997e-33 1.0 -3.4450928484e-16 -5.03279947877e-33 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="34" name="loopPanel.iam(0):pcb:1_BODY-25" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -1.74782242223e-33 -2.29040808659e-32 4.16488499997e-33 -3.4450928484e-16 -1.0 4.16488499997e-33 1.0 -3.4450928484e-16 -5.03279947877e-33 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="35" name="loopPanel.iam(0):pcb:1_BODY-26" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -1.74782242223e-33 -2.29040808659e-32 4.16488499997e-33 -3.4450928484e-16 -1.0 4.16488499997e-33 1.0 -3.4450928484e-16 -5.03279947877e-33 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="36" name="loopPanel.iam(0):pcb:1_BODY-27" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -1.74782242223e-33 -2.29040808659e-32 4.16488499997e-33 -3.4450928484e-16 -1.0 4.16488499997e-33 1.0 -3.4450928484e-16 -5.03279947877e-33 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="37" name="loopPanel.iam(0):pcb:1_BODY-28" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -1.74782242223e-33 -2.29040808659e-32 4.16488499997e-33 -3.4450928484e-16 -1.0 4.16488499997e-33 1.0 -3.4450928484e-16 -5.03279947877e-33 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="38" name="loopPanel.iam(0):pcb:1_BODY-29" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -1.74782242223e-33 -2.29040808659e-32 4.16488499997e-33 -3.4450928484e-16 -1.0 4.16488499997e-33 1.0 -3.4450928484e-16 -5.03279947877e-33 -6.08509223753 1.20838858187">
+		</lod_group>
+		<group original_world_transform="-1.52655665886e-16 5.51984661719e-16 -1.0 -1.0 1.85656652185e-16 1.52655665886e-16 1.85656652185e-16 1.0 5.51984661719e-16 0.283934585784 8.29839837028 0.544708122782" transformation="4.16333634234e-17 -1.0 2.53556335922e-16 1.0 4.16333634234e-17 5.3703067604e-17 -5.3703067604e-17 2.53556335922e-16 1.0 -1.22432365081 0.178259803121 0.08001" name="loopPanel.iam(0):0805:1">
+			<child node="loopPanel.iam(0):0805:1_BODY">
+			</child>
+		</group>
+		<group original_world_transform="1.0 0.0 3.87201119961e-33 0.0 1.0 0.0 3.87201119961e-33 0.0 1.0 0.0 0.0 0.0" transformation="-1.52655665886e-16 -1.0 1.85656652185e-16 5.51984661719e-16 1.85656652185e-16 1.0 -1.0 1.52655665886e-16 5.51984661719e-16 0.544708122782 0.283934585784 -8.29839837028" name="loopPanel.iam(0):0805:1_BODY">
+			<child node="loopPanel.iam(0):0805:1_BODY-1">
+			</child>
+			<child node="loopPanel.iam(0):0805:1_BODY-2">
+			</child>
+			<child node="loopPanel.iam(0):0805:1_BODY-3">
+			</child>
+			<child node="loopPanel.iam(0):0805:1_BODY-4">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="39" name="loopPanel.iam(0):0805:1_BODY-1" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 4.1807626534e-32 7.49618004233e-33 3.87201119961e-33 -3.4450928484e-16 -1.0 3.87201119961e-33 1.0 -3.4450928484e-16 -4.67889412249e-33 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="40" name="loopPanel.iam(0):0805:1_BODY-2" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 4.1807626534e-32 7.49618004233e-33 3.87201119961e-33 -3.4450928484e-16 -1.0 3.87201119961e-33 1.0 -3.4450928484e-16 -4.67889412249e-33 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="41" name="loopPanel.iam(0):0805:1_BODY-3" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 4.1807626534e-32 7.49618004233e-33 3.87201119961e-33 -3.4450928484e-16 -1.0 3.87201119961e-33 1.0 -3.4450928484e-16 -4.67889412249e-33 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="42" name="loopPanel.iam(0):0805:1_BODY-4" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 4.1807626534e-32 7.49618004233e-33 3.87201119961e-33 -3.4450928484e-16 -1.0 3.87201119961e-33 1.0 -3.4450928484e-16 -4.67889412249e-33 -6.08509223753 1.20838858187">
+		</lod_group>
+		<group original_world_transform="6.10622663544e-16 9.66759223955e-17 -1.0 -1.0 2.23961247682e-17 -6.10622663544e-16 2.23961247682e-17 1.0 9.66759223955e-17 0.102538548531 8.29839837028 0.544708122782" transformation="-7.21644966006e-16 -1.0 -2.01752403402e-16 1.0 -7.21644966006e-16 -1.09557459813e-16 1.09557459813e-16 -2.01752403402e-16 1.0 -1.04292761355 0.178259803121 0.08001" name="loopPanel.iam(0):0805:2">
+			<child node="loopPanel.iam(0):0805:1_BODY-5">
+			</child>
+		</group>
+		<group original_world_transform="1.0 1.63260527417e-16 7.6327832943e-16 -1.63260527417e-16 1.0 -4.55308739324e-16 -7.6327832943e-16 4.55308739324e-16 1.0 -0.181396037253 0.0 3.66373598126e-15" transformation="-1.52655665886e-16 -1.0 1.85656652185e-16 5.51984661719e-16 1.85656652185e-16 1.0 -1.0 1.52655665886e-16 5.51984661719e-16 0.544708122782 0.283934585784 -8.29839837028" name="loopPanel.iam(0):0805:1_BODY-5">
+			<child node="loopPanel.iam(0):0805:1_BODY-6">
+			</child>
+			<child node="loopPanel.iam(0):0805:1_BODY-7">
+			</child>
+			<child node="loopPanel.iam(0):0805:1_BODY-8">
+			</child>
+			<child node="loopPanel.iam(0):0805:1_BODY-9">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="39" original_world_transform="1.0 1.63260527417e-16 7.6327832943e-16 -1.63260527417e-16 1.0 -4.55308739324e-16 -7.6327832943e-16 4.55308739324e-16 1.0 -0.181396037253 0.0 3.66373598126e-15" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 6.00017802013e-16 -9.26538856846e-16 -9.26538856846e-16 -3.4450928484e-16 -1.0 -6.00017802013e-16 1.0 -3.4450928484e-16 -2.49800180541e-16 -6.08509223753 1.20838858187" name="loopPanel.iam(0):0805:1_BODY-6">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="40" original_world_transform="1.0 1.63260527417e-16 7.6327832943e-16 -1.63260527417e-16 1.0 -4.55308739324e-16 -7.6327832943e-16 4.55308739324e-16 1.0 -0.181396037253 0.0 3.66373598126e-15" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 6.00017802013e-16 -9.26538856846e-16 -9.26538856846e-16 -3.4450928484e-16 -1.0 -6.00017802013e-16 1.0 -3.4450928484e-16 -2.49800180541e-16 -6.08509223753 1.20838858187" name="loopPanel.iam(0):0805:1_BODY-7">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="41" original_world_transform="1.0 1.63260527417e-16 7.6327832943e-16 -1.63260527417e-16 1.0 -4.55308739324e-16 -7.6327832943e-16 4.55308739324e-16 1.0 -0.181396037253 0.0 3.66373598126e-15" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 6.00017802013e-16 -9.26538856846e-16 -9.26538856846e-16 -3.4450928484e-16 -1.0 -6.00017802013e-16 1.0 -3.4450928484e-16 -2.49800180541e-16 -6.08509223753 1.20838858187" name="loopPanel.iam(0):0805:1_BODY-8">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="42" original_world_transform="1.0 1.63260527417e-16 7.6327832943e-16 -1.63260527417e-16 1.0 -4.55308739324e-16 -7.6327832943e-16 4.55308739324e-16 1.0 -0.181396037253 0.0 3.66373598126e-15" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 6.00017802013e-16 -9.26538856846e-16 -9.26538856846e-16 -3.4450928484e-16 -1.0 -6.00017802013e-16 1.0 -3.4450928484e-16 -2.49800180541e-16 -6.08509223753 1.20838858187" name="loopPanel.iam(0):0805:1_BODY-9">
+		</lod_group>
+		<group original_world_transform="-4.71844785466e-16 3.68796842517e-16 -1.0 -1.0 2.62234078406e-16 4.71844785466e-16 2.62234078406e-16 1.0 3.68796842517e-16 -0.254578904088 8.29839837028 0.544708122782" transformation="3.60822483003e-16 -1.0 7.03685167195e-17 1.0 3.60822483003e-16 1.30280493825e-16 -1.30280493825e-16 7.03685167195e-17 1.0 -0.685810160935 0.178259803121 0.08001" name="loopPanel.iam(0):0805:3">
+			<child node="loopPanel.iam(0):0805:1_BODY-10">
+			</child>
+		</group>
+		<group original_world_transform="1.0 -7.65774262212e-17 -3.1918911958e-16 7.65774262212e-17 1.0 -1.83187819202e-16 3.1918911958e-16 1.83187819202e-16 1.0 -0.538513489872 0.0 1.44328993201e-15" transformation="-1.52655665886e-16 -1.0 1.85656652185e-16 5.51984661719e-16 1.85656652185e-16 1.0 -1.0 1.52655665886e-16 5.51984661719e-16 0.544708122782 0.283934585784 -8.29839837028" name="loopPanel.iam(0):0805:1_BODY-10">
+			<child node="loopPanel.iam(0):0805:1_BODY-11">
+			</child>
+			<child node="loopPanel.iam(0):0805:1_BODY-12">
+			</child>
+			<child node="loopPanel.iam(0):0805:1_BODY-13">
+			</child>
+			<child node="loopPanel.iam(0):0805:1_BODY-14">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="39" original_world_transform="1.0 -7.65774262212e-17 -3.1918911958e-16 7.65774262212e-17 1.0 -1.83187819202e-16 3.1918911958e-16 1.83187819202e-16 1.0 -0.538513489872 0.0 1.44328993201e-15" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -2.42611693359e-16 3.95766545801e-16 3.95766545801e-16 -3.4450928484e-16 -1.0 2.42611693359e-16 1.0 -3.4450928484e-16 9.99200722163e-16 -6.08509223753 1.20838858187" name="loopPanel.iam(0):0805:1_BODY-11">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="40" original_world_transform="1.0 -7.65774262212e-17 -3.1918911958e-16 7.65774262212e-17 1.0 -1.83187819202e-16 3.1918911958e-16 1.83187819202e-16 1.0 -0.538513489872 0.0 1.44328993201e-15" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -2.42611693359e-16 3.95766545801e-16 3.95766545801e-16 -3.4450928484e-16 -1.0 2.42611693359e-16 1.0 -3.4450928484e-16 9.99200722163e-16 -6.08509223753 1.20838858187" name="loopPanel.iam(0):0805:1_BODY-12">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="41" original_world_transform="1.0 -7.65774262212e-17 -3.1918911958e-16 7.65774262212e-17 1.0 -1.83187819202e-16 3.1918911958e-16 1.83187819202e-16 1.0 -0.538513489872 0.0 1.44328993201e-15" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -2.42611693359e-16 3.95766545801e-16 3.95766545801e-16 -3.4450928484e-16 -1.0 2.42611693359e-16 1.0 -3.4450928484e-16 9.99200722163e-16 -6.08509223753 1.20838858187" name="loopPanel.iam(0):0805:1_BODY-13">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="42" original_world_transform="1.0 -7.65774262212e-17 -3.1918911958e-16 7.65774262212e-17 1.0 -1.83187819202e-16 3.1918911958e-16 1.83187819202e-16 1.0 -0.538513489872 0.0 1.44328993201e-15" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -2.42611693359e-16 3.95766545801e-16 3.95766545801e-16 -3.4450928484e-16 -1.0 2.42611693359e-16 1.0 -3.4450928484e-16 9.99200722163e-16 -6.08509223753 1.20838858187" name="loopPanel.iam(0):0805:1_BODY-14">
+		</lod_group>
+		<group original_world_transform="-8.32667268469e-17 2.44706478726e-16 -1.0 -1.0 1.86861566505e-16 8.32667268469e-17 1.86861566505e-16 1.0 2.44706478726e-16 -0.595426168323 8.29839837028 0.544708122782" transformation="-2.77555756156e-17 -1.0 -5.37218470715e-17 1.0 -2.77555756156e-17 5.49079819244e-17 -5.49079819244e-17 -5.37218470715e-17 1.0 -0.344962896699 0.178259803121 0.08001" name="loopPanel.iam(0):0805:4">
+			<child node="loopPanel.iam(0):0805:1_BODY-15">
+			</child>
+		</group>
+		<group original_world_transform="1.0 -1.20491432037e-18 6.93889390391e-17 1.20491432037e-18 1.0 -3.07278182993e-16 -6.93889390391e-17 3.07278182993e-16 1.0 -0.879360754107 0.0 2.77555756156e-15" transformation="-1.52655665886e-16 -1.0 1.85656652185e-16 5.51984661719e-16 1.85656652185e-16 1.0 -1.0 1.52655665886e-16 5.51984661719e-16 0.544708122782 0.283934585784 -8.29839837028" name="loopPanel.iam(0):0805:1_BODY-15">
+			<child node="loopPanel.iam(0):0805:1_BODY-16">
+			</child>
+			<child node="loopPanel.iam(0):0805:1_BODY-17">
+			</child>
+			<child node="loopPanel.iam(0):0805:1_BODY-18">
+			</child>
+			<child node="loopPanel.iam(0):0805:1_BODY-19">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="39" original_world_transform="1.0 -1.20491432037e-18 6.93889390391e-17 1.20491432037e-18 1.0 -3.07278182993e-16 -6.93889390391e-17 3.07278182993e-16 1.0 -0.879360754107 0.0 2.77555756156e-15" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 7.05938533594e-17 -6.81840247187e-17 -6.81840247187e-17 -3.4450928484e-16 -1.0 -7.05938533594e-17 1.0 -3.4450928484e-16 1.11022302463e-16 -6.08509223753 1.20838858187" name="loopPanel.iam(0):0805:1_BODY-16">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="40" original_world_transform="1.0 -1.20491432037e-18 6.93889390391e-17 1.20491432037e-18 1.0 -3.07278182993e-16 -6.93889390391e-17 3.07278182993e-16 1.0 -0.879360754107 0.0 2.77555756156e-15" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 7.05938533594e-17 -6.81840247187e-17 -6.81840247187e-17 -3.4450928484e-16 -1.0 -7.05938533594e-17 1.0 -3.4450928484e-16 1.11022302463e-16 -6.08509223753 1.20838858187" name="loopPanel.iam(0):0805:1_BODY-17">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="41" original_world_transform="1.0 -1.20491432037e-18 6.93889390391e-17 1.20491432037e-18 1.0 -3.07278182993e-16 -6.93889390391e-17 3.07278182993e-16 1.0 -0.879360754107 0.0 2.77555756156e-15" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 7.05938533594e-17 -6.81840247187e-17 -6.81840247187e-17 -3.4450928484e-16 -1.0 -7.05938533594e-17 1.0 -3.4450928484e-16 1.11022302463e-16 -6.08509223753 1.20838858187" name="loopPanel.iam(0):0805:1_BODY-18">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="42" original_world_transform="1.0 -1.20491432037e-18 6.93889390391e-17 1.20491432037e-18 1.0 -3.07278182993e-16 -6.93889390391e-17 3.07278182993e-16 1.0 -0.879360754107 0.0 2.77555756156e-15" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 7.05938533594e-17 -6.81840247187e-17 -6.81840247187e-17 -3.4450928484e-16 -1.0 -7.05938533594e-17 1.0 -3.4450928484e-16 1.11022302463e-16 -6.08509223753 1.20838858187" name="loopPanel.iam(0):0805:1_BODY-19">
+		</lod_group>
+		<group original_world_transform="-1.11022302463e-16 2.99772741669e-16 -1.0 -1.0 1.41801636106e-16 1.11022302463e-16 1.41801636106e-16 1.0 2.99772741669e-16 0.450903194915 8.29839837028 0.544708122782" transformation="0.0 -1.0 1.34441587191e-18 1.0 0.0 9.84805152513e-18 -9.84805152513e-18 1.34441587191e-18 1.0 -1.39129225994 0.178259803121 0.08001" name="loopPanel.iam(0):0805:5">
+			<child node="loopPanel.iam(0):0805:1_BODY-20">
+			</child>
+		</group>
+		<group original_world_transform="1.0 4.38550160789e-17 4.16333634234e-17 -4.38550160789e-17 1.0 -2.5221192005e-16 -4.16333634234e-17 2.5221192005e-16 1.0 0.16696860913 0.0 3.21964677141e-15" transformation="-1.52655665886e-16 -1.0 1.85656652185e-16 5.51984661719e-16 1.85656652185e-16 1.0 -1.0 1.52655665886e-16 5.51984661719e-16 0.544708122782 0.283934585784 -8.29839837028" name="loopPanel.iam(0):0805:1_BODY-20">
+			<child node="loopPanel.iam(0):0805:1_BODY-21">
+			</child>
+			<child node="loopPanel.iam(0):0805:1_BODY-22">
+			</child>
+			<child node="loopPanel.iam(0):0805:1_BODY-23">
+			</child>
+			<child node="loopPanel.iam(0):0805:1_BODY-24">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="39" original_world_transform="1.0 4.38550160789e-17 4.16333634234e-17 -4.38550160789e-17 1.0 -2.5221192005e-16 -4.16333634234e-17 2.5221192005e-16 1.0 0.16696860913 0.0 3.21964677141e-15" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -2.22165265541e-18 -8.54883795023e-17 -8.54883795023e-17 -3.4450928484e-16 -1.0 2.22165265541e-18 1.0 -3.4450928484e-16 -1.38777878078e-16 -6.08509223753 1.20838858187" name="loopPanel.iam(0):0805:1_BODY-21">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="40" original_world_transform="1.0 4.38550160789e-17 4.16333634234e-17 -4.38550160789e-17 1.0 -2.5221192005e-16 -4.16333634234e-17 2.5221192005e-16 1.0 0.16696860913 0.0 3.21964677141e-15" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -2.22165265541e-18 -8.54883795023e-17 -8.54883795023e-17 -3.4450928484e-16 -1.0 2.22165265541e-18 1.0 -3.4450928484e-16 -1.38777878078e-16 -6.08509223753 1.20838858187" name="loopPanel.iam(0):0805:1_BODY-22">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="41" original_world_transform="1.0 4.38550160789e-17 4.16333634234e-17 -4.38550160789e-17 1.0 -2.5221192005e-16 -4.16333634234e-17 2.5221192005e-16 1.0 0.16696860913 0.0 3.21964677141e-15" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -2.22165265541e-18 -8.54883795023e-17 -8.54883795023e-17 -3.4450928484e-16 -1.0 2.22165265541e-18 1.0 -3.4450928484e-16 -1.38777878078e-16 -6.08509223753 1.20838858187" name="loopPanel.iam(0):0805:1_BODY-23">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="42" original_world_transform="1.0 4.38550160789e-17 4.16333634234e-17 -4.38550160789e-17 1.0 -2.5221192005e-16 -4.16333634234e-17 2.5221192005e-16 1.0 0.16696860913 0.0 3.21964677141e-15" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -2.22165265541e-18 -8.54883795023e-17 -8.54883795023e-17 -3.4450928484e-16 -1.0 2.22165265541e-18 1.0 -3.4450928484e-16 -1.38777878078e-16 -6.08509223753 1.20838858187" name="loopPanel.iam(0):0805:1_BODY-24">
+		</lod_group>
+		<group original_world_transform="-1.0 1.70254415667e-16 -4.02455846427e-16 -4.02455846427e-16 3.87120208687e-16 1.0 1.70254415667e-16 1.0 -3.87120208687e-16 -0.193969827295 8.29839837028 0.115867618329" transformation="1.0 -5.13478148889e-16 3.8300831086e-17 5.13478148889e-16 1.0 6.85548534484e-16 -3.8300831086e-17 -6.85548534484e-16 1.0 -0.746419237728 -0.250580701331 0.08001" name="loopPanel.iam(0):0805:6">
+			<child node="loopPanel.iam(0):0805:1_BODY-25">
+			</child>
+		</group>
+		<group original_world_transform="5.55111512313e-16 -2.01463556502e-16 -1.0 -3.81730246052e-16 1.0 -2.01463556502e-16 1.0 3.81730246052e-16 5.55111512313e-16 -0.738677950076 0.0 0.399802204114" transformation="-1.52655665886e-16 -1.0 1.85656652185e-16 5.51984661719e-16 1.85656652185e-16 1.0 -1.0 1.52655665886e-16 5.51984661719e-16 0.544708122782 0.283934585784 -8.29839837028" name="loopPanel.iam(0):0805:1_BODY-25">
+			<child node="loopPanel.iam(0):0805:1_BODY-26">
+			</child>
+			<child node="loopPanel.iam(0):0805:1_BODY-27">
+			</child>
+			<child node="loopPanel.iam(0):0805:1_BODY-28">
+			</child>
+			<child node="loopPanel.iam(0):0805:1_BODY-29">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="39" original_world_transform="5.55111512313e-16 -2.01463556502e-16 -1.0 -3.81730246052e-16 1.0 -2.01463556502e-16 1.0 3.81730246052e-16 5.55111512313e-16 -0.738677950076 0.0 0.399802204114" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="-3.4450928484e-16 -1.0 1.7338126626e-16 1.0 -3.4450928484e-16 -9.36841758365e-16 9.36841758365e-16 1.7338126626e-16 1.0 -0.808586377758 -5.68529003342 -1.7763568394e-15" name="loopPanel.iam(0):0805:1_BODY-26">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="40" original_world_transform="5.55111512313e-16 -2.01463556502e-16 -1.0 -3.81730246052e-16 1.0 -2.01463556502e-16 1.0 3.81730246052e-16 5.55111512313e-16 -0.738677950076 0.0 0.399802204114" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="-3.4450928484e-16 -1.0 1.7338126626e-16 1.0 -3.4450928484e-16 -9.36841758365e-16 9.36841758365e-16 1.7338126626e-16 1.0 -0.808586377758 -5.68529003342 -1.7763568394e-15" name="loopPanel.iam(0):0805:1_BODY-27">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="41" original_world_transform="5.55111512313e-16 -2.01463556502e-16 -1.0 -3.81730246052e-16 1.0 -2.01463556502e-16 1.0 3.81730246052e-16 5.55111512313e-16 -0.738677950076 0.0 0.399802204114" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="-3.4450928484e-16 -1.0 1.7338126626e-16 1.0 -3.4450928484e-16 -9.36841758365e-16 9.36841758365e-16 1.7338126626e-16 1.0 -0.808586377758 -5.68529003342 -1.7763568394e-15" name="loopPanel.iam(0):0805:1_BODY-28">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="42" original_world_transform="5.55111512313e-16 -2.01463556502e-16 -1.0 -3.81730246052e-16 1.0 -2.01463556502e-16 1.0 3.81730246052e-16 5.55111512313e-16 -0.738677950076 0.0 0.399802204114" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="-3.4450928484e-16 -1.0 1.7338126626e-16 1.0 -3.4450928484e-16 -9.36841758365e-16 9.36841758365e-16 1.7338126626e-16 1.0 -0.808586377758 -5.68529003342 -1.7763568394e-15" name="loopPanel.iam(0):0805:1_BODY-29">
+		</lod_group>
+		<group original_world_transform="-1.11022302463e-16 8.06617679903e-16 -1.0 -1.0 4.30016811117e-16 1.11022302463e-16 4.30016811117e-16 1.0 8.06617679903e-16 0.543650629371 8.29839837028 0.224115480989" transformation="-1.35585468085e-31 -1.0 5.08189354105e-16 1.0 0.0 2.98063226536e-16 -2.98063226536e-16 5.08189354105e-16 1.0 -1.48403969439 -0.142332838671 0.08001" name="loopPanel.iam(0):0805:7">
+			<child node="loopPanel.iam(0):0805:1_BODY-30">
+			</child>
+		</group>
+		<group original_world_transform="1.0 -2.44360158932e-16 4.16333634234e-17 2.44360158932e-16 1.0 2.54633018183e-16 -4.16333634234e-17 -2.54633018183e-16 1.0 0.259716043587 0.0 -0.320592641792" transformation="-1.52655665886e-16 -1.0 1.85656652185e-16 5.51984661719e-16 1.85656652185e-16 1.0 -1.0 1.52655665886e-16 5.51984661719e-16 0.544708122782 0.283934585784 -8.29839837028" name="loopPanel.iam(0):0805:1_BODY-30">
+			<child node="loopPanel.iam(0):0805:1_BODY-31">
+			</child>
+			<child node="loopPanel.iam(0):0805:1_BODY-32">
+			</child>
+			<child node="loopPanel.iam(0):0805:1_BODY-33">
+			</child>
+			<child node="loopPanel.iam(0):0805:1_BODY-34">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="39" original_world_transform="1.0 -2.44360158932e-16 4.16333634234e-17 2.44360158932e-16 1.0 2.54633018183e-16 -4.16333634234e-17 -2.54633018183e-16 1.0 0.259716043587 0.0 -0.320592641792" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 2.85993522356e-16 2.02726795509e-16 2.02726795509e-16 -3.4450928484e-16 -1.0 -2.85993522356e-16 1.0 -3.4450928484e-16 1.38777878078e-15 -6.40568487932 1.52898122366" name="loopPanel.iam(0):0805:1_BODY-31">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="40" original_world_transform="1.0 -2.44360158932e-16 4.16333634234e-17 2.44360158932e-16 1.0 2.54633018183e-16 -4.16333634234e-17 -2.54633018183e-16 1.0 0.259716043587 0.0 -0.320592641792" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 2.85993522356e-16 2.02726795509e-16 2.02726795509e-16 -3.4450928484e-16 -1.0 -2.85993522356e-16 1.0 -3.4450928484e-16 1.38777878078e-15 -6.40568487932 1.52898122366" name="loopPanel.iam(0):0805:1_BODY-32">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="41" original_world_transform="1.0 -2.44360158932e-16 4.16333634234e-17 2.44360158932e-16 1.0 2.54633018183e-16 -4.16333634234e-17 -2.54633018183e-16 1.0 0.259716043587 0.0 -0.320592641792" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 2.85993522356e-16 2.02726795509e-16 2.02726795509e-16 -3.4450928484e-16 -1.0 -2.85993522356e-16 1.0 -3.4450928484e-16 1.38777878078e-15 -6.40568487932 1.52898122366" name="loopPanel.iam(0):0805:1_BODY-33">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="42" original_world_transform="1.0 -2.44360158932e-16 4.16333634234e-17 2.44360158932e-16 1.0 2.54633018183e-16 -4.16333634234e-17 -2.54633018183e-16 1.0 0.259716043587 0.0 -0.320592641792" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 2.85993522356e-16 2.02726795509e-16 2.02726795509e-16 -3.4450928484e-16 -1.0 -2.85993522356e-16 1.0 -3.4450928484e-16 1.38777878078e-15 -6.40568487932 1.52898122366" name="loopPanel.iam(0):0805:1_BODY-34">
+		</lod_group>
+		<group original_world_transform="-1.11022302463e-16 1.33366281062e-16 -1.0 -1.0 -2.51182624508e-16 1.11022302463e-16 -2.51182624508e-16 1.0 1.33366281062e-16 -0.079385903921 8.30039837028 0.550095104635" transformation="-6.16297582204e-32 -1.0 -1.65062044735e-16 1.0 0.0 -3.83136209088e-16 3.83136209088e-16 -1.65062044735e-16 1.0 -0.861003161101 0.183646784975 0.0820100000034" name="loopPanel.iam(0):0805 Capacitor:1">
+			<child node="loopPanel.iam(0):0805 Capacitor:1_BODY">
+			</child>
+		</group>
+		<group original_world_transform="1.0 0.0 3.47856243416e-33 0.0 1.0 0.0 3.47856243416e-33 0.0 1.0 0.0 0.0 0.0" transformation="-1.11022302463e-16 -1.0 -2.51182624508e-16 1.33366281062e-16 -2.51182624508e-16 1.0 -1.0 1.11022302463e-16 1.33366281062e-16 0.550095104635 -0.079385903921 -8.30039837028" name="loopPanel.iam(0):0805 Capacitor:1_BODY">
+			<child node="loopPanel.iam(0):0805 Capacitor:1_BODY-1">
+			</child>
+			<child node="loopPanel.iam(0):0805 Capacitor:1_BODY-2">
+			</child>
+			<child node="loopPanel.iam(0):0805 Capacitor:1_BODY-3">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="43" name="loopPanel.iam(0):0805 Capacitor:1_BODY-1" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 6.53311064531e-33 -6.53311064531e-33 3.47856243416e-33 -3.4450928484e-16 -1.0 3.47856243416e-33 1.0 -3.4450928484e-16 -4.20345512676e-33 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="44" name="loopPanel.iam(0):0805 Capacitor:1_BODY-2" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 6.53311064531e-33 -6.53311064531e-33 3.47856243416e-33 -3.4450928484e-16 -1.0 3.47856243416e-33 1.0 -3.4450928484e-16 -4.20345512676e-33 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="45" name="loopPanel.iam(0):0805 Capacitor:1_BODY-3" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 6.53311064531e-33 -6.53311064531e-33 3.47856243416e-33 -3.4450928484e-16 -1.0 3.47856243416e-33 1.0 -3.4450928484e-16 -4.20345512676e-33 -6.08509223753 1.20838858187">
+		</lod_group>
+		<group original_world_transform="3.60822483003e-16 1.42075420097e-16 -1.0 -1.0 -3.81352307772e-17 -3.60822483003e-16 -3.81352307772e-17 1.0 1.42075420097e-16 -0.426472706462 8.30039837029 0.550095104635" transformation="-4.71844785466e-16 -1.0 -1.563529057e-16 1.0 -4.71844785466e-16 -1.70088815358e-16 1.70088815358e-16 -1.563529057e-16 1.0 -0.513916358561 0.183646784975 0.0820100000069" name="loopPanel.iam(0):0805 Capacitor:2">
+			<child node="loopPanel.iam(0):0805 Capacitor:1_BODY-4">
+			</child>
+		</group>
+		<group original_world_transform="1.0 -2.1304739373e-16 4.71844785466e-16 2.1304739373e-16 1.0 8.70913903487e-18 -4.71844785466e-16 -8.70913903487e-18 1.0 -0.347086802541 3.43369777056e-12 -4.4408920985e-16" transformation="-1.11022302463e-16 -1.0 -2.51182624508e-16 1.33366281062e-16 -2.51182624508e-16 1.0 -1.0 1.11022302463e-16 1.33366281062e-16 0.550095104635 -0.079385903921 -8.30039837028" name="loopPanel.iam(0):0805 Capacitor:1_BODY-4">
+			<child node="loopPanel.iam(0):0805 Capacitor:1_BODY-5">
+			</child>
+			<child node="loopPanel.iam(0):0805 Capacitor:1_BODY-6">
+			</child>
+			<child node="loopPanel.iam(0):0805 Capacitor:1_BODY-7">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="43" original_world_transform="1.0 -2.1304739373e-16 4.71844785466e-16 2.1304739373e-16 1.0 8.70913903487e-18 -4.71844785466e-16 -8.70913903487e-18 1.0 -0.347086802541 3.43369777056e-12 -4.4408920985e-16" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 6.84892179196e-16 -2.58797391735e-16 -2.58797391735e-16 -3.4450928484e-16 -1.0 -6.84892179196e-16 1.0 -3.4450928484e-16 1.72084568817e-15 -6.08509223753 1.20838858187" name="loopPanel.iam(0):0805 Capacitor:1_BODY-5">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="44" original_world_transform="1.0 -2.1304739373e-16 4.71844785466e-16 2.1304739373e-16 1.0 8.70913903487e-18 -4.71844785466e-16 -8.70913903487e-18 1.0 -0.347086802541 3.43369777056e-12 -4.4408920985e-16" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 6.84892179196e-16 -2.58797391735e-16 -2.58797391735e-16 -3.4450928484e-16 -1.0 -6.84892179196e-16 1.0 -3.4450928484e-16 1.72084568817e-15 -6.08509223753 1.20838858187" name="loopPanel.iam(0):0805 Capacitor:1_BODY-6">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="45" original_world_transform="1.0 -2.1304739373e-16 4.71844785466e-16 2.1304739373e-16 1.0 8.70913903487e-18 -4.71844785466e-16 -8.70913903487e-18 1.0 -0.347086802541 3.43369777056e-12 -4.4408920985e-16" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 6.84892179196e-16 -2.58797391735e-16 -2.58797391735e-16 -3.4450928484e-16 -1.0 -6.84892179196e-16 1.0 -3.4450928484e-16 1.72084568817e-15 -6.08509223753 1.20838858187" name="loopPanel.iam(0):0805 Capacitor:1_BODY-7">
+		</lod_group>
+		<group original_world_transform="-1.52655665886e-16 2.95770182366e-16 -1.0 -1.0 -3.09746796499e-17 1.52655665886e-16 -3.09746796499e-17 1.0 2.95770182366e-16 0.718480541886 8.30039837028 0.217589424172" transformation="4.16333634234e-17 -1.0 -2.65814343141e-18 1.0 4.16333634234e-17 -1.62928264231e-16 1.62928264231e-16 -2.65814343141e-18 1.0 -1.65886960691 -0.148858895488 0.08201" name="loopPanel.iam(0):0805 Capacitor:3">
+			<child node="loopPanel.iam(0):0805 Capacitor:1_BODY-8">
+			</child>
+		</group>
+		<group original_world_transform="1.0 -2.20207944858e-16 -4.16333634234e-17 2.20207944858e-16 1.0 1.62403901304e-16 4.16333634234e-17 -1.62403901304e-16 1.0 0.797866445807 -3.4354741274e-12 -0.332505680463" transformation="-1.11022302463e-16 -1.0 -2.51182624508e-16 1.33366281062e-16 -2.51182624508e-16 1.0 -1.0 1.11022302463e-16 1.33366281062e-16 0.550095104635 -0.079385903921 -8.30039837028" name="loopPanel.iam(0):0805 Capacitor:1_BODY-8">
+			<child node="loopPanel.iam(0):0805 Capacitor:1_BODY-9">
+			</child>
+			<child node="loopPanel.iam(0):0805 Capacitor:1_BODY-10">
+			</child>
+			<child node="loopPanel.iam(0):0805 Capacitor:1_BODY-11">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="43" original_world_transform="1.0 -2.20207944858e-16 -4.16333634234e-17 2.20207944858e-16 1.0 1.62403901304e-16 4.16333634234e-17 -1.62403901304e-16 1.0 0.797866445807 -3.4354741274e-12 -0.332505680463" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 1.78574581434e-16 2.61841308281e-16 2.61841308281e-16 -3.4450928484e-16 -1.0 -1.78574581434e-16 1.0 -3.4450928484e-16 1.7763568394e-15 -6.41759791799 1.54089426234" name="loopPanel.iam(0):0805 Capacitor:1_BODY-9">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="44" original_world_transform="1.0 -2.20207944858e-16 -4.16333634234e-17 2.20207944858e-16 1.0 1.62403901304e-16 4.16333634234e-17 -1.62403901304e-16 1.0 0.797866445807 -3.4354741274e-12 -0.332505680463" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 1.78574581434e-16 2.61841308281e-16 2.61841308281e-16 -3.4450928484e-16 -1.0 -1.78574581434e-16 1.0 -3.4450928484e-16 1.7763568394e-15 -6.41759791799 1.54089426234" name="loopPanel.iam(0):0805 Capacitor:1_BODY-10">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="45" original_world_transform="1.0 -2.20207944858e-16 -4.16333634234e-17 2.20207944858e-16 1.0 1.62403901304e-16 4.16333634234e-17 -1.62403901304e-16 1.0 0.797866445807 -3.4354741274e-12 -0.332505680463" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 1.78574581434e-16 2.61841308281e-16 2.61841308281e-16 -3.4450928484e-16 -1.0 -1.78574581434e-16 1.0 -3.4450928484e-16 1.7763568394e-15 -6.41759791799 1.54089426234" name="loopPanel.iam(0):0805 Capacitor:1_BODY-11">
+		</lod_group>
+		<group original_world_transform="-1.66533453694e-16 2.55495478081e-16 -1.0 -1.0 8.4072531764e-17 1.66533453694e-16 8.4072531764e-17 1.0 2.55495478081e-16 -0.638119186562 8.29839837028 0.225933526106" transformation="5.55111512313e-17 -1.0 -4.2932847716e-17 1.0 5.55111512313e-17 -4.7881052817e-17 4.7881052817e-17 -4.2932847716e-17 1.0 -0.302269878461 -0.140514793554 0.08001" name="loopPanel.iam(0):128-0711-201:1">
+			<child node="loopPanel.iam(0):128-0711-201:1_BODY">
+			</child>
+		</group>
+		<group original_world_transform="1.0 0.0 -3.1717515916e-33 0.0 1.0 0.0 -3.1717515916e-33 0.0 1.0 0.0 0.0 0.0" transformation="-1.66533453694e-16 -1.0 8.4072531764e-17 2.55495478081e-16 8.4072531764e-17 1.0 -1.0 1.66533453694e-16 2.55495478081e-16 0.225933526106 -0.638119186562 -8.29839837028" name="loopPanel.iam(0):128-0711-201:1_BODY">
+			<child node="loopPanel.iam(0):128-0711-201:1_BODY-1">
+			</child>
+			<child node="loopPanel.iam(0):128-0711-201:1_BODY-2">
+			</child>
+			<child node="loopPanel.iam(0):128-0711-201:1_BODY-3">
+			</child>
+			<child node="loopPanel.iam(0):128-0711-201:1_BODY-4">
+			</child>
+			<child node="loopPanel.iam(0):128-0711-201:1_BODY-5">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="46" name="loopPanel.iam(0):128-0711-201:1_BODY-1" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -8.31970943765e-33 8.31970943765e-33 -3.1717515916e-33 -3.4450928484e-16 -1.0 -3.1717515916e-33 1.0 -3.4450928484e-16 3.83270840782e-33 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="47" name="loopPanel.iam(0):128-0711-201:1_BODY-2" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -8.31970943765e-33 8.31970943765e-33 -3.1717515916e-33 -3.4450928484e-16 -1.0 -3.1717515916e-33 1.0 -3.4450928484e-16 3.83270840782e-33 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="48" name="loopPanel.iam(0):128-0711-201:1_BODY-3" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -8.31970943765e-33 8.31970943765e-33 -3.1717515916e-33 -3.4450928484e-16 -1.0 -3.1717515916e-33 1.0 -3.4450928484e-16 3.83270840782e-33 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="49" name="loopPanel.iam(0):128-0711-201:1_BODY-4" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -8.31970943765e-33 8.31970943765e-33 -3.1717515916e-33 -3.4450928484e-16 -1.0 -3.1717515916e-33 1.0 -3.4450928484e-16 3.83270840782e-33 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="50" name="loopPanel.iam(0):128-0711-201:1_BODY-5" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -8.31970943765e-33 8.31970943765e-33 -3.1717515916e-33 -3.4450928484e-16 -1.0 -3.1717515916e-33 1.0 -3.4450928484e-16 3.83270840782e-33 -6.08509223753 1.20838858187">
+		</lod_group>
+		<group original_world_transform="-1.2414114875e-16 2.75824172435e-16 -1.0 -1.0 4.35266658654e-16 1.2414114875e-16 4.35266658654e-16 1.0 2.75824172435e-16 0.255239270761 8.29704146029 0.37800412534" transformation="1.31188462871e-17 -1.0 -2.26041533624e-17 1.0 1.31188462871e-17 3.03313074074e-16 -3.03313074074e-16 -2.26041533624e-17 1.0 -1.19562833578 0.0115558056803 0.0786530900121" name="loopPanel.iam(0):SOT23_5:1">
+			<child node="loopPanel.iam(0):SOT23_5:1_BODY">
+			</child>
+		</group>
+		<group original_world_transform="1.0 0.0 -3.20245052886e-33 0.0 1.0 0.0 -3.20245052886e-33 0.0 1.0 0.0 0.0 1.11022302463e-16" transformation="-1.2414114875e-16 -1.0 4.35266658654e-16 2.75824172435e-16 4.35266658654e-16 1.0 -1.0 1.2414114875e-16 2.75824172435e-16 0.37800412534 0.255239270761 -8.29704146029" name="loopPanel.iam(0):SOT23_5:1_BODY">
+			<child node="loopPanel.iam(0):SOT23_5:1_BODY-1">
+			</child>
+			<child node="loopPanel.iam(0):SOT23_5:1_BODY-2">
+			</child>
+			<child node="loopPanel.iam(0):SOT23_5:1_BODY-3">
+			</child>
+			<child node="loopPanel.iam(0):SOT23_5:1_BODY-4">
+			</child>
+			<child node="loopPanel.iam(0):SOT23_5:1_BODY-5">
+			</child>
+			<child node="loopPanel.iam(0):SOT23_5:1_BODY-6">
+			</child>
+			<child node="loopPanel.iam(0):SOT23_5:1_BODY-7">
+			</child>
+			<child node="loopPanel.iam(0):SOT23_5:1_BODY-8">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="51" name="loopPanel.iam(0):SOT23_5:1_BODY-1" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -5.20294325554e-33 5.20294325554e-33 -3.20245052886e-33 -3.4450928484e-16 -1.0 -3.20245052886e-33 1.0 -3.4450928484e-16 3.86980465309e-33 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="52" name="loopPanel.iam(0):SOT23_5:1_BODY-2" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -5.20294325554e-33 5.20294325554e-33 -3.20245052886e-33 -3.4450928484e-16 -1.0 -3.20245052886e-33 1.0 -3.4450928484e-16 3.86980465309e-33 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="53" name="loopPanel.iam(0):SOT23_5:1_BODY-3" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -5.20294325554e-33 5.20294325554e-33 -3.20245052886e-33 -3.4450928484e-16 -1.0 -3.20245052886e-33 1.0 -3.4450928484e-16 3.86980465309e-33 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="54" name="loopPanel.iam(0):SOT23_5:1_BODY-4" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -5.20294325554e-33 5.20294325554e-33 -3.20245052886e-33 -3.4450928484e-16 -1.0 -3.20245052886e-33 1.0 -3.4450928484e-16 3.86980465309e-33 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="55" name="loopPanel.iam(0):SOT23_5:1_BODY-5" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -5.20294325554e-33 5.20294325554e-33 -3.20245052886e-33 -3.4450928484e-16 -1.0 -3.20245052886e-33 1.0 -3.4450928484e-16 3.86980465309e-33 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="56" name="loopPanel.iam(0):SOT23_5:1_BODY-6" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -5.20294325554e-33 5.20294325554e-33 -3.20245052886e-33 -3.4450928484e-16 -1.0 -3.20245052886e-33 1.0 -3.4450928484e-16 3.86980465309e-33 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="57" name="loopPanel.iam(0):SOT23_5:1_BODY-7" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -5.20294325554e-33 5.20294325554e-33 -3.20245052886e-33 -3.4450928484e-16 -1.0 -3.20245052886e-33 1.0 -3.4450928484e-16 3.86980465309e-33 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="58" name="loopPanel.iam(0):SOT23_5:1_BODY-8" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -5.20294325554e-33 5.20294325554e-33 -3.20245052886e-33 -3.4450928484e-16 -1.0 -3.20245052886e-33 1.0 -3.4450928484e-16 3.86980465309e-33 -6.08509223753 1.20838858187">
+		</lod_group>
+		<group original_world_transform="-1.0 1.32353437317e-16 -3.68458651831e-16 1.32353437317e-16 1.0 2.8888734668e-16 3.68458651831e-16 2.8888734668e-16 -1.0 -0.938926316345 8.29839837028 0.0784362332589" transformation="1.0 -4.79480954294e-16 3.99852736528e-19 -3.99852736528e-19 -9.54097911787e-18 1.0 -4.79480954294e-16 -1.0 -9.54097911787e-18 -0.00146274867741 -0.288012086401 0.08001" name="loopPanel.iam(0):FH33-4S-1SH:1">
+			<child node="loopPanel.iam(0):FH33-4S-1SH:1_BODY">
+			</child>
+		</group>
+		<group original_world_transform="1.0 7.83542913598e-33 0.0 7.83542913598e-33 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="-1.0 1.32353437317e-16 3.68458651831e-16 1.32353437317e-16 1.0 2.8888734668e-16 -3.68458651831e-16 2.8888734668e-16 -1.0 -0.938926316345 -8.29839837028 0.0784362332589" name="loopPanel.iam(0):FH33-4S-1SH:1_BODY">
+			<child node="loopPanel.iam(0):FH33-4S-1SH:1_BODY-1">
+			</child>
+			<child node="loopPanel.iam(0):FH33-4S-1SH:1_BODY-2">
+			</child>
+			<child node="loopPanel.iam(0):FH33-4S-1SH:1_BODY-3">
+			</child>
+			<child node="loopPanel.iam(0):FH33-4S-1SH:1_BODY-4">
+			</child>
+			<child node="loopPanel.iam(0):FH33-4S-1SH:1_BODY-5">
+			</child>
+			<child node="loopPanel.iam(0):FH33-4S-1SH:1_BODY-6">
+			</child>
+			<child node="loopPanel.iam(0):FH33-4S-1SH:1_BODY-7">
+			</child>
+			<child node="loopPanel.iam(0):FH33-4S-1SH:1_BODY-8">
+			</child>
+			<child node="loopPanel.iam(0):FH33-4S-1SH:1_BODY-9">
+			</child>
+			<child node="loopPanel.iam(0):FH33-4S-1SH:1_BODY-10">
+			</child>
+			<child node="loopPanel.iam(0):FH33-4S-1SH:1_BODY-11">
+			</child>
+			<child node="loopPanel.iam(0):FH33-4S-1SH:1_BODY-12">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="59" name="loopPanel.iam(0):FH33-4S-1SH:1_BODY-1" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 3.93780595813e-32 -5.92295535713e-32 7.83542913598e-33 -3.4450928484e-16 -1.0 -7.83542913598e-33 1.0 -3.4450928484e-16 4.76793090131e-32 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="60" name="loopPanel.iam(0):FH33-4S-1SH:1_BODY-2" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 3.93780595813e-32 -5.92295535713e-32 7.83542913598e-33 -3.4450928484e-16 -1.0 -7.83542913598e-33 1.0 -3.4450928484e-16 4.76793090131e-32 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="61" name="loopPanel.iam(0):FH33-4S-1SH:1_BODY-3" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 3.93780595813e-32 -5.92295535713e-32 7.83542913598e-33 -3.4450928484e-16 -1.0 -7.83542913598e-33 1.0 -3.4450928484e-16 4.76793090131e-32 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="62" name="loopPanel.iam(0):FH33-4S-1SH:1_BODY-4" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 3.93780595813e-32 -5.92295535713e-32 7.83542913598e-33 -3.4450928484e-16 -1.0 -7.83542913598e-33 1.0 -3.4450928484e-16 4.76793090131e-32 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="63" name="loopPanel.iam(0):FH33-4S-1SH:1_BODY-5" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 3.93780595813e-32 -5.92295535713e-32 7.83542913598e-33 -3.4450928484e-16 -1.0 -7.83542913598e-33 1.0 -3.4450928484e-16 4.76793090131e-32 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="64" name="loopPanel.iam(0):FH33-4S-1SH:1_BODY-6" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 3.93780595813e-32 -5.92295535713e-32 7.83542913598e-33 -3.4450928484e-16 -1.0 -7.83542913598e-33 1.0 -3.4450928484e-16 4.76793090131e-32 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="65" name="loopPanel.iam(0):FH33-4S-1SH:1_BODY-7" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 3.93780595813e-32 -5.92295535713e-32 7.83542913598e-33 -3.4450928484e-16 -1.0 -7.83542913598e-33 1.0 -3.4450928484e-16 4.76793090131e-32 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="66" name="loopPanel.iam(0):FH33-4S-1SH:1_BODY-8" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 3.93780595813e-32 -5.92295535713e-32 7.83542913598e-33 -3.4450928484e-16 -1.0 -7.83542913598e-33 1.0 -3.4450928484e-16 4.76793090131e-32 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="67" name="loopPanel.iam(0):FH33-4S-1SH:1_BODY-9" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 3.93780595813e-32 -5.92295535713e-32 7.83542913598e-33 -3.4450928484e-16 -1.0 -7.83542913598e-33 1.0 -3.4450928484e-16 4.76793090131e-32 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="68" name="loopPanel.iam(0):FH33-4S-1SH:1_BODY-10" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 3.93780595813e-32 -5.92295535713e-32 7.83542913598e-33 -3.4450928484e-16 -1.0 -7.83542913598e-33 1.0 -3.4450928484e-16 4.76793090131e-32 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="69" name="loopPanel.iam(0):FH33-4S-1SH:1_BODY-11" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 3.93780595813e-32 -5.92295535713e-32 7.83542913598e-33 -3.4450928484e-16 -1.0 -7.83542913598e-33 1.0 -3.4450928484e-16 4.76793090131e-32 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="70" name="loopPanel.iam(0):FH33-4S-1SH:1_BODY-12" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 3.93780595813e-32 -5.92295535713e-32 7.83542913598e-33 -3.4450928484e-16 -1.0 -7.83542913598e-33 1.0 -3.4450928484e-16 4.76793090131e-32 -6.08509223753 1.20838858187">
+		</lod_group>
+		<group original_world_transform="1.0 -1.40891529426e-16 3.74700270811e-16 1.40891529426e-16 1.0 2.99160162264e-16 -3.74700270811e-16 -2.99160162264e-16 1.0 0.915967243585 8.29839837028 0.679453438668" transformation="-1.0 4.85722573274e-16 -8.93794484485e-18 -8.93794484485e-18 7.31836466428e-19 1.0 4.85722573274e-16 1.0 -7.31836466428e-19 -1.85635630861 0.313005119008 0.08001" name="loopPanel.iam(0):FH33-4S-1SH:2">
+			<child node="loopPanel.iam(0):FH33-4S-1SH:1_BODY-13">
+			</child>
+		</group>
+		<group original_world_transform="-1.0 2.73244966743e-16 -6.24161897992e-18 2.73244966743e-16 1.0 5.88047508943e-16 6.24161897992e-18 5.88047508943e-16 -1.0 -0.0229590727598 0.0 0.757889671927" transformation="-1.0 1.32353437317e-16 3.68458651831e-16 1.32353437317e-16 1.0 2.8888734668e-16 -3.68458651831e-16 2.8888734668e-16 -1.0 -0.938926316345 -8.29839837028 0.0784362332589" name="loopPanel.iam(0):FH33-4S-1SH:1_BODY-13">
+			<child node="loopPanel.iam(0):FH33-4S-1SH:1_BODY-14">
+			</child>
+			<child node="loopPanel.iam(0):FH33-4S-1SH:1_BODY-15">
+			</child>
+			<child node="loopPanel.iam(0):FH33-4S-1SH:1_BODY-16">
+			</child>
+			<child node="loopPanel.iam(0):FH33-4S-1SH:1_BODY-17">
+			</child>
+			<child node="loopPanel.iam(0):FH33-4S-1SH:1_BODY-18">
+			</child>
+			<child node="loopPanel.iam(0):FH33-4S-1SH:1_BODY-19">
+			</child>
+			<child node="loopPanel.iam(0):FH33-4S-1SH:1_BODY-20">
+			</child>
+			<child node="loopPanel.iam(0):FH33-4S-1SH:1_BODY-21">
+			</child>
+			<child node="loopPanel.iam(0):FH33-4S-1SH:1_BODY-22">
+			</child>
+			<child node="loopPanel.iam(0):FH33-4S-1SH:1_BODY-23">
+			</child>
+			<child node="loopPanel.iam(0):FH33-4S-1SH:1_BODY-24">
+			</child>
+			<child node="loopPanel.iam(0):FH33-4S-1SH:1_BODY-25">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="59" original_world_transform="-1.0 2.73244966743e-16 -6.24161897992e-18 2.73244966743e-16 1.0 5.88047508943e-16 6.24161897992e-18 5.88047508943e-16 -1.0 -0.0229590727598 0.0 0.757889671927" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -2.79486585723e-16 2.67003347763e-16 -2.67003347763e-16 -3.4450928484e-16 1.0 -2.79486585723e-16 -1.0 -3.4450928484e-16 -1.47451495458e-15 -5.3272025656 -0.450498909945" name="loopPanel.iam(0):FH33-4S-1SH:1_BODY-14">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="60" original_world_transform="-1.0 2.73244966743e-16 -6.24161897992e-18 2.73244966743e-16 1.0 5.88047508943e-16 6.24161897992e-18 5.88047508943e-16 -1.0 -0.0229590727598 0.0 0.757889671927" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -2.79486585723e-16 2.67003347763e-16 -2.67003347763e-16 -3.4450928484e-16 1.0 -2.79486585723e-16 -1.0 -3.4450928484e-16 -1.47451495458e-15 -5.3272025656 -0.450498909945" name="loopPanel.iam(0):FH33-4S-1SH:1_BODY-15">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="61" original_world_transform="-1.0 2.73244966743e-16 -6.24161897992e-18 2.73244966743e-16 1.0 5.88047508943e-16 6.24161897992e-18 5.88047508943e-16 -1.0 -0.0229590727598 0.0 0.757889671927" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -2.79486585723e-16 2.67003347763e-16 -2.67003347763e-16 -3.4450928484e-16 1.0 -2.79486585723e-16 -1.0 -3.4450928484e-16 -1.47451495458e-15 -5.3272025656 -0.450498909945" name="loopPanel.iam(0):FH33-4S-1SH:1_BODY-16">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="62" original_world_transform="-1.0 2.73244966743e-16 -6.24161897992e-18 2.73244966743e-16 1.0 5.88047508943e-16 6.24161897992e-18 5.88047508943e-16 -1.0 -0.0229590727598 0.0 0.757889671927" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -2.79486585723e-16 2.67003347763e-16 -2.67003347763e-16 -3.4450928484e-16 1.0 -2.79486585723e-16 -1.0 -3.4450928484e-16 -1.47451495458e-15 -5.3272025656 -0.450498909945" name="loopPanel.iam(0):FH33-4S-1SH:1_BODY-17">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="63" original_world_transform="-1.0 2.73244966743e-16 -6.24161897992e-18 2.73244966743e-16 1.0 5.88047508943e-16 6.24161897992e-18 5.88047508943e-16 -1.0 -0.0229590727598 0.0 0.757889671927" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -2.79486585723e-16 2.67003347763e-16 -2.67003347763e-16 -3.4450928484e-16 1.0 -2.79486585723e-16 -1.0 -3.4450928484e-16 -1.47451495458e-15 -5.3272025656 -0.450498909945" name="loopPanel.iam(0):FH33-4S-1SH:1_BODY-18">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="64" original_world_transform="-1.0 2.73244966743e-16 -6.24161897992e-18 2.73244966743e-16 1.0 5.88047508943e-16 6.24161897992e-18 5.88047508943e-16 -1.0 -0.0229590727598 0.0 0.757889671927" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -2.79486585723e-16 2.67003347763e-16 -2.67003347763e-16 -3.4450928484e-16 1.0 -2.79486585723e-16 -1.0 -3.4450928484e-16 -1.47451495458e-15 -5.3272025656 -0.450498909945" name="loopPanel.iam(0):FH33-4S-1SH:1_BODY-19">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="65" original_world_transform="-1.0 2.73244966743e-16 -6.24161897992e-18 2.73244966743e-16 1.0 5.88047508943e-16 6.24161897992e-18 5.88047508943e-16 -1.0 -0.0229590727598 0.0 0.757889671927" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -2.79486585723e-16 2.67003347763e-16 -2.67003347763e-16 -3.4450928484e-16 1.0 -2.79486585723e-16 -1.0 -3.4450928484e-16 -1.47451495458e-15 -5.3272025656 -0.450498909945" name="loopPanel.iam(0):FH33-4S-1SH:1_BODY-20">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="66" original_world_transform="-1.0 2.73244966743e-16 -6.24161897992e-18 2.73244966743e-16 1.0 5.88047508943e-16 6.24161897992e-18 5.88047508943e-16 -1.0 -0.0229590727598 0.0 0.757889671927" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -2.79486585723e-16 2.67003347763e-16 -2.67003347763e-16 -3.4450928484e-16 1.0 -2.79486585723e-16 -1.0 -3.4450928484e-16 -1.47451495458e-15 -5.3272025656 -0.450498909945" name="loopPanel.iam(0):FH33-4S-1SH:1_BODY-21">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="67" original_world_transform="-1.0 2.73244966743e-16 -6.24161897992e-18 2.73244966743e-16 1.0 5.88047508943e-16 6.24161897992e-18 5.88047508943e-16 -1.0 -0.0229590727598 0.0 0.757889671927" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -2.79486585723e-16 2.67003347763e-16 -2.67003347763e-16 -3.4450928484e-16 1.0 -2.79486585723e-16 -1.0 -3.4450928484e-16 -1.47451495458e-15 -5.3272025656 -0.450498909945" name="loopPanel.iam(0):FH33-4S-1SH:1_BODY-22">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="68" original_world_transform="-1.0 2.73244966743e-16 -6.24161897992e-18 2.73244966743e-16 1.0 5.88047508943e-16 6.24161897992e-18 5.88047508943e-16 -1.0 -0.0229590727598 0.0 0.757889671927" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -2.79486585723e-16 2.67003347763e-16 -2.67003347763e-16 -3.4450928484e-16 1.0 -2.79486585723e-16 -1.0 -3.4450928484e-16 -1.47451495458e-15 -5.3272025656 -0.450498909945" name="loopPanel.iam(0):FH33-4S-1SH:1_BODY-23">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="69" original_world_transform="-1.0 2.73244966743e-16 -6.24161897992e-18 2.73244966743e-16 1.0 5.88047508943e-16 6.24161897992e-18 5.88047508943e-16 -1.0 -0.0229590727598 0.0 0.757889671927" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -2.79486585723e-16 2.67003347763e-16 -2.67003347763e-16 -3.4450928484e-16 1.0 -2.79486585723e-16 -1.0 -3.4450928484e-16 -1.47451495458e-15 -5.3272025656 -0.450498909945" name="loopPanel.iam(0):FH33-4S-1SH:1_BODY-24">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="70" original_world_transform="-1.0 2.73244966743e-16 -6.24161897992e-18 2.73244966743e-16 1.0 5.88047508943e-16 6.24161897992e-18 5.88047508943e-16 -1.0 -0.0229590727598 0.0 0.757889671927" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -2.79486585723e-16 2.67003347763e-16 -2.67003347763e-16 -3.4450928484e-16 1.0 -2.79486585723e-16 -1.0 -3.4450928484e-16 -1.47451495458e-15 -5.3272025656 -0.450498909945" name="loopPanel.iam(0):FH33-4S-1SH:1_BODY-25">
+		</lod_group>
+		<group original_world_transform="-0.00259841642485 -2.79814147891e-16 0.99999662411 -0.99999662411 -1.62125086633e-16 -0.00259841642485 1.62851612994e-16 -1.0 -2.79391934781e-16 -0.169522361759 8.13837837028 0.477452657041" transformation="0.00259841642485 0.99999662411 1.82703000842e-17 0.99999662411 -0.00259841642485 -2.94853666816e-16 -2.94805197575e-16 1.90363910165e-17 -1.0 -0.770866703264 0.111004337381 -0.08001" name="loopPanel.iam(0):MPPC:1">
+			<child node="loopPanel.iam(0):MPPC:1_BODY">
+			</child>
+		</group>
+		<group original_world_transform="1.0 4.93038065763e-32 -4.54994272366e-32 4.93038065763e-32 1.0 9.86076131526e-32 8.67361737988e-19 0.0 1.0 0.0 0.0 1.11022302463e-16" transformation="-0.00259841642485 -0.99999662411 1.62851612994e-16 -2.79814147891e-16 -1.62125086633e-16 -1.0 0.99999662411 -0.00259841642485 -2.79391934781e-16 -0.477891534903 -0.168281168644 8.13837837028" name="loopPanel.iam(0):MPPC:1_BODY">
+			<child node="loopPanel.iam(0):MPPC:1_BODY-1">
+			</child>
+			<child node="loopPanel.iam(0):MPPC:1_BODY-2">
+			</child>
+			<child node="loopPanel.iam(0):MPPC:1_BODY-3">
+			</child>
+			<child node="loopPanel.iam(0):MPPC:1_BODY-4">
+			</child>
+			<child node="loopPanel.iam(0):MPPC:1_BODY-5">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="71" name="loopPanel.iam(0):MPPC:1_BODY-1" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -8.48314484834e-32 -1.37761646692e-32 8.67361737988e-19 -3.4450928484e-16 -1.0 8.67361737988e-19 1.0 -3.4450928484e-16 -1.04811002054e-18 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="72" name="loopPanel.iam(0):MPPC:1_BODY-2" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -8.48314484834e-32 -1.37761646692e-32 8.67361737988e-19 -3.4450928484e-16 -1.0 8.67361737988e-19 1.0 -3.4450928484e-16 -1.04811002054e-18 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="73" name="loopPanel.iam(0):MPPC:1_BODY-3" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -8.48314484834e-32 -1.37761646692e-32 8.67361737988e-19 -3.4450928484e-16 -1.0 8.67361737988e-19 1.0 -3.4450928484e-16 -1.04811002054e-18 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="74" name="loopPanel.iam(0):MPPC:1_BODY-4" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -8.48314484834e-32 -1.37761646692e-32 8.67361737988e-19 -3.4450928484e-16 -1.0 8.67361737988e-19 1.0 -3.4450928484e-16 -1.04811002054e-18 -6.08509223753 1.20838858187">
+		</lod_group>
+		<lod_group priority="3" levels="3" src_id="75" name="loopPanel.iam(0):MPPC:1_BODY-5" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 -8.48314484834e-32 -1.37761646692e-32 8.67361737988e-19 -3.4450928484e-16 -1.0 8.67361737988e-19 1.0 -3.4450928484e-16 -1.04811002054e-18 -6.08509223753 1.20838858187">
+		</lod_group>
+		<group transformation="0.686879849559 -1.04689672017e-16 -0.726770990251 -0.726770990251 9.10388999896e-16 -0.686879849559 7.33553541133e-16 1.0 5.49242442687e-16 -2.1689189164 8.29839837028 0.25" name="loopPanel.iam(0):m3x8:1">
+			<child node="loopPanel.iam(0):m3x8:1_BODY">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="76" original_world_transform="1.0 0.0 4.02898738774e-31 -3.94430452611e-31 1.0 -2.95822839458e-31 4.02898738774e-31 0.0 1.0 0.0 0.0 -5.55111512313e-17" original_transform="0.686879849559 -0.726770990251 7.33553541133e-16 -1.04689672017e-16 9.10388999896e-16 1.0 -0.726770990251 -0.686879849559 5.49242442687e-16 1.67147944657 -1.40458738626 -8.29839837028" transformation="0.686879849559 -0.726770990251 7.33553541133e-16 0.726770990251 0.686879849559 -8.93751727527e-16 1.45689682077e-16 1.14702548564e-15 1.0 0.79325768031 -2.23460515358 -14.3834906078" name="loopPanel.iam(0):m3x8:1_BODY">
+		</lod_group>
+		<group transformation="0.967599013444 -1.74755544791e-16 0.252491879436 0.252491879436 3.81746374079e-16 -0.967599013444 7.27054332747e-17 1.0 4.13501770891e-16 1.8310810836 8.29839837028 0.25" name="loopPanel.iam(0):m3x8:2">
+			<child node="loopPanel.iam(0):m3x8:1_BODY-2">
+			</child>
+		</group>
+		<lod_group priority="3" levels="3" src_id="76" original_world_transform="0.481120491539 3.36075288503e-16 0.876654477329 2.01273639515e-16 1.0 -4.93823019304e-16 -0.876654477329 4.1403581103e-16 0.481120491539 3.0937560381 8.881784197e-15 2.03111235614" original_transform="0.686879849559 -0.726770990251 7.33553541133e-16 -1.04689672017e-16 9.10388999896e-16 1.0 -0.726770990251 -0.686879849559 5.49242442687e-16 1.67147944657 -1.40458738626 -8.29839837028" transformation="0.465531712962 0.121479017144 0.876654477329 -0.252491879436 0.967599013444 -1.25183407503e-15 -0.848250007395 -0.221348136597 0.481120491539 1.46374837454 -0.608520673937 -12.3523782517" name="loopPanel.iam(0):m3x8:1_BODY-2">
+		</lod_group>
+	</models>
+	<behaviors>
+	</behaviors>
+	<navigators default="Orbit">
+		<navigator type="Walk" name="Walk">
+			<parameter type="double" name="speed" value="1.0">
+			</parameter>
+		</navigator>
+		<navigator type="Orbit" name="Orbit">
+			<parameter type="double" name="speed" value="1.0">
+			</parameter>
+		</navigator>
+		<navigator type="Composite" name="Composite">
+			<parameter type="double" name="speed" value="1.0">
+			</parameter>
+		</navigator>
+	</navigators>
+	<model_imports>
+		<import object_based="1" src="" original_timestamp="1444420776.25" name="loopPanel.iam" import_timestamp="1444420880.01" translation_state="2" original="C:\Users\Sawaiz\Documents\data\projects\scintillatorPanel\loopPanel.iam">
+			<import_setting id="Inventor">
+				<parameter type="string" name="animations_to_import" value="Showcase">
+				</parameter>
+				<parameter type="double" name="create_shots" value="1">
+				</parameter>
+				<parameter type="double" name="import_animations" value="0">
+				</parameter>
+				<parameter type="double" name="import_representations" value="1">
+				</parameter>
+				<parameter type="string" name="project_file" value="C:\Users\Sawaiz\Documents\data\projects\scintillatorPanel\scintillatorPanel.ipj">
+				</parameter>
+				<parameter type="string" name="shots_to_create" value="34View|TrackLeft">
+				</parameter>
+				<parameter type="string" name="tessellation_file" value="001-All-Purpose.j">
+				</parameter>
+				<parameter type="string" name="up_axis" value="Auto">
+				</parameter>
+				<parameter type="double" name="use_project_file" value="1">
+				</parameter>
+				<parameter type="double" name="use_steel_settings_on_import" value="0">
+				</parameter>
+			</import_setting>
+		</import>
+		<import src="loopPanel.a3g" apf_z_up="0" name="loopPanel.iam(0)" original_apf_unit="cm" ids="loopPanel.iam(0)|loopPanel.iam(0):0805 Capacitor:1|loopPanel.iam(0):0805 Capacitor:1_BODY|loopPanel.iam(0):0805 Capacitor:1_BODY-1|loopPanel.iam(0):0805 Capacitor:1_BODY-10|loopPanel.iam(0):0805 Capacitor:1_BODY-11|loopPanel.iam(0):0805 Capacitor:1_BODY-2|loopPanel.iam(0):0805 Capacitor:1_BODY-3|loopPanel.iam(0):0805 Capacitor:1_BODY-4|loopPanel.iam(0):0805 Capacitor:1_BODY-5|loopPanel.iam(0):0805 Capacitor:1_BODY-6|loopPanel.iam(0):0805 Capacitor:1_BODY-7|loopPanel.iam(0):0805 Capacitor:1_BODY-8|loopPanel.iam(0):0805 Capacitor:1_BODY-9|loopPanel.iam(0):0805 Capacitor:2|loopPanel.iam(0):0805 Capacitor:3|loopPanel.iam(0):0805:1|loopPanel.iam(0):0805:1_BODY|loopPanel.iam(0):0805:1_BODY-1|loopPanel.iam(0):0805:1_BODY-10|loopPanel.iam(0):0805:1_BODY-11|loopPanel.iam(0):0805:1_BODY-12|loopPanel.iam(0):0805:1_BODY-13|loopPanel.iam(0):0805:1_BODY-14|loopPanel.iam(0):0805:1_BODY-15|loopPanel.iam(0):0805:1_BODY-16|loopPanel.iam(0):0805:1_BODY-17|loopPanel.iam(0):0805:1_BODY-18|loopPanel.iam(0):0805:1_BODY-19|loopPanel.iam(0):0805:1_BODY-2|loopPanel.iam(0):0805:1_BODY-20|loopPanel.iam(0):0805:1_BODY-21|loopPanel.iam(0):0805:1_BODY-22|loopPanel.iam(0):0805:1_BODY-23|loopPanel.iam(0):0805:1_BODY-24|loopPanel.iam(0):0805:1_BODY-25|loopPanel.iam(0):0805:1_BODY-26|loopPanel.iam(0):0805:1_BODY-27|loopPanel.iam(0):0805:1_BODY-28|loopPanel.iam(0):0805:1_BODY-29|loopPanel.iam(0):0805:1_BODY-3|loopPanel.iam(0):0805:1_BODY-30|loopPanel.iam(0):0805:1_BODY-31|loopPanel.iam(0):0805:1_BODY-32|loopPanel.iam(0):0805:1_BODY-33|loopPanel.iam(0):0805:1_BODY-34|loopPanel.iam(0):0805:1_BODY-4|loopPanel.iam(0):0805:1_BODY-5|loopPanel.iam(0):0805:1_BODY-6|loopPanel.iam(0):0805:1_BODY-7|loopPanel.iam(0):0805:1_BODY-8|loopPanel.iam(0):0805:1_BODY-9|loopPanel.iam(0):0805:2|loopPanel.iam(0):0805:3|loopPanel.iam(0):0805:4|loopPanel.iam(0):0805:5|loopPanel.iam(0):0805:6|loopPanel.iam(0):0805:7|loopPanel.iam(0):128-0711-201:1|loopPanel.iam(0):128-0711-201:1_BODY|loopPanel.iam(0):128-0711-201:1_BODY-1|loopPanel.iam(0):128-0711-201:1_BODY-2|loopPanel.iam(0):128-0711-201:1_BODY-3|loopPanel.iam(0):128-0711-201:1_BODY-4|loopPanel.iam(0):128-0711-201:1_BODY-5|loopPanel.iam(0):2mmSpacer:1|loopPanel.iam(0):2mmSpacer:1_BODY|loopPanel.iam(0):2mmSpacer:1_BODY-2|loopPanel.iam(0):2mmSpacer:2|loopPanel.iam(0):FH33-4S-1SH:1|loopPanel.iam(0):FH33-4S-1SH:1_BODY|loopPanel.iam(0):FH33-4S-1SH:1_BODY-1|loopPanel.iam(0):FH33-4S-1SH:1_BODY-10|loopPanel.iam(0):FH33-4S-1SH:1_BODY-11|loopPanel.iam(0):FH33-4S-1SH:1_BODY-12|loopPanel.iam(0):FH33-4S-1SH:1_BODY-13|loopPanel.iam(0):FH33-4S-1SH:1_BODY-14|loopPanel.iam(0):FH33-4S-1SH:1_BODY-15|loopPanel.iam(0):FH33-4S-1SH:1_BODY-16|loopPanel.iam(0):FH33-4S-1SH:1_BODY-17|loopPanel.iam(0):FH33-4S-1SH:1_BODY-18|loopPanel.iam(0):FH33-4S-1SH:1_BODY-19|loopPanel.iam(0):FH33-4S-1SH:1_BODY-2|loopPanel.iam(0):FH33-4S-1SH:1_BODY-20|loopPanel.iam(0):FH33-4S-1SH:1_BODY-21|loopPanel.iam(0):FH33-4S-1SH:1_BODY-22|loopPanel.iam(0):FH33-4S-1SH:1_BODY-23|loopPanel.iam(0):FH33-4S-1SH:1_BODY-24|loopPanel.iam(0):FH33-4S-1SH:1_BODY-25|loopPanel.iam(0):FH33-4S-1SH:1_BODY-3|loopPanel.iam(0):FH33-4S-1SH:1_BODY-4|loopPanel.iam(0):FH33-4S-1SH:1_BODY-5|loopPanel.iam(0):FH33-4S-1SH:1_BODY-6|loopPanel.iam(0):FH33-4S-1SH:1_BODY-7|loopPanel.iam(0):FH33-4S-1SH:1_BODY-8|loopPanel.iam(0):FH33-4S-1SH:1_BODY-9|loopPanel.iam(0):FH33-4S-1SH:2|loopPanel.iam(0):MPPC:1|loopPanel.iam(0):MPPC:1_BODY|loopPanel.iam(0):MPPC:1_BODY-1|loopPanel.iam(0):MPPC:1_BODY-2|loopPanel.iam(0):MPPC:1_BODY-3|loopPanel.iam(0):MPPC:1_BODY-4|loopPanel.iam(0):MPPC:1_BODY-5|loopPanel.iam(0):SOT23_5:1|loopPanel.iam(0):SOT23_5:1_BODY|loopPanel.iam(0):SOT23_5:1_BODY-1|loopPanel.iam(0):SOT23_5:1_BODY-2|loopPanel.iam(0):SOT23_5:1_BODY-3|loopPanel.iam(0):SOT23_5:1_BODY-4|loopPanel.iam(0):SOT23_5:1_BODY-5|loopPanel.iam(0):SOT23_5:1_BODY-6|loopPanel.iam(0):SOT23_5:1_BODY-7|loopPanel.iam(0):SOT23_5:1_BODY-8|loopPanel.iam(0):fiberLoop:1|loopPanel.iam(0):fiberLoop:1_BODY|loopPanel.iam(0):loopPanel.iam|loopPanel.iam(0):loopPanel:1|loopPanel.iam(0):loopPanel:1_BODY|loopPanel.iam(0):loopPanel:1_BODY-1|loopPanel.iam(0):loopPanel:1_BODY-2|loopPanel.iam(0):loopPanel:1_BODY-3|loopPanel.iam(0):loopPanel:1_BODY-4|loopPanel.iam(0):loopPanel:1_BODY-5|loopPanel.iam(0):loopPanel:1_BODY-6|loopPanel.iam(0):loopPanel:1_BODY-7|loopPanel.iam(0):m3Washer:1|loopPanel.iam(0):m3Washer:1_BODY|loopPanel.iam(0):m3Washer:1_BODY-2|loopPanel.iam(0):m3Washer:2|loopPanel.iam(0):m3x8:1|loopPanel.iam(0):m3x8:1_BODY|loopPanel.iam(0):m3x8:1_BODY-2|loopPanel.iam(0):m3x8:2|loopPanel.iam(0):pcb:1|loopPanel.iam(0):pcb:1_BODY|loopPanel.iam(0):pcb:1_BODY-1|loopPanel.iam(0):pcb:1_BODY-10|loopPanel.iam(0):pcb:1_BODY-11|loopPanel.iam(0):pcb:1_BODY-12|loopPanel.iam(0):pcb:1_BODY-13|loopPanel.iam(0):pcb:1_BODY-14|loopPanel.iam(0):pcb:1_BODY-15|loopPanel.iam(0):pcb:1_BODY-16|loopPanel.iam(0):pcb:1_BODY-17|loopPanel.iam(0):pcb:1_BODY-18|loopPanel.iam(0):pcb:1_BODY-19|loopPanel.iam(0):pcb:1_BODY-2|loopPanel.iam(0):pcb:1_BODY-20|loopPanel.iam(0):pcb:1_BODY-21|loopPanel.iam(0):pcb:1_BODY-22|loopPanel.iam(0):pcb:1_BODY-23|loopPanel.iam(0):pcb:1_BODY-24|loopPanel.iam(0):pcb:1_BODY-25|loopPanel.iam(0):pcb:1_BODY-26|loopPanel.iam(0):pcb:1_BODY-27|loopPanel.iam(0):pcb:1_BODY-28|loopPanel.iam(0):pcb:1_BODY-29|loopPanel.iam(0):pcb:1_BODY-3|loopPanel.iam(0):pcb:1_BODY-4|loopPanel.iam(0):pcb:1_BODY-5|loopPanel.iam(0):pcb:1_BODY-6|loopPanel.iam(0):pcb:1_BODY-7|loopPanel.iam(0):pcb:1_BODY-8|loopPanel.iam(0):pcb:1_BODY-9|loopPanel.iam(0):sensor:1" original_timestamp="1444420776.25" translation_state="2" import_timestamp="1444420975.88" original="C:\Users\Sawaiz\Documents\data\projects\scintillatorPanel\loopPanel.iam" unit="cm" object_based="1">
+			<import_setting id="Inventor">
+				<parameter type="string" name="animations_to_import" value="Showcase">
+				</parameter>
+				<parameter type="double" name="create_shots" value="1">
+				</parameter>
+				<parameter type="double" name="import_animations" value="0">
+				</parameter>
+				<parameter type="double" name="import_representations" value="1">
+				</parameter>
+				<parameter type="string" name="project_file" value="C:\Users\Sawaiz\Documents\data\projects\scintillatorPanel\scintillatorPanel.ipj">
+				</parameter>
+				<parameter type="string" name="shots_to_create" value="34View|TrackLeft">
+				</parameter>
+				<parameter type="string" name="tessellation_file" value="001-All-Purpose.j">
+				</parameter>
+				<parameter type="string" name="up_axis" value="Auto">
+				</parameter>
+				<parameter type="double" name="use_project_file" value="1">
+				</parameter>
+				<parameter type="double" name="use_steel_settings_on_import" value="0">
+				</parameter>
+			</import_setting>
+		</import>
+	</model_imports>
+	<materials>
+		<material label="64,0,128 (1)" type="APF" ids="loopPanel.iam(0)" name="64,0,128">
+			<parameter type="string" name="bumpSource" value="none">
+			</parameter>
+			<parameter type="double4" name="diffuseColor" value="0.250980 0.000000 0.501961 1.000000">
+			</parameter>
+			<parameter type="string" name="diffuseIBL" value="ibl">
+			</parameter>
+			<parameter type="string" name="diffuseIBLGainSource" value="value">
+			</parameter>
+			<parameter type="double" name="diffuseIBLGainValue" value="0.100000">
+			</parameter>
+			<parameter type="string" name="diffuseLight" value="light">
+			</parameter>
+			<parameter type="string" name="diffuseSource" value="color">
+			</parameter>
+			<parameter type="string" name="reflectSource" value="value">
+			</parameter>
+			<parameter type="double" name="reflectValue" value="0.100000">
+			</parameter>
+			<parameter type="string" name="shaderImplementation" value="adsk_inventor">
+			</parameter>
+			<parameter type="string" name="shaderType" value="unknown">
+			</parameter>
+			<parameter type="double3" name="specularColor" value="1.000000 1.000000 1.000000">
+			</parameter>
+			<parameter type="string" name="specularIBL" value="ibl">
+			</parameter>
+			<parameter type="string" name="specularIBLGainSource" value="value">
+			</parameter>
+			<parameter type="double" name="specularIBLGainValue" value="0.100000">
+			</parameter>
+			<parameter type="string" name="specularLight" value="light">
+			</parameter>
+			<parameter type="string" name="specularSource" value="color">
+			</parameter>
+			<parameter type="string" name="transparencySource" value="none">
+			</parameter>
+		</material>
+		<material label="Clear (1)" type="APF" ids="loopPanel.iam(0)" name="Clear">
+			<parameter type="string" name="bumpSource" value="none">
+			</parameter>
+			<parameter type="double4" name="diffuseColor" value="0.925490 0.945098 0.937255 1.000000">
+			</parameter>
+			<parameter type="string" name="diffuseIBL" value="ibl">
+			</parameter>
+			<parameter type="string" name="diffuseIBLGainSource" value="value">
+			</parameter>
+			<parameter type="double" name="diffuseIBLGainValue" value="0.100000">
+			</parameter>
+			<parameter type="string" name="diffuseLight" value="light">
+			</parameter>
+			<parameter type="string" name="diffuseSource" value="color">
+			</parameter>
+			<parameter type="string" name="reflectSource" value="value">
+			</parameter>
+			<parameter type="double" name="reflectValue" value="0.575000">
+			</parameter>
+			<parameter type="string" name="shaderImplementation" value="adsk_inventor">
+			</parameter>
+			<parameter type="string" name="shaderType" value="unknown">
+			</parameter>
+			<parameter type="double3" name="specularColor" value="1.000000 1.000000 1.000000">
+			</parameter>
+			<parameter type="string" name="specularIBL" value="ibl">
+			</parameter>
+			<parameter type="string" name="specularIBLGainSource" value="value">
+			</parameter>
+			<parameter type="double" name="specularIBLGainValue" value="0.100000">
+			</parameter>
+			<parameter type="string" name="specularLight" value="light">
+			</parameter>
+			<parameter type="string" name="specularSource" value="color">
+			</parameter>
+			<parameter type="double4" name="transparencyColor" value="0.340000 0.340000 0.340000">
+			</parameter>
+			<parameter type="string" name="transparencySource" value="color">
+			</parameter>
+		</material>
+		<material label="RenderStyle_55" type="APF" ids="loopPanel.iam(0)" name="RenderStyle_55">
+			<parameter type="string" name="bumpSource" value="none">
+			</parameter>
+			<parameter type="double4" name="diffuseColor" value="0.250980 0.000000 0.501961 1.000000">
+			</parameter>
+			<parameter type="string" name="diffuseIBL" value="ibl">
+			</parameter>
+			<parameter type="string" name="diffuseIBLGainSource" value="value">
+			</parameter>
+			<parameter type="double" name="diffuseIBLGainValue" value="0.100000">
+			</parameter>
+			<parameter type="string" name="diffuseLight" value="light">
+			</parameter>
+			<parameter type="affineMatrix" name="diffuseProjMatrix" value="0.207888 0.000000 0.000000 0.000000 -0.831596 0.000000 0.000000 0.000000 -1.000000 1.810762 0.000000 -0.160020">
+			</parameter>
+			<parameter type="string" name="diffuseProjection" value="planar">
+			</parameter>
+			<parameter type="string" name="diffuseRepeatU" value="Clamp">
+			</parameter>
+			<parameter type="string" name="diffuseRepeatV" value="Clamp">
+			</parameter>
+			<parameter type="string" name="diffuseSource" value="texture">
+			</parameter>
+			<parameter type="string" name="diffuseTexture" value="frontEmbedded2.bmp">
+			</parameter>
+			<parameter type="string" name="reflectSource" value="value">
+			</parameter>
+			<parameter type="double" name="reflectValue" value="0.100000">
+			</parameter>
+			<parameter type="string" name="shaderImplementation" value="adsk_inventor">
+			</parameter>
+			<parameter type="string" name="shaderType" value="unknown">
+			</parameter>
+			<parameter type="double3" name="specularColor" value="1.000000 1.000000 1.000000">
+			</parameter>
+			<parameter type="string" name="specularIBL" value="ibl">
+			</parameter>
+			<parameter type="string" name="specularIBLGainSource" value="value">
+			</parameter>
+			<parameter type="double" name="specularIBLGainValue" value="0.100000">
+			</parameter>
+			<parameter type="string" name="specularLight" value="light">
+			</parameter>
+			<parameter type="string" name="specularSource" value="color">
+			</parameter>
+			<parameter type="string" name="transparencySource" value="none">
+			</parameter>
+		</material>
+		<material label="RenderStyle_9" type="APF" ids="loopPanel.iam(0)" name="RenderStyle_7">
+			<parameter type="string" name="bumpSource" value="none">
+			</parameter>
+			<parameter type="double4" name="diffuseColor" value="0.925490 0.945098 0.937255 1.000000">
+			</parameter>
+			<parameter type="string" name="diffuseIBL" value="ibl">
+			</parameter>
+			<parameter type="string" name="diffuseIBLGainSource" value="value">
+			</parameter>
+			<parameter type="double" name="diffuseIBLGainValue" value="0.100000">
+			</parameter>
+			<parameter type="string" name="diffuseLight" value="light">
+			</parameter>
+			<parameter type="affineMatrix" name="diffuseProjMatrix" value="12.000000 0.000000 0.000000 0.000000 0.000000 12.000000 0.000000 -12.000000 0.000000 -24.000000 7.200000 -87.000000">
+			</parameter>
+			<parameter type="string" name="diffuseProjection" value="cylinder">
+			</parameter>
+			<parameter type="string" name="diffuseRepeatU" value="Repeat">
+			</parameter>
+			<parameter type="string" name="diffuseRepeatV" value="Repeat">
+			</parameter>
+			<parameter type="string" name="diffuseSource" value="texture">
+			</parameter>
+			<parameter type="string" name="diffuseTexture" value="c:\users\sawaiz\appdata\local\temp\Autodesk Showcase 2016 Working Directory-1764\thread_4x2.bmp|C:\Program Files\Autodesk\Showcase 2016\bin\Aruba\textures\thread_4x2.bmp">
+			</parameter>
+			<parameter type="string" name="reflectSource" value="value">
+			</parameter>
+			<parameter type="double" name="reflectValue" value="0.575000">
+			</parameter>
+			<parameter type="string" name="shaderImplementation" value="adsk_inventor">
+			</parameter>
+			<parameter type="string" name="shaderType" value="unknown">
+			</parameter>
+			<parameter type="double3" name="specularColor" value="1.000000 1.000000 1.000000">
+			</parameter>
+			<parameter type="string" name="specularIBL" value="ibl">
+			</parameter>
+			<parameter type="string" name="specularIBLGainSource" value="value">
+			</parameter>
+			<parameter type="double" name="specularIBLGainValue" value="0.100000">
+			</parameter>
+			<parameter type="string" name="specularLight" value="light">
+			</parameter>
+			<parameter type="string" name="specularSource" value="color">
+			</parameter>
+			<parameter type="double4" name="transparencyColor" value="0.340000 0.340000 0.340000">
+			</parameter>
+			<parameter type="string" name="transparencySource" value="color">
+			</parameter>
+		</material>
+	</materials>
+	<materials src="materials.adsklib">
+		<material label="0,0,0" id="9F94FE95-9441-408C-85F5-5E9D24A8EA45" name="0,0,0" ids="loopPanel.iam(0)">
+		</material>
+		<material label="192,192,192" id="380F1E23-72E8-4617-A803-3D730181077F" name="192,192,192" ids="loopPanel.iam(0)">
+		</material>
+		<material label="255,255,255" id="21781E28-1542-4BEB-B0CF-F0E7CC3C822F" name="255,255,255" ids="loopPanel.iam(0)">
+		</material>
+		<material label="64,0,128" id="647636B1-B7D5-409E-9190-2D2682B9AF98" name="RenderStyle_54" ids="loopPanel.iam(0)">
+		</material>
+		<material label="Clear" id="53FF1AA3-A6BD-46F5-B1FE-EF7BF7906407" name="RenderStyle_2" ids="loopPanel.iam(0)">
+		</material>
+		<material label="Clear - Green 1" id="CE37CEAE-7F17-4D21-87C5-734E280D6C6D" name="Clear - Green 1" ids="loopPanel.iam(0)">
+		</material>
+		<material label="Copper - Satin" id="94441886-A7D4-4214-8546-2E71D5A71C40" name="Copper - Satin" ids="loopPanel.iam(0)">
+		</material>
+		<material label="Default" id="F2F26DD3-9B43-4B15-937D-C271311FD8FF" name="Default" ids="loopPanel.iam(0)">
+		</material>
+		<material label="Galvanized" id="680CF98B-A7C7-4B04-94D1-54E151DF87AB" name="Galvanized" ids="loopPanel.iam(0)">
+		</material>
+		<material label="Glossy - Black" id="949E49C5-2C3A-4609-8FA0-5C64A75855FC" name="Glossy - Black" ids="loopPanel.iam(0)">
+		</material>
+		<material label="Gold" id="A13B0FB6-8C4D-46EA-A5D9-DAC3439CD077" name="Gold" ids="loopPanel.iam(0)">
+		</material>
+		<material label="Gold - Metal" id="09CA8CDE-8CAC-4DC4-A99F-6FE3BB939321" name="Gold - Metal" ids="loopPanel.iam(0)">
+		</material>
+		<material label="Nylon 6" id="2EFC5A7A-6C68-4A1C-B8A6-4DAE42F1610E" name="Nylon 6" ids="loopPanel.iam(0)">
+		</material>
+		<material label="Silver" id="D8648A2A-23FE-4D08-B03D-68DB645A664D" name="Silver" ids="loopPanel.iam(0)">
+		</material>
+		<material label="Smooth - Black" id="AF2EB054-7362-49F6-A93E-A396F18EAFEF" name="Smooth - Black" ids="loopPanel.iam(0)">
+		</material>
+		<material label="Smooth - Ivory" id="4278AB8E-A310-4413-A782-64A65910BD43" name="Smooth - Ivory" ids="loopPanel.iam(0)">
+		</material>
+		<material label="Smooth - Off-White" id="2BD3E789-45EA-4FA1-9910-C06157812DB1" name="Smooth - Off-White" ids="loopPanel.iam(0)">
+		</material>
+		<material label="Smooth - White" id="ABBBD77A-FA30-4D39-A9DE-E746544CC4EA" name="Smooth - White" ids="loopPanel.iam(0)">
+		</material>
+		<material label="Steel - Polished" id="09FE99EB-8839-4373-8C9A-1641F1BF033F" name="Steel - Polished" ids="loopPanel.iam(0)">
+		</material>
+	</materials>
+	<material_assignments>
+		<material_assignment visible="" material="RenderStyle_7" target="loopPanel.iam(0):loopPanel:1_BODY-1">
+		</material_assignment>
+		<material_assignment visible="" material="RenderStyle_7" target="loopPanel.iam(0):loopPanel:1_BODY-2">
+		</material_assignment>
+		<material_assignment visible="" material="RenderStyle_2" target="loopPanel.iam(0):loopPanel:1_BODY-3">
+		</material_assignment>
+		<material_assignment visible="" material="RenderStyle_7" target="loopPanel.iam(0):loopPanel:1_BODY-4">
+		</material_assignment>
+		<material_assignment visible="" material="Clear" target="loopPanel.iam(0):loopPanel:1_BODY-5">
+		</material_assignment>
+		<material_assignment visible="" material="Clear" target="loopPanel.iam(0):loopPanel:1_BODY-6">
+		</material_assignment>
+		<material_assignment visible="" material="Clear" target="loopPanel.iam(0):loopPanel:1_BODY-7">
+		</material_assignment>
+		<material_assignment visible="" material="Clear - Green 1" target="loopPanel.iam(0):fiberLoop:1_BODY">
+		</material_assignment>
+		<material_assignment visible="" material="192,192,192" target="loopPanel.iam(0):m3Washer:1_BODY">
+		</material_assignment>
+		<material_assignment visible="" material="192,192,192" target="loopPanel.iam(0):m3Washer:1_BODY-2">
+		</material_assignment>
+		<material_assignment visible="" material="192,192,192" target="loopPanel.iam(0):2mmSpacer:1_BODY">
+		</material_assignment>
+		<material_assignment visible="" material="192,192,192" target="loopPanel.iam(0):2mmSpacer:1_BODY-2">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="loopPanel.iam(0):pcb:1_BODY-1">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="loopPanel.iam(0):pcb:1_BODY-2">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="loopPanel.iam(0):pcb:1_BODY-3">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="loopPanel.iam(0):pcb:1_BODY-4">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="loopPanel.iam(0):pcb:1_BODY-5">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="loopPanel.iam(0):pcb:1_BODY-6">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="loopPanel.iam(0):pcb:1_BODY-7">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="loopPanel.iam(0):pcb:1_BODY-8">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="loopPanel.iam(0):pcb:1_BODY-9">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="loopPanel.iam(0):pcb:1_BODY-10">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="loopPanel.iam(0):pcb:1_BODY-11">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="loopPanel.iam(0):pcb:1_BODY-12">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="loopPanel.iam(0):pcb:1_BODY-13">
+		</material_assignment>
+		<material_assignment visible="" material="RenderStyle_54" target="loopPanel.iam(0):pcb:1_BODY-14">
+		</material_assignment>
+		<material_assignment visible="" material="RenderStyle_55" target="loopPanel.iam(0):pcb:1_BODY-15">
+		</material_assignment>
+		<material_assignment visible="" material="64,0,128" target="loopPanel.iam(0):pcb:1_BODY-16">
+		</material_assignment>
+		<material_assignment visible="" material="64,0,128" target="loopPanel.iam(0):pcb:1_BODY-17">
+		</material_assignment>
+		<material_assignment visible="" material="64,0,128" target="loopPanel.iam(0):pcb:1_BODY-18">
+		</material_assignment>
+		<material_assignment visible="" material="64,0,128" target="loopPanel.iam(0):pcb:1_BODY-19">
+		</material_assignment>
+		<material_assignment visible="" material="64,0,128" target="loopPanel.iam(0):pcb:1_BODY-20">
+		</material_assignment>
+		<material_assignment visible="" material="64,0,128" target="loopPanel.iam(0):pcb:1_BODY-21">
+		</material_assignment>
+		<material_assignment visible="" material="64,0,128" target="loopPanel.iam(0):pcb:1_BODY-22">
+		</material_assignment>
+		<material_assignment visible="" material="64,0,128" target="loopPanel.iam(0):pcb:1_BODY-23">
+		</material_assignment>
+		<material_assignment visible="" material="64,0,128" target="loopPanel.iam(0):pcb:1_BODY-24">
+		</material_assignment>
+		<material_assignment visible="" material="64,0,128" target="loopPanel.iam(0):pcb:1_BODY-25">
+		</material_assignment>
+		<material_assignment visible="" material="64,0,128" target="loopPanel.iam(0):pcb:1_BODY-26">
+		</material_assignment>
+		<material_assignment visible="" material="64,0,128" target="loopPanel.iam(0):pcb:1_BODY-27">
+		</material_assignment>
+		<material_assignment visible="" material="64,0,128" target="loopPanel.iam(0):pcb:1_BODY-28">
+		</material_assignment>
+		<material_assignment visible="" material="64,0,128" target="loopPanel.iam(0):pcb:1_BODY-29">
+		</material_assignment>
+		<material_assignment visible="" material="Glossy - Black" target="loopPanel.iam(0):0805:1_BODY-1">
+		</material_assignment>
+		<material_assignment visible="" material="Smooth - Ivory" target="loopPanel.iam(0):0805:1_BODY-2">
+		</material_assignment>
+		<material_assignment visible="" material="Galvanized" target="loopPanel.iam(0):0805:1_BODY-3">
+		</material_assignment>
+		<material_assignment visible="" material="Galvanized" target="loopPanel.iam(0):0805:1_BODY-4">
+		</material_assignment>
+		<material_assignment visible="" material="Glossy - Black" target="loopPanel.iam(0):0805:1_BODY-6">
+		</material_assignment>
+		<material_assignment visible="" material="Smooth - Ivory" target="loopPanel.iam(0):0805:1_BODY-7">
+		</material_assignment>
+		<material_assignment visible="" material="Galvanized" target="loopPanel.iam(0):0805:1_BODY-8">
+		</material_assignment>
+		<material_assignment visible="" material="Galvanized" target="loopPanel.iam(0):0805:1_BODY-9">
+		</material_assignment>
+		<material_assignment visible="" material="Glossy - Black" target="loopPanel.iam(0):0805:1_BODY-11">
+		</material_assignment>
+		<material_assignment visible="" material="Smooth - Ivory" target="loopPanel.iam(0):0805:1_BODY-12">
+		</material_assignment>
+		<material_assignment visible="" material="Galvanized" target="loopPanel.iam(0):0805:1_BODY-13">
+		</material_assignment>
+		<material_assignment visible="" material="Galvanized" target="loopPanel.iam(0):0805:1_BODY-14">
+		</material_assignment>
+		<material_assignment visible="" material="Glossy - Black" target="loopPanel.iam(0):0805:1_BODY-16">
+		</material_assignment>
+		<material_assignment visible="" material="Smooth - Ivory" target="loopPanel.iam(0):0805:1_BODY-17">
+		</material_assignment>
+		<material_assignment visible="" material="Galvanized" target="loopPanel.iam(0):0805:1_BODY-18">
+		</material_assignment>
+		<material_assignment visible="" material="Galvanized" target="loopPanel.iam(0):0805:1_BODY-19">
+		</material_assignment>
+		<material_assignment visible="" material="Glossy - Black" target="loopPanel.iam(0):0805:1_BODY-21">
+		</material_assignment>
+		<material_assignment visible="" material="Smooth - Ivory" target="loopPanel.iam(0):0805:1_BODY-22">
+		</material_assignment>
+		<material_assignment visible="" material="Galvanized" target="loopPanel.iam(0):0805:1_BODY-23">
+		</material_assignment>
+		<material_assignment visible="" material="Galvanized" target="loopPanel.iam(0):0805:1_BODY-24">
+		</material_assignment>
+		<material_assignment visible="" material="Glossy - Black" target="loopPanel.iam(0):0805:1_BODY-26">
+		</material_assignment>
+		<material_assignment visible="" material="Smooth - Ivory" target="loopPanel.iam(0):0805:1_BODY-27">
+		</material_assignment>
+		<material_assignment visible="" material="Galvanized" target="loopPanel.iam(0):0805:1_BODY-28">
+		</material_assignment>
+		<material_assignment visible="" material="Galvanized" target="loopPanel.iam(0):0805:1_BODY-29">
+		</material_assignment>
+		<material_assignment visible="" material="Glossy - Black" target="loopPanel.iam(0):0805:1_BODY-31">
+		</material_assignment>
+		<material_assignment visible="" material="Smooth - Ivory" target="loopPanel.iam(0):0805:1_BODY-32">
+		</material_assignment>
+		<material_assignment visible="" material="Galvanized" target="loopPanel.iam(0):0805:1_BODY-33">
+		</material_assignment>
+		<material_assignment visible="" material="Galvanized" target="loopPanel.iam(0):0805:1_BODY-34">
+		</material_assignment>
+		<material_assignment visible="" material="Smooth - Off-White" target="loopPanel.iam(0):0805 Capacitor:1_BODY-1">
+		</material_assignment>
+		<material_assignment visible="" material="Silver" target="loopPanel.iam(0):0805 Capacitor:1_BODY-2">
+		</material_assignment>
+		<material_assignment visible="" material="Silver" target="loopPanel.iam(0):0805 Capacitor:1_BODY-3">
+		</material_assignment>
+		<material_assignment visible="" material="Smooth - Off-White" target="loopPanel.iam(0):0805 Capacitor:1_BODY-5">
+		</material_assignment>
+		<material_assignment visible="" material="Silver" target="loopPanel.iam(0):0805 Capacitor:1_BODY-6">
+		</material_assignment>
+		<material_assignment visible="" material="Silver" target="loopPanel.iam(0):0805 Capacitor:1_BODY-7">
+		</material_assignment>
+		<material_assignment visible="" material="Smooth - Off-White" target="loopPanel.iam(0):0805 Capacitor:1_BODY-9">
+		</material_assignment>
+		<material_assignment visible="" material="Silver" target="loopPanel.iam(0):0805 Capacitor:1_BODY-10">
+		</material_assignment>
+		<material_assignment visible="" material="Silver" target="loopPanel.iam(0):0805 Capacitor:1_BODY-11">
+		</material_assignment>
+		<material_assignment visible="" material="Gold - Metal" target="loopPanel.iam(0):128-0711-201:1_BODY-1">
+		</material_assignment>
+		<material_assignment visible="" material="Gold - Metal" target="loopPanel.iam(0):128-0711-201:1_BODY-2">
+		</material_assignment>
+		<material_assignment visible="" material="Gold - Metal" target="loopPanel.iam(0):128-0711-201:1_BODY-3">
+		</material_assignment>
+		<material_assignment visible="" material="Gold - Metal" target="loopPanel.iam(0):128-0711-201:1_BODY-4">
+		</material_assignment>
+		<material_assignment visible="" material="Smooth - Ivory" target="loopPanel.iam(0):128-0711-201:1_BODY-5">
+		</material_assignment>
+		<material_assignment visible="" material="0,0,0" target="loopPanel.iam(0):SOT23_5:1_BODY-1">
+		</material_assignment>
+		<material_assignment visible="" material="Default" target="loopPanel.iam(0):SOT23_5:1_BODY-2">
+		</material_assignment>
+		<material_assignment visible="" material="192,192,192" target="loopPanel.iam(0):SOT23_5:1_BODY-3">
+		</material_assignment>
+		<material_assignment visible="" material="192,192,192" target="loopPanel.iam(0):SOT23_5:1_BODY-4">
+		</material_assignment>
+		<material_assignment visible="" material="192,192,192" target="loopPanel.iam(0):SOT23_5:1_BODY-5">
+		</material_assignment>
+		<material_assignment visible="" material="192,192,192" target="loopPanel.iam(0):SOT23_5:1_BODY-6">
+		</material_assignment>
+		<material_assignment visible="" material="192,192,192" target="loopPanel.iam(0):SOT23_5:1_BODY-7">
+		</material_assignment>
+		<material_assignment visible="" material="255,255,255" target="loopPanel.iam(0):SOT23_5:1_BODY-8">
+		</material_assignment>
+		<material_assignment visible="" material="Gold - Metal" target="loopPanel.iam(0):FH33-4S-1SH:1_BODY-1">
+		</material_assignment>
+		<material_assignment visible="" material="Gold - Metal" target="loopPanel.iam(0):FH33-4S-1SH:1_BODY-2">
+		</material_assignment>
+		<material_assignment visible="" material="Gold - Metal" target="loopPanel.iam(0):FH33-4S-1SH:1_BODY-3">
+		</material_assignment>
+		<material_assignment visible="" material="Gold - Metal" target="loopPanel.iam(0):FH33-4S-1SH:1_BODY-4">
+		</material_assignment>
+		<material_assignment visible="" material="Copper - Satin" target="loopPanel.iam(0):FH33-4S-1SH:1_BODY-5">
+		</material_assignment>
+		<material_assignment visible="" material="Smooth - Ivory" target="loopPanel.iam(0):FH33-4S-1SH:1_BODY-6">
+		</material_assignment>
+		<material_assignment visible="" material="Smooth - Ivory" target="loopPanel.iam(0):FH33-4S-1SH:1_BODY-7">
+		</material_assignment>
+		<material_assignment visible="" material="Smooth - Ivory" target="loopPanel.iam(0):FH33-4S-1SH:1_BODY-8">
+		</material_assignment>
+		<material_assignment visible="" material="Smooth - Ivory" target="loopPanel.iam(0):FH33-4S-1SH:1_BODY-9">
+		</material_assignment>
+		<material_assignment visible="" material="Smooth - Ivory" target="loopPanel.iam(0):FH33-4S-1SH:1_BODY-10">
+		</material_assignment>
+		<material_assignment visible="" material="Steel - Polished" target="loopPanel.iam(0):FH33-4S-1SH:1_BODY-11">
+		</material_assignment>
+		<material_assignment visible="" material="Steel - Polished" target="loopPanel.iam(0):FH33-4S-1SH:1_BODY-12">
+		</material_assignment>
+		<material_assignment visible="" material="Gold - Metal" target="loopPanel.iam(0):FH33-4S-1SH:1_BODY-14">
+		</material_assignment>
+		<material_assignment visible="" material="Gold - Metal" target="loopPanel.iam(0):FH33-4S-1SH:1_BODY-15">
+		</material_assignment>
+		<material_assignment visible="" material="Gold - Metal" target="loopPanel.iam(0):FH33-4S-1SH:1_BODY-16">
+		</material_assignment>
+		<material_assignment visible="" material="Gold - Metal" target="loopPanel.iam(0):FH33-4S-1SH:1_BODY-17">
+		</material_assignment>
+		<material_assignment visible="" material="Copper - Satin" target="loopPanel.iam(0):FH33-4S-1SH:1_BODY-18">
+		</material_assignment>
+		<material_assignment visible="" material="Smooth - Ivory" target="loopPanel.iam(0):FH33-4S-1SH:1_BODY-19">
+		</material_assignment>
+		<material_assignment visible="" material="Smooth - Ivory" target="loopPanel.iam(0):FH33-4S-1SH:1_BODY-20">
+		</material_assignment>
+		<material_assignment visible="" material="Smooth - Ivory" target="loopPanel.iam(0):FH33-4S-1SH:1_BODY-21">
+		</material_assignment>
+		<material_assignment visible="" material="Smooth - Ivory" target="loopPanel.iam(0):FH33-4S-1SH:1_BODY-22">
+		</material_assignment>
+		<material_assignment visible="" material="Smooth - Ivory" target="loopPanel.iam(0):FH33-4S-1SH:1_BODY-23">
+		</material_assignment>
+		<material_assignment visible="" material="Steel - Polished" target="loopPanel.iam(0):FH33-4S-1SH:1_BODY-24">
+		</material_assignment>
+		<material_assignment visible="" material="Steel - Polished" target="loopPanel.iam(0):FH33-4S-1SH:1_BODY-25">
+		</material_assignment>
+		<material_assignment visible="" material="Steel - Polished" target="loopPanel.iam(0):MPPC:1_BODY-1">
+		</material_assignment>
+		<material_assignment visible="" material="Smooth - White" target="loopPanel.iam(0):MPPC:1_BODY-2">
+		</material_assignment>
+		<material_assignment visible="" material="Gold" target="loopPanel.iam(0):MPPC:1_BODY-3">
+		</material_assignment>
+		<material_assignment visible="" material="Gold" target="loopPanel.iam(0):MPPC:1_BODY-4">
+		</material_assignment>
+		<material_assignment visible="" material="Smooth - Black" target="loopPanel.iam(0):MPPC:1_BODY-5">
+		</material_assignment>
+		<material_assignment visible="" material="Nylon 6" target="loopPanel.iam(0):m3x8:1_BODY">
+		</material_assignment>
+		<material_assignment visible="" material="Nylon 6" target="loopPanel.iam(0):m3x8:1_BODY-2">
+		</material_assignment>
+	</material_assignments>
+	<preferences>
+		<preference name="SceneLengthUnit" value="cm">
+		</preference>
+		<preference name="SceneLengthUnitPrecision" value="0">
+		</preference>
+		<preference name="DepthOfFieldFStop" value="7.99999975289">
+		</preference>
+		<preference name="RTPresetNameAuto" value="Ambient Shadow - Interactive">
+		</preference>
+		<preference name="RTPresetNumAuto" value="1">
+		</preference>
+		<preference name="RTPresetFileAuto" value="01-InteractiveAmbientShadow.xml">
+		</preference>
+	</preferences>
+	<triggers>
+	</triggers>
+	<custom_ui>
+	</custom_ui>
+	<hotkeys>
+	</hotkeys>
+	<environments default="BP Gradient.a3e" id="BP Gradient\BP Gradient.a3e" lib="Environments" transformation="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 -0.168919086456 -0.250000014901 -6.62162160873">
+		<environment src="BP Gradient.a3e" name="BP Gradient" lib="Environments" home="HOME" image="BP Gradient.png" id="BP Gradient\BP Gradient.a3e">
+		</environment>
+	</environments>
+	<shots>
+		<shot bloom_size="1" shot_type="ShotStill" bloom_intensity="0.0" thumbnail="shot-Shot1-Keyframe.png" transition_duration="0.0" duration="0.5" use_own_camera_properties="False" exposure_compensation="2.36" ortho_distance="42.4793023845" center_of_interest="1.63396 -1.85913 4.3704" fov="5.55421058066" position="26.1594 -26.3846 -20.155" name="Shot1" depth_of_field_lens_radius="0.0" depth_of_field_focal_distance="0.0" label="Default" depth_of_field_enable="False" bloom_enable="False" isOrtho="True" look_at_point="1.63396 -1.85913 4.3704" bloom_threshold="0.0" transition_type="Cut to shot" roll="-1.04719719808" modelId="loopPanel.iam(0)">
+		</shot>
+		<shot bloom_size="3" shot_type="ShotStill" bloom_intensity="20.0" thumbnail="shot-34View-Keyframe.png" transition_duration="1.0" duration="5.0" use_own_camera_properties="False" exposure_compensation="2.36" ortho_distance="669.806957751" center_of_interest="-0.168919086456 -0.250000014901 0.958388566971" fov="26.991" position="-29.3239858533 -29.7723287307 9.63027810058" name="34View" depth_of_field_lens_radius="0.3125" depth_of_field_focal_distance="300.0" label="3/4 View" depth_of_field_enable="False" bloom_enable="False" isOrtho="False" look_at_point="-0.168919086456 -0.250000014901 0.958388566971" bloom_threshold="64.0" transition_type="Fade from black into shot" roll="0.0">
+		</shot>
+		<shot orbit_elevation="0.0" fix_look="True" bloom_intensity="20.0" keyframe_type="Start here" transition_duration="1.0" duration="5.0" exposure_compensation="2.36" horizontal_orbit_angle="360.0" fov="26.991" depth_of_field_lens_radius="0.3125" move_type="Track left" lock_tilt="True" depth_of_field_focal_distance="300.0" label="Track Left" depth_of_field_enable="False" bloom_enable="False" bloom_threshold="64.0" roll="0.0" bloom_size="3" shot_type="ShotParametric" position="-29.3239858533 -29.7723287307 9.63027810058" use_own_camera_properties="False" ortho_distance="669.806957751" distance="21.1942650207" name="TrackLeft" center_of_interest="-0.168919086456 -0.250000014901 0.958388566971" thumbnail="shot-TrackLeft-Keyframe.png" horizontal_orbit_type="Left" isOrtho="False" look_at_point="-0.168919086456 -0.250000014901 0.958388566971" transition_type="Fade from black into shot" vertical_orbit_type="Up">
+		</shot>
+	</shots>
+	<shadows>
+		<shadow casters="__ALL__" enable="1" name="EnvLightSelfShadow" receivers="__ALL__" light="__EnvironmentMainLight__" receiverType="3" intensity="0.700000" softness="7" shadowColor="0.000000 0.000000 0.000000" textureSize="1024" enableSoftEdges="1" falloffPower="2.000000" shadowType="2" falloffRange="1000.000000">
+		</shadow>
+	</shadows>
+	<bookmarks>
+		<bookmark duration="1.0" name="HOME">
+			<navigation_state center_of_interest="0.0 0.0 0.0" look_at_point="231.64 15.27 64.94" stepper="VectorStep" roll="0.0" position="-337.55 -561.09 234.24">
+			</navigation_state>
+			<display_state field_of_view="26.991" stepper="DisplayStep" ortho_distance="1.0" isOrtho="0">
+			</display_state>
+		</bookmark>
+		<bookmark duration="1.0" name="__INITIAL__">
+			<navigation_state center_of_interest="-0.168919086456 -0.25 -5.83509205282" look_at_point="3.63546558074 -7.66736013912 -12.5754918224" stepper="VectorStep" roll="1.35973995551e-16" position="-22.3565257858 18.3246312274 13.4164995442">
+			</navigation_state>
+			<display_state field_of_view="26.991" stepper="DisplayStep" ortho_distance="49.2116145047" isOrtho="0">
+			</display_state>
+		</bookmark>
+	</bookmarks>
+	<storyboard current="slide1">
+		<slide duration="0.5" id="slide1" thumbnail="slide-slide1 (1).png" name="Default" modelId="loopPanel.iam(0)">
+			<slide_item start_time="0.0" type="shot">
+				<value value="Shot1">
+				</value>
+			</slide_item>
+		</slide>
+	</storyboard>
+	<object_properties_collection>
+		<object_properties object="loopPanel.iam(0):loopPanel:1_BODY-1" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):loopPanel:1_BODY-2" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):loopPanel:1_BODY-3" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):loopPanel:1_BODY-4" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):loopPanel:1_BODY-5" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):loopPanel:1_BODY-6" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):loopPanel:1_BODY-7" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):fiberLoop:1_BODY" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):m3Washer:1_BODY" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):m3Washer:1_BODY-2" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):2mmSpacer:1_BODY" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):2mmSpacer:1_BODY-2" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):pcb:1_BODY-1" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):pcb:1_BODY-2" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):pcb:1_BODY-3" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):pcb:1_BODY-4" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):pcb:1_BODY-5" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):pcb:1_BODY-6" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):pcb:1_BODY-7" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):pcb:1_BODY-8" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):pcb:1_BODY-9" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):pcb:1_BODY-10" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):pcb:1_BODY-11" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):pcb:1_BODY-12" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):pcb:1_BODY-13" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):pcb:1_BODY-14" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):pcb:1_BODY-15" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):pcb:1_BODY-16" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):pcb:1_BODY-17" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):pcb:1_BODY-18" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):pcb:1_BODY-19" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):pcb:1_BODY-20" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):pcb:1_BODY-21" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):pcb:1_BODY-22" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):pcb:1_BODY-23" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):pcb:1_BODY-24" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):pcb:1_BODY-25" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):pcb:1_BODY-26" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):pcb:1_BODY-27" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):pcb:1_BODY-28" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):pcb:1_BODY-29" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):0805:1_BODY-1" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):0805:1_BODY-2" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):0805:1_BODY-3" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):0805:1_BODY-4" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):0805:1_BODY-6" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):0805:1_BODY-7" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):0805:1_BODY-8" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):0805:1_BODY-9" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):0805:1_BODY-11" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):0805:1_BODY-12" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):0805:1_BODY-13" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):0805:1_BODY-14" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):0805:1_BODY-16" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):0805:1_BODY-17" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):0805:1_BODY-18" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):0805:1_BODY-19" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):0805:1_BODY-21" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):0805:1_BODY-22" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):0805:1_BODY-23" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):0805:1_BODY-24" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):0805:1_BODY-26" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):0805:1_BODY-27" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):0805:1_BODY-28" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):0805:1_BODY-29" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):0805:1_BODY-31" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):0805:1_BODY-32" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):0805:1_BODY-33" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):0805:1_BODY-34" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):0805 Capacitor:1_BODY-1" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):0805 Capacitor:1_BODY-2" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):0805 Capacitor:1_BODY-3" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):0805 Capacitor:1_BODY-5" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):0805 Capacitor:1_BODY-6" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):0805 Capacitor:1_BODY-7" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):0805 Capacitor:1_BODY-9" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):0805 Capacitor:1_BODY-10" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):0805 Capacitor:1_BODY-11" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):128-0711-201:1_BODY-1" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):128-0711-201:1_BODY-2" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):128-0711-201:1_BODY-3" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):128-0711-201:1_BODY-4" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):128-0711-201:1_BODY-5" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):SOT23_5:1_BODY-1" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):SOT23_5:1_BODY-2" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):SOT23_5:1_BODY-3" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):SOT23_5:1_BODY-4" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):SOT23_5:1_BODY-5" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):SOT23_5:1_BODY-6" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):SOT23_5:1_BODY-7" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):SOT23_5:1_BODY-8" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):FH33-4S-1SH:1_BODY-1" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):FH33-4S-1SH:1_BODY-2" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):FH33-4S-1SH:1_BODY-3" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):FH33-4S-1SH:1_BODY-4" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):FH33-4S-1SH:1_BODY-5" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):FH33-4S-1SH:1_BODY-6" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):FH33-4S-1SH:1_BODY-7" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):FH33-4S-1SH:1_BODY-8" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):FH33-4S-1SH:1_BODY-9" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):FH33-4S-1SH:1_BODY-10" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):FH33-4S-1SH:1_BODY-11" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):FH33-4S-1SH:1_BODY-12" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):FH33-4S-1SH:1_BODY-14" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):FH33-4S-1SH:1_BODY-15" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):FH33-4S-1SH:1_BODY-16" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):FH33-4S-1SH:1_BODY-17" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):FH33-4S-1SH:1_BODY-18" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):FH33-4S-1SH:1_BODY-19" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):FH33-4S-1SH:1_BODY-20" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):FH33-4S-1SH:1_BODY-21" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):FH33-4S-1SH:1_BODY-22" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):FH33-4S-1SH:1_BODY-23" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):FH33-4S-1SH:1_BODY-24" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):FH33-4S-1SH:1_BODY-25" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):MPPC:1_BODY-1" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):MPPC:1_BODY-2" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):MPPC:1_BODY-3" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):MPPC:1_BODY-4" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):MPPC:1_BODY-5" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):m3x8:1_BODY" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+		<object_properties object="loopPanel.iam(0):m3x8:1_BODY-2" type="draw">
+			<parameter type="double" name="rtreceiveshadow" value="1">
+			</parameter>
+			<parameter type="string" name="uvUnit" value="cm">
+			</parameter>
+		</object_properties>
+	</object_properties_collection>
+	<metadata_collection>
+	</metadata_collection>
+</scene_description>
