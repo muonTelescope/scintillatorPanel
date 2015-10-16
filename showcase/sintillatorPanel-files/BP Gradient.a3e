@@ -7,6 +7,20 @@
 		</material_assignment>
 	</material_assignments>
 	<models>
+		<import src="Environments\BP Gradient\BP Gradient.apf" original_timestamp="0.0" name="room" original_apf_unit="cm" collapse_leaf_xforms="0" original_unit="cm" unit="cm">
+			<child node="room:fileroot">
+			</child>
+		</import>
+		<group name="room:fileroot">
+			<child node="room:Ground">
+			</child>
+		</group>
+		<group name="room:Ground">
+			<child node="room:GroundShape">
+			</child>
+		</group>
+		<lod_group priority="1" name="room:GroundShape" has_spline="0">
+		</lod_group>
 		<light use_node_pivot="1" type="directional" transformation="0.780330339482 -0.126826287755 0.612372153203 -0.126826287755 0.926776837421 0.353553088452 -0.612372153203 -0.353553088452 0.707107176903 -3762.59108091 -2172.32999999 4344.67162209" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" name="__EnvironmentMainLight__">
 			<parameter type="double" name="RTambientTraceDistance" value="50.0">
 			</parameter>
@@ -27,22 +41,6 @@
 				</parameter>
 			</default>
 		</light>
-	</models>
-	<models>
-		<import src="Environments\BP Gradient\BP Gradient.apf" original_timestamp="0.0" name="room" original_apf_unit="cm" collapse_leaf_xforms="0" original_unit="cm" unit="cm">
-			<child node="room:fileroot">
-			</child>
-		</import>
-		<group name="room:fileroot">
-			<child node="room:Ground">
-			</child>
-		</group>
-		<group name="room:Ground">
-			<child node="room:GroundShape">
-			</child>
-		</group>
-		<lod_group priority="1" name="room:GroundShape" has_spline="0">
-		</lod_group>
 	</models>
 	<materials>
 		<material type="Unlit" name="Backdrop" label="Backdrop">
