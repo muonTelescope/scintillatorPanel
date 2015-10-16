@@ -59,7 +59,7 @@
 		</lod_group>
 		<lod_group priority="3" levels="3" src_id="6" name="loopLargePanel.iam:loopLargePanel:1_BODY-7" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 0.0 0.0 0.0 2.22044604925e-16 -1.0 0.0 1.0 2.22044604925e-16 0.0 -12.941121125 1.20838834345">
 		</lod_group>
-		<group transformation="1.0 3.16153353497e-16 3.89689094731e-48 -3.16153353497e-16 1.0 2.46519032882e-32 3.89689094731e-48 -2.46519032882e-32 1.0 -0.168916702271 11.4503726959 0.535000026226" original_transform="1.0 3.16153353497e-16 -1.30694829069e-45 -3.16153353497e-16 1.0 2.14105576909e-32 1.3137173103e-45 -2.14105576909e-32 1.0 -0.168916705737 6.4503726811 0.535" name="loopLargePanel.iam:fiberLargeLoop:1">
+		<group transformation="1.0 3.16153353497e-16 3.89262107642e-48 -3.16153353497e-16 1.0 2.46248918973e-32 3.89262107642e-48 -2.46248918973e-32 1.0 -0.168916702271 11.4087057114 0.535000026226" original_transform="1.0 3.16153353497e-16 -1.30694829069e-45 -3.16153353497e-16 1.0 2.14105576909e-32 1.3137173103e-45 -2.14105576909e-32 1.0 -0.168916705737 6.4503726811 0.535" name="loopLargePanel.iam:fiberLargeLoop:1">
 			<child node="loopLargePanel.iam:fiberLargeLoop:1_BODY">
 			</child>
 		</group>
@@ -83,13 +83,13 @@
 		</group>
 		<lod_group priority="3" levels="3" src_id="9" original_world_transform="1.0 2.46519032882e-32 -5.55111512313e-17 -2.46519032882e-32 1.0 1.47911419729e-31 -4.65870803881e-32 9.86076131526e-32 1.0 0.0 0.0 2.77555756156e-17" original_transform="-0.633455577908 -0.773779058141 -1.59062547513e-16 3.27387561952e-16 -6.24505525644e-17 -1.0 0.773779058141 -0.633455577908 2.928852902e-16 0.966463761472 1.57521609072 15.2283783703" transformation="-0.633455577908 -0.773779058141 -1.03551396281e-16 -0.773779058141 0.633455577908 -5.14929895125e-16 4.99201027216e-16 -2.03105946099e-16 -1.0 1.90148935574 0.809755754284 28.1694994953" name="loopLargePanel.iam:2mmSpacer:1_BODY">
 		</lod_group>
-		<group transformation="0.88673430574 0.0 -0.462279429591 0.462279429591 6.12323399574e-17 0.88673430574 2.8306451188e-17 -1.0 5.42968164609e-17 -2.16891936144 15.2283783367 -1.75000176218" original_transform="0.886734300671 3.11200025041e-16 -0.462279439315 0.462279439315 7.19613962037e-16 0.886734300671 6.08614475467e-16 -1.0 4.94245010289e-16 -2.1689189164 15.2283783703 0.25" name="loopLargePanel.iam:2mmSpacer:2">
+		<group transformation="0.886734324664 0.0 -0.462279393292 0.462279393292 -1.60812264968e-16 0.886734324664 -7.43401962832e-17 -1.0 -1.42597755174e-16 -2.16891994559 15.2283783367 -1.75000176218" original_transform="0.886734300671 3.11200025041e-16 -0.462279439315 0.462279439315 7.19613962037e-16 0.886734300671 6.08614475467e-16 -1.0 4.94245010289e-16 -2.1689189164 15.2283783703 0.25" name="loopLargePanel.iam:2mmSpacer:2">
 			<child node="loopLargePanel.iam:2mmSpacer:1_BODY-2">
 			</child>
 		</group>
 		<lod_group priority="3" levels="3" src_id="9" original_world_transform="-0.919408938033 -5.94891057964e-16 -0.393302942609 -3.47178301095e-16 1.0 -7.00966595922e-16 0.393302942609 -5.07928706123e-16 -0.919408938033 -0.58373233753 1.24344978758e-14 1.20002181284" original_transform="-0.633455577908 -0.773779058141 -1.59062547513e-16 3.27387561952e-16 -6.24505525644e-17 -1.0 0.773779058141 -0.633455577908 2.928852902e-16 0.966463761472 1.57521609072 15.2283783703" transformation="-0.815271441698 -0.425023848375 0.393302942609 0.462279439315 -0.886734300671 -1.53230192925e-17 0.348755209766 0.18181586379 0.919408938033 0.962596086392 1.58263498039 26.9694776824" name="loopLargePanel.iam:2mmSpacer:1_BODY-2">
 		</lod_group>
-		<group transformation="-1.0 1.22464679915e-16 -2.22044604925e-16 -2.22044604925e-16 -6.12323399574e-17 1.0 1.22464679915e-16 1.0 6.12323399574e-17 -0.940389092913 15.4683884381 -7.63355147828" original_transform="-1.0 3.24364939718e-16 -2.22044604925e-16 -2.22044604925e-16 -7.93123743404e-16 1.0 3.24364939718e-16 1.0 7.93123743404e-16 -0.940389065022 15.4683883703 0.36644831966" name="loopLargePanel.iam:sensor:1">
+		<group transformation="-1.0 1.22464679915e-16 -2.22044609604e-16 -2.22044609604e-16 -6.12323399574e-17 1.0 1.22464679915e-16 1.0 6.12323399574e-17 -0.940389092913 15.4683884381 -7.63355147828" original_transform="-1.0 3.24364939718e-16 -2.22044604925e-16 -2.22044604925e-16 -7.93123743404e-16 1.0 3.24364939718e-16 1.0 7.93123743404e-16 -0.940389065022 15.4683883703 0.36644831966" name="loopLargePanel.iam:sensor:1">
 			<child node="loopLargePanel.iam:pcb:1">
 			</child>
 			<child node="loopLargePanel.iam:0805:1">
@@ -651,7 +651,7 @@
 		</lod_group>
 		<lod_group priority="3" levels="3" src_id="75" name="loopLargePanel.iam:MPPC:1_BODY-5" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" transformation="1.0 3.95607378192e-32 -2.58288288697e-33 1.0555870889e-32 2.22044604925e-16 -1.0 3.52077741771e-32 1.0 2.22044604925e-16 -2.7117093617e-31 -12.941121125 5.20838834345">
 		</lod_group>
-		<group transformation="-0.847508124034 1.03789811135e-16 -0.530782422181 -0.530782422181 3.7697594794e-18 0.847508124034 8.99636301964e-17 1.0 5.18949055675e-17 -2.16891888652 15.5483984369 -4.74999987742" original_transform="-0.847508112118 -1.15201421746e-15 -0.530782441207 -0.530782441207 9.12367187283e-16 0.847508112118 -4.92072911628e-16 1.0 -1.3847075111e-15 -2.1689189164 15.5483983703 0.25" name="loopLargePanel.iam:m3x8:1">
+		<group transformation="-0.847508145535 1.03789813768e-16 -0.53078238785 -0.53078238785 3.76975527506e-18 0.847508145535 8.99636322985e-17 1.0 5.1894906884e-17 -2.16891830685 15.5483984369 -4.74999987742" original_transform="-0.847508112118 -1.15201421746e-15 -0.530782441207 -0.530782441207 9.12367187283e-16 0.847508112118 -4.92072911628e-16 1.0 -1.3847075111e-15 -2.1689189164 15.5483983703 0.25" name="loopLargePanel.iam:m3x8:1">
 			<child node="loopLargePanel.iam:m3x8:1_BODY">
 			</child>
 		</group>
@@ -4237,43 +4237,41 @@
 		</material>
 	</materials>
 	<materials src="materials.adsklib">
-		<material label="0,0,0" id="AD0AC5F2-8984-4452-A094-52FE72C91CC5" name="0,0,0" ids="loopLargePanel.iam">
+		<material label="0,0,0" id="EC513938-D426-4E18-9F70-B00DDF7F8909" name="0,0,0" ids="loopLargePanel.iam">
 		</material>
-		<material label="192,192,192" id="1E0E5C97-C513-40EA-BD18-29F606EFDBB0" name="192,192,192" ids="loopLargePanel.iam">
+		<material label="192,192,192" id="916D4597-F1DC-4ABC-A122-930F8CEFD931" name="192,192,192" ids="loopLargePanel.iam">
 		</material>
-		<material label="255,255,255" id="2230B31F-C2C0-45D4-9302-54833FE8F595" name="255,255,255" ids="loopLargePanel.iam">
+		<material label="255,255,255" id="C8D21CB7-A962-4956-833F-AB0B4B6E8DAF" name="255,255,255" ids="loopLargePanel.iam">
 		</material>
-		<material label="64,0,128" id="065C2CD2-8310-43BD-97DB-7689F31B9AB6" name="RenderStyle_99" ids="loopLargePanel.iam">
+		<material label="64,0,128" id="CAFD5A1C-AD4D-483A-8EE0-D08735C7F9E8" name="RenderStyle_99" ids="loopLargePanel.iam">
 		</material>
-		<material label="Clear (1)" id="0F120A27-2356-4D41-B832-A76BA2E4F812" name="RenderStyle_2" ids="loopLargePanel.iam">
+		<material label="Clear (1)" id="2FBE31A3-39A6-4B8A-A62C-53B36F08581D" name="RenderStyle_2" ids="loopLargePanel.iam">
 		</material>
-		<material label="Clear - Green 1" id="ABB7A538-BDFC-4168-843D-4769BB132826" name="Clear - Green 1" ids="loopLargePanel.iam">
+		<material label="Copper - Satin" id="31B8B8B0-3E47-40FA-9721-83F6A2BC730C" name="Copper - Satin" ids="loopLargePanel.iam">
 		</material>
-		<material label="Copper - Satin" id="C5B82B1E-68AA-4B3C-8709-CF63FBF50A5C" name="Copper - Satin" ids="loopLargePanel.iam">
+		<material label="Default" id="920421CB-CFA9-48FC-A723-975CE5C98FE7" name="Default" ids="loopLargePanel.iam">
 		</material>
-		<material label="Default" id="4653E451-6455-427E-84DE-2313F8E0444B" name="Default" ids="loopLargePanel.iam">
+		<material label="Galvanized" id="838F0CB9-B43B-4E12-8B35-7F3B3B795420" name="Galvanized" ids="loopLargePanel.iam">
 		</material>
-		<material label="Galvanized" id="6C8AE689-94A0-41E2-B710-7557405247D6" name="Galvanized" ids="loopLargePanel.iam">
+		<material label="Glossy - Black" id="56FE935F-8109-40BB-8EB5-807E55717C8E" name="Glossy - Black" ids="loopLargePanel.iam">
 		</material>
-		<material label="Glossy - Black" id="A8DC6470-3778-4006-9D85-76A65942F82B" name="Glossy - Black" ids="loopLargePanel.iam">
+		<material label="Gold" id="7E979506-A328-4246-B2D1-54339BEFAD0F" name="Gold" ids="loopLargePanel.iam">
 		</material>
-		<material label="Gold" id="3042D117-29D4-4BB3-914F-7BC57FA59FB8" name="Gold" ids="loopLargePanel.iam">
+		<material label="Gold - Metal" id="E9C9F4E7-FEAC-4CEA-AEDE-4A543BEAF17A" name="Gold - Metal" ids="loopLargePanel.iam">
 		</material>
-		<material label="Gold - Metal" id="B97299E3-2156-4BF5-813D-93CEA5F48DFE" name="Gold - Metal" ids="loopLargePanel.iam">
+		<material label="Nylon 6" id="7C64955D-BD72-4BD2-9985-A0198F386202" name="Nylon 6" ids="loopLargePanel.iam">
 		</material>
-		<material label="Nylon 6" id="9DEC16EF-9540-4A72-B2B4-32AFBF285A85" name="Nylon 6" ids="loopLargePanel.iam">
+		<material label="Silver" id="942D078C-51D3-4D8D-878D-6C41287E2252" name="Silver" ids="loopLargePanel.iam">
 		</material>
-		<material label="Silver" id="D4490BA7-B5F9-4A59-AE04-B67F0A605B4D" name="Silver" ids="loopLargePanel.iam">
+		<material label="Smooth - Black" id="43680E13-4F1E-4A4E-8483-5EFF4EE7F5AC" name="Smooth - Black" ids="loopLargePanel.iam">
 		</material>
-		<material label="Smooth - Black" id="03F8F4F9-AF2D-483A-88D6-554432A78BF5" name="Smooth - Black" ids="loopLargePanel.iam">
+		<material label="Smooth - Ivory" id="14B33F40-FE28-4687-9E35-234B02C66161" name="Smooth - Ivory" ids="loopLargePanel.iam">
 		</material>
-		<material label="Smooth - Ivory" id="C38C1934-8DFB-4122-98F9-24618FB8595D" name="Smooth - Ivory" ids="loopLargePanel.iam">
+		<material label="Smooth - Off-White" id="8ED6E8F0-A109-4A67-8192-2AB1FDF08DE4" name="Smooth - Off-White" ids="loopLargePanel.iam">
 		</material>
-		<material label="Smooth - Off-White" id="B9564DC6-2EAF-4867-9793-783FE050C7B4" name="Smooth - Off-White" ids="loopLargePanel.iam">
+		<material label="Smooth - White" id="B4B19CA6-1AFA-41D4-B541-CB9E1B94FEE8" name="Smooth - White" ids="loopLargePanel.iam">
 		</material>
-		<material label="Smooth - White" id="647EC668-FCFD-400E-BDB1-02333874F07D" name="Smooth - White" ids="loopLargePanel.iam">
-		</material>
-		<material label="Steel - Polished" id="5D9E3F92-6735-47F6-8663-FB263FB14F76" name="Steel - Polished" ids="loopLargePanel.iam">
+		<material label="Steel - Polished" id="339E8A86-7F58-414F-82F4-7C5C3D70F835" name="Steel - Polished" ids="loopLargePanel.iam">
 		</material>
 	</materials>
 	<material_assignments>
@@ -4527,13 +4525,13 @@
 		</preference>
 		<preference name="SceneLengthUnitPrecision" value="0">
 		</preference>
-		<preference name="DepthOfFieldFStop" value="7.99999979098">
+		<preference name="DepthOfFieldFStop" value="7.99999968211">
 		</preference>
-		<preference name="RTPresetNameAuto" value="Ambient Shadow - Interactive">
+		<preference name="RTPresetNameAuto" value="* Ambient Shadow - Interactive">
 		</preference>
 		<preference name="RTPresetNumAuto" value="1">
 		</preference>
-		<preference name="RTPresetFileAuto" value="01-InteractiveAmbientShadow.xml">
+		<preference name="RTPresetFileAuto" value="mod_01-InteractiveAmbientShadow.xml">
 		</preference>
 	</preferences>
 	<triggers>
@@ -4585,15 +4583,19 @@
 				</content>
 				<content node="loopLargePanel.iam:0805:1_BODY-7">
 				</content>
-				<content node="loopLargePanel.iam:0805:1_BODY-4">
+				<content node="loopLargePanel.iam:2mmSpacer:1_BODY-2">
 				</content>
-				<content node="loopLargePanel.iam:pcb:1_BODY-7">
+				<content node="loopLargePanel.iam:loopLargePanel:1_BODY-3">
 				</content>
 				<content node="loopLargePanel.iam:0805:1_BODY-8">
 				</content>
 				<content node="loopLargePanel.iam:0805:1_BODY-9">
 				</content>
-				<content node="loopLargePanel.iam:0805:1_BODY-24">
+				<content node="loopLargePanel.iam:m3Washer:1_BODY">
+				</content>
+				<content node="loopLargePanel.iam:pcb:1_BODY-1">
+				</content>
+				<content node="loopLargePanel.iam:pcb:1_BODY-6">
 				</content>
 				<content node="loopLargePanel.iam:SOT23_5:1_BODY-3">
 				</content>
@@ -4611,11 +4613,15 @@
 				</content>
 				<content node="loopLargePanel.iam:SOT23_5:1_BODY-8">
 				</content>
+				<content node="loopLargePanel.iam:pcb:1_BODY-8">
+				</content>
 				<content node="loopLargePanel.iam:0805 Capacitor:1_BODY-1">
 				</content>
 				<content node="loopLargePanel.iam:m3x8:1_BODY">
 				</content>
-				<content node="loopLargePanel.iam:pcb:1_BODY-9">
+				<content node="loopLargePanel.iam:0805:1_BODY-17">
+				</content>
+				<content node="loopLargePanel.iam:0805 Capacitor:1_BODY-2">
 				</content>
 				<content node="loopLargePanel.iam:0805:1_BODY-18">
 				</content>
@@ -4641,9 +4647,9 @@
 				</content>
 				<content node="loopLargePanel.iam:FH33-4S-1SH:1_BODY-25">
 				</content>
-				<content node="loopLargePanel.iam:0805:1_BODY-32">
-				</content>
 				<content node="loopLargePanel.iam:0805:1_BODY-34">
+				</content>
+				<content node="loopLargePanel.iam:0805:1_BODY-24">
 				</content>
 				<content node="loopLargePanel.iam:2mmSpacer:1_BODY">
 				</content>
@@ -4655,23 +4661,23 @@
 				</content>
 				<content node="loopLargePanel.iam:m3x8:1_BODY-2">
 				</content>
-				<content node="loopLargePanel.iam:pcb:1_BODY-6">
+				<content node="loopLargePanel.iam:0805:1_BODY-27">
 				</content>
 				<content node="loopLargePanel.iam:128-0711-201:1_BODY-4">
 				</content>
-				<content node="loopLargePanel.iam:0805:1_BODY-21">
+				<content node="loopLargePanel.iam:pcb:1_BODY-3">
 				</content>
-				<content node="loopLargePanel.iam:MPPC:1_BODY-5">
+				<content node="loopLargePanel.iam:0805:1_BODY-32">
 				</content>
-				<content node="loopLargePanel.iam:pcb:1_BODY-1">
+				<content node="loopLargePanel.iam:0805:1_BODY-23">
 				</content>
 				<content node="loopLargePanel.iam:0805:1_BODY-22">
 				</content>
-				<content node="loopLargePanel.iam:m3Washer:1_BODY">
+				<content node="loopLargePanel.iam:pcb:1_BODY-7">
 				</content>
-				<content node="loopLargePanel.iam:2mmSpacer:1_BODY-2">
+				<content node="loopLargePanel.iam:0805:1_BODY-4">
 				</content>
-				<content node="loopLargePanel.iam:0805:1_BODY-27">
+				<content node="loopLargePanel.iam:pcb:1_BODY-5">
 				</content>
 				<content node="loopLargePanel.iam:FH33-4S-1SH:1_BODY-10">
 				</content>
@@ -4679,9 +4685,9 @@
 				</content>
 				<content node="loopLargePanel.iam:0805:1_BODY-28">
 				</content>
-				<content node="loopLargePanel.iam:0805 Capacitor:1_BODY-2">
+				<content node="loopLargePanel.iam:pcb:1_BODY-9">
 				</content>
-				<content node="loopLargePanel.iam:pcb:1_BODY-8">
+				<content node="loopLargePanel.iam:0805 Capacitor:1_BODY-3">
 				</content>
 				<content node="loopLargePanel.iam:0805 Capacitor:1_BODY-5">
 				</content>
@@ -4733,6 +4739,8 @@
 				</content>
 				<content node="loopLargePanel.iam:MPPC:1_BODY-4">
 				</content>
+				<content node="loopLargePanel.iam:0805:1_BODY-21">
+				</content>
 				<content node="loopLargePanel.iam:pcb:1_BODY-21">
 				</content>
 				<content node="loopLargePanel.iam:FH33-4S-1SH:1_BODY-15">
@@ -4747,9 +4755,9 @@
 				</content>
 				<content node="loopLargePanel.iam:FH33-4S-1SH:1_BODY-18">
 				</content>
-				<content node="loopLargePanel.iam:0805 Capacitor:1_BODY-3">
+				<content node="loopLargePanel.iam:MPPC:1_BODY-5">
 				</content>
-				<content node="loopLargePanel.iam:loopLargePanel:1_BODY-3">
+				<content node="loopLargePanel.iam:loopLargePanel:1_BODY-2">
 				</content>
 				<content node="loopLargePanel.iam:128-0711-201:1_BODY-5">
 				</content>
@@ -4757,11 +4765,9 @@
 				</content>
 				<content node="loopLargePanel.iam:FH33-4S-1SH:1_BODY-12">
 				</content>
-				<content node="loopLargePanel.iam:0805:1_BODY-17">
+				<content node="loopLargePanel.iam:pcb:1_BODY-25">
 				</content>
 				<content node="loopLargePanel.iam:0805:1_BODY-14">
-				</content>
-				<content node="loopLargePanel.iam:pcb:1_BODY-3">
 				</content>
 				<content node="loopLargePanel.iam:loopLargePanel:1_BODY-6">
 				</content>
@@ -4771,21 +4777,13 @@
 				</content>
 				<content node="loopLargePanel.iam:loopLargePanel:1_BODY-5">
 				</content>
-				<content node="loopLargePanel.iam:loopLargePanel:1_BODY-2">
+				<content node="loopLargePanel.iam:128-0711-201:1_BODY-2">
 				</content>
 				<content node="loopLargePanel.iam:128-0711-201:1_BODY-3">
 				</content>
 				<content node="loopLargePanel.iam:128-0711-201:1_BODY-1">
 				</content>
-				<content node="loopLargePanel.iam:128-0711-201:1_BODY-2">
-				</content>
-				<content node="loopLargePanel.iam:pcb:1_BODY-5">
-				</content>
 				<content node="loopLargePanel.iam:m3Washer:1_BODY-2">
-				</content>
-				<content node="loopLargePanel.iam:pcb:1_BODY-25">
-				</content>
-				<content node="loopLargePanel.iam:0805:1_BODY-23">
 				</content>
 			</alternative>
 			<alternative image="alternativeImage (1).jpg" name="Alternate2" label="No PCB">
@@ -4851,15 +4849,17 @@
 				</content>
 				<content node="loopLargePanel.iam:0805:1_BODY-7">
 				</content>
-				<content node="loopLargePanel.iam:0805:1_BODY-4">
-				</content>
-				<content node="loopLargePanel.iam:pcb:1_BODY-7">
+				<content node="loopLargePanel.iam:2mmSpacer:1_BODY-2">
 				</content>
 				<content node="loopLargePanel.iam:0805:1_BODY-8">
 				</content>
 				<content node="loopLargePanel.iam:0805:1_BODY-9">
 				</content>
-				<content node="loopLargePanel.iam:0805:1_BODY-24">
+				<content node="loopLargePanel.iam:m3Washer:1_BODY">
+				</content>
+				<content node="loopLargePanel.iam:pcb:1_BODY-1">
+				</content>
+				<content node="loopLargePanel.iam:pcb:1_BODY-6">
 				</content>
 				<content node="loopLargePanel.iam:SOT23_5:1_BODY-3">
 				</content>
@@ -4877,11 +4877,13 @@
 				</content>
 				<content node="loopLargePanel.iam:SOT23_5:1_BODY-8">
 				</content>
+				<content node="loopLargePanel.iam:pcb:1_BODY-8">
+				</content>
 				<content node="loopLargePanel.iam:0805 Capacitor:1_BODY-1">
 				</content>
 				<content node="loopLargePanel.iam:m3x8:1_BODY">
 				</content>
-				<content node="loopLargePanel.iam:pcb:1_BODY-9">
+				<content node="loopLargePanel.iam:0805 Capacitor:1_BODY-2">
 				</content>
 				<content node="loopLargePanel.iam:0805:1_BODY-18">
 				</content>
@@ -4907,9 +4909,9 @@
 				</content>
 				<content node="loopLargePanel.iam:0805:1_BODY-17">
 				</content>
-				<content node="loopLargePanel.iam:0805:1_BODY-32">
-				</content>
 				<content node="loopLargePanel.iam:0805:1_BODY-34">
+				</content>
+				<content node="loopLargePanel.iam:0805:1_BODY-24">
 				</content>
 				<content node="loopLargePanel.iam:2mmSpacer:1_BODY">
 				</content>
@@ -4919,21 +4921,21 @@
 				</content>
 				<content node="loopLargePanel.iam:0805:1_BODY-33">
 				</content>
-				<content node="loopLargePanel.iam:pcb:1_BODY-6">
+				<content node="loopLargePanel.iam:0805:1_BODY-27">
 				</content>
-				<content node="loopLargePanel.iam:0805:1_BODY-21">
+				<content node="loopLargePanel.iam:pcb:1_BODY-3">
 				</content>
-				<content node="loopLargePanel.iam:MPPC:1_BODY-5">
+				<content node="loopLargePanel.iam:0805:1_BODY-32">
 				</content>
-				<content node="loopLargePanel.iam:pcb:1_BODY-1">
+				<content node="loopLargePanel.iam:0805:1_BODY-23">
 				</content>
 				<content node="loopLargePanel.iam:0805:1_BODY-22">
 				</content>
-				<content node="loopLargePanel.iam:m3Washer:1_BODY">
+				<content node="loopLargePanel.iam:pcb:1_BODY-7">
 				</content>
-				<content node="loopLargePanel.iam:2mmSpacer:1_BODY-2">
+				<content node="loopLargePanel.iam:0805:1_BODY-4">
 				</content>
-				<content node="loopLargePanel.iam:0805:1_BODY-27">
+				<content node="loopLargePanel.iam:pcb:1_BODY-5">
 				</content>
 				<content node="loopLargePanel.iam:FH33-4S-1SH:1_BODY-10">
 				</content>
@@ -4941,9 +4943,9 @@
 				</content>
 				<content node="loopLargePanel.iam:0805:1_BODY-28">
 				</content>
-				<content node="loopLargePanel.iam:0805 Capacitor:1_BODY-2">
+				<content node="loopLargePanel.iam:pcb:1_BODY-9">
 				</content>
-				<content node="loopLargePanel.iam:pcb:1_BODY-8">
+				<content node="loopLargePanel.iam:0805 Capacitor:1_BODY-3">
 				</content>
 				<content node="loopLargePanel.iam:0805 Capacitor:1_BODY-5">
 				</content>
@@ -4993,6 +4995,8 @@
 				</content>
 				<content node="loopLargePanel.iam:MPPC:1_BODY-4">
 				</content>
+				<content node="loopLargePanel.iam:0805:1_BODY-21">
+				</content>
 				<content node="loopLargePanel.iam:pcb:1_BODY-21">
 				</content>
 				<content node="loopLargePanel.iam:FH33-4S-1SH:1_BODY-15">
@@ -5007,7 +5011,7 @@
 				</content>
 				<content node="loopLargePanel.iam:FH33-4S-1SH:1_BODY-18">
 				</content>
-				<content node="loopLargePanel.iam:0805 Capacitor:1_BODY-3">
+				<content node="loopLargePanel.iam:MPPC:1_BODY-5">
 				</content>
 				<content node="loopLargePanel.iam:pcb:1_BODY-24">
 				</content>
@@ -5016,8 +5020,6 @@
 				<content node="loopLargePanel.iam:m3x8:1_BODY-2">
 				</content>
 				<content node="loopLargePanel.iam:0805:1_BODY-14">
-				</content>
-				<content node="loopLargePanel.iam:pcb:1_BODY-3">
 				</content>
 				<content node="loopLargePanel.iam:128-0711-201:1_BODY-4">
 				</content>
@@ -5029,13 +5031,9 @@
 				</content>
 				<content node="loopLargePanel.iam:128-0711-201:1_BODY-1">
 				</content>
-				<content node="loopLargePanel.iam:pcb:1_BODY-5">
-				</content>
 				<content node="loopLargePanel.iam:m3Washer:1_BODY-2">
 				</content>
 				<content node="loopLargePanel.iam:pcb:1_BODY-25">
-				</content>
-				<content node="loopLargePanel.iam:0805:1_BODY-23">
 				</content>
 			</alternative>
 		</alternative_set>
@@ -5141,15 +5139,17 @@
 				</content>
 				<content node="loopLargePanel.iam:0805:1_BODY-7">
 				</content>
-				<content node="loopLargePanel.iam:0805:1_BODY-4">
-				</content>
-				<content node="loopLargePanel.iam:pcb:1_BODY-7">
+				<content node="loopLargePanel.iam:2mmSpacer:1_BODY-2">
 				</content>
 				<content node="loopLargePanel.iam:0805:1_BODY-8">
 				</content>
 				<content node="loopLargePanel.iam:0805:1_BODY-9">
 				</content>
-				<content node="loopLargePanel.iam:0805:1_BODY-24">
+				<content node="loopLargePanel.iam:m3Washer:1_BODY">
+				</content>
+				<content node="loopLargePanel.iam:pcb:1_BODY-1">
+				</content>
+				<content node="loopLargePanel.iam:pcb:1_BODY-6">
 				</content>
 				<content node="loopLargePanel.iam:SOT23_5:1_BODY-3">
 				</content>
@@ -5167,11 +5167,13 @@
 				</content>
 				<content node="loopLargePanel.iam:SOT23_5:1_BODY-8">
 				</content>
+				<content node="loopLargePanel.iam:pcb:1_BODY-8">
+				</content>
 				<content node="loopLargePanel.iam:0805 Capacitor:1_BODY-1">
 				</content>
 				<content node="loopLargePanel.iam:m3x8:1_BODY">
 				</content>
-				<content node="loopLargePanel.iam:pcb:1_BODY-9">
+				<content node="loopLargePanel.iam:0805 Capacitor:1_BODY-2">
 				</content>
 				<content node="loopLargePanel.iam:0805:1_BODY-18">
 				</content>
@@ -5197,9 +5199,9 @@
 				</content>
 				<content node="loopLargePanel.iam:0805:1_BODY-17">
 				</content>
-				<content node="loopLargePanel.iam:0805:1_BODY-32">
-				</content>
 				<content node="loopLargePanel.iam:0805:1_BODY-34">
+				</content>
+				<content node="loopLargePanel.iam:0805:1_BODY-24">
 				</content>
 				<content node="loopLargePanel.iam:2mmSpacer:1_BODY">
 				</content>
@@ -5209,21 +5211,21 @@
 				</content>
 				<content node="loopLargePanel.iam:0805:1_BODY-33">
 				</content>
-				<content node="loopLargePanel.iam:pcb:1_BODY-6">
+				<content node="loopLargePanel.iam:0805:1_BODY-27">
 				</content>
-				<content node="loopLargePanel.iam:0805:1_BODY-21">
+				<content node="loopLargePanel.iam:pcb:1_BODY-3">
 				</content>
-				<content node="loopLargePanel.iam:MPPC:1_BODY-5">
+				<content node="loopLargePanel.iam:0805:1_BODY-32">
 				</content>
-				<content node="loopLargePanel.iam:pcb:1_BODY-1">
+				<content node="loopLargePanel.iam:0805:1_BODY-23">
 				</content>
 				<content node="loopLargePanel.iam:0805:1_BODY-22">
 				</content>
-				<content node="loopLargePanel.iam:m3Washer:1_BODY">
+				<content node="loopLargePanel.iam:pcb:1_BODY-7">
 				</content>
-				<content node="loopLargePanel.iam:2mmSpacer:1_BODY-2">
+				<content node="loopLargePanel.iam:0805:1_BODY-4">
 				</content>
-				<content node="loopLargePanel.iam:0805:1_BODY-27">
+				<content node="loopLargePanel.iam:pcb:1_BODY-5">
 				</content>
 				<content node="loopLargePanel.iam:FH33-4S-1SH:1_BODY-10">
 				</content>
@@ -5231,9 +5233,9 @@
 				</content>
 				<content node="loopLargePanel.iam:0805:1_BODY-28">
 				</content>
-				<content node="loopLargePanel.iam:0805 Capacitor:1_BODY-2">
+				<content node="loopLargePanel.iam:pcb:1_BODY-9">
 				</content>
-				<content node="loopLargePanel.iam:pcb:1_BODY-8">
+				<content node="loopLargePanel.iam:0805 Capacitor:1_BODY-3">
 				</content>
 				<content node="loopLargePanel.iam:0805 Capacitor:1_BODY-5">
 				</content>
@@ -5283,6 +5285,8 @@
 				</content>
 				<content node="loopLargePanel.iam:MPPC:1_BODY-4">
 				</content>
+				<content node="loopLargePanel.iam:0805:1_BODY-21">
+				</content>
 				<content node="loopLargePanel.iam:pcb:1_BODY-21">
 				</content>
 				<content node="loopLargePanel.iam:FH33-4S-1SH:1_BODY-15">
@@ -5297,7 +5301,7 @@
 				</content>
 				<content node="loopLargePanel.iam:FH33-4S-1SH:1_BODY-18">
 				</content>
-				<content node="loopLargePanel.iam:0805 Capacitor:1_BODY-3">
+				<content node="loopLargePanel.iam:MPPC:1_BODY-5">
 				</content>
 				<content node="loopLargePanel.iam:pcb:1_BODY-24">
 				</content>
@@ -5306,8 +5310,6 @@
 				<content node="loopLargePanel.iam:m3x8:1_BODY-2">
 				</content>
 				<content node="loopLargePanel.iam:0805:1_BODY-14">
-				</content>
-				<content node="loopLargePanel.iam:pcb:1_BODY-3">
 				</content>
 				<content node="loopLargePanel.iam:128-0711-201:1_BODY-4">
 				</content>
@@ -5319,13 +5321,9 @@
 				</content>
 				<content node="loopLargePanel.iam:128-0711-201:1_BODY-1">
 				</content>
-				<content node="loopLargePanel.iam:pcb:1_BODY-5">
-				</content>
 				<content node="loopLargePanel.iam:m3Washer:1_BODY-2">
 				</content>
 				<content node="loopLargePanel.iam:pcb:1_BODY-25">
-				</content>
-				<content node="loopLargePanel.iam:0805:1_BODY-23">
 				</content>
 			</alternative>
 			<alternative image="alternativeImage (17).jpg" name="Alternate2" label="No Hardware">
@@ -5397,9 +5395,11 @@
 				</content>
 				<content node="loopLargePanel.iam:SOT23_5:1_BODY-8">
 				</content>
+				<content node="loopLargePanel.iam:pcb:1_BODY-8">
+				</content>
 				<content node="loopLargePanel.iam:0805 Capacitor:1_BODY-1">
 				</content>
-				<content node="loopLargePanel.iam:pcb:1_BODY-9">
+				<content node="loopLargePanel.iam:0805 Capacitor:1_BODY-2">
 				</content>
 				<content node="loopLargePanel.iam:0805:1_BODY-18">
 				</content>
@@ -5435,7 +5435,9 @@
 				</content>
 				<content node="loopLargePanel.iam:0805:1_BODY-33">
 				</content>
-				<content node="loopLargePanel.iam:pcb:1_BODY-3">
+				<content node="loopLargePanel.iam:0805:1_BODY-27">
+				</content>
+				<content node="loopLargePanel.iam:0805:1_BODY-21">
 				</content>
 				<content node="loopLargePanel.iam:MPPC:1_BODY-5">
 				</content>
@@ -5447,7 +5449,7 @@
 				</content>
 				<content node="loopLargePanel.iam:0805:1_BODY-24">
 				</content>
-				<content node="loopLargePanel.iam:0805:1_BODY-27">
+				<content node="loopLargePanel.iam:pcb:1_BODY-5">
 				</content>
 				<content node="loopLargePanel.iam:FH33-4S-1SH:1_BODY-10">
 				</content>
@@ -5455,9 +5457,9 @@
 				</content>
 				<content node="loopLargePanel.iam:0805:1_BODY-28">
 				</content>
-				<content node="loopLargePanel.iam:0805 Capacitor:1_BODY-2">
+				<content node="loopLargePanel.iam:pcb:1_BODY-9">
 				</content>
-				<content node="loopLargePanel.iam:pcb:1_BODY-8">
+				<content node="loopLargePanel.iam:0805 Capacitor:1_BODY-3">
 				</content>
 				<content node="loopLargePanel.iam:0805 Capacitor:1_BODY-5">
 				</content>
@@ -5507,8 +5509,6 @@
 				</content>
 				<content node="loopLargePanel.iam:MPPC:1_BODY-4">
 				</content>
-				<content node="loopLargePanel.iam:0805:1_BODY-21">
-				</content>
 				<content node="loopLargePanel.iam:pcb:1_BODY-21">
 				</content>
 				<content node="loopLargePanel.iam:FH33-4S-1SH:1_BODY-15">
@@ -5523,8 +5523,6 @@
 				</content>
 				<content node="loopLargePanel.iam:FH33-4S-1SH:1_BODY-18">
 				</content>
-				<content node="loopLargePanel.iam:0805 Capacitor:1_BODY-3">
-				</content>
 				<content node="loopLargePanel.iam:pcb:1_BODY-24">
 				</content>
 				<content node="loopLargePanel.iam:FH33-4S-1SH:1_BODY-12">
@@ -5532,6 +5530,8 @@
 				<content node="loopLargePanel.iam:pcb:1_BODY-25">
 				</content>
 				<content node="loopLargePanel.iam:0805:1_BODY-14">
+				</content>
+				<content node="loopLargePanel.iam:pcb:1_BODY-3">
 				</content>
 				<content node="loopLargePanel.iam:128-0711-201:1_BODY-4">
 				</content>
@@ -5542,8 +5542,6 @@
 				<content node="loopLargePanel.iam:128-0711-201:1_BODY-3">
 				</content>
 				<content node="loopLargePanel.iam:128-0711-201:1_BODY-1">
-				</content>
-				<content node="loopLargePanel.iam:pcb:1_BODY-5">
 				</content>
 			</alternative>
 		</alternative_set>
@@ -5633,7 +5631,7 @@
 				</content>
 			</alternative>
 		</alternative_set>
-		<alternative_set current="Alternate1" type="POSITIONAL" name="Lineup8" label="Exploded View">
+		<alternative_set type="POSITIONAL" name="Lineup8" label="Exploded View">
 			<alternative image="alternativeImage (29).jpg" name="Alternate1" label="Base">
 				<content node="loopLargePanel.iam:pcb:1_BODY-17" position="1.0 1.42817711429e-32 8.43258420097e-32 -1.73275305018e-32 2.22044604925e-16 -1.0 -1.73275305018e-32 1.0 2.22044604925e-16 9.02485078863e-32 -12.941121125 5.20838834345" positionType="rto">
 				</content>
@@ -5677,7 +5675,7 @@
 				</content>
 				<content node="loopLargePanel.iam:0805:1_BODY-7" position="1.0 6.00017802013e-16 -9.26538856846e-16 -9.26538856846e-16 2.22044604925e-16 -1.0 -6.00017802013e-16 1.0 2.22044604925e-16 1.74860126378e-15 -12.941121125 5.20838834345" positionType="rto">
 				</content>
-				<content node="loopLargePanel.iam:2mmSpacer:1_BODY-2" position="0.845312795335 -0.393302942609 -0.361606240789 0.393302942609 2.22044604925e-16 0.919408938033 -0.361606240789 -0.919408938033 0.154687204665 -0.00329058110871 -11.7410993121 -0.00769226302404" positionType="rto">
+				<content node="loopLargePanel.iam:0805:1_BODY-4" position="1.0 -2.18641894671e-32 2.18641894671e-32 1.28579928423e-33 2.22044604925e-16 -1.0 1.28579928423e-33 1.0 2.22044604925e-16 -6.69694200401e-33 -12.941121125 5.20838834345" positionType="rto">
 				</content>
 				<content node="loopLargePanel.iam:0805:1_BODY-8" position="1.0 6.00017802013e-16 -9.26538856846e-16 -9.26538856846e-16 2.22044604925e-16 -1.0 -6.00017802013e-16 1.0 2.22044604925e-16 1.74860126378e-15 -12.941121125 5.20838834345" positionType="rto">
 				</content>
@@ -5687,7 +5685,7 @@
 				</content>
 				<content node="loopLargePanel.iam:pcb:1_BODY-1" position="1.0 1.42817711429e-32 8.43258420097e-32 -1.73275305018e-32 2.22044604925e-16 -1.0 -1.73275305018e-32 1.0 2.22044604925e-16 9.02485078863e-32 -12.941121125 5.20838834345" positionType="rto">
 				</content>
-				<content node="loopLargePanel.iam:pcb:1_BODY-6" position="1.0 1.42817711429e-32 8.43258420097e-32 -1.73275305018e-32 2.22044604925e-16 -1.0 -1.73275305018e-32 1.0 2.22044604925e-16 9.02485078863e-32 -12.941121125 5.20838834345" positionType="rto">
+				<content node="loopLargePanel.iam:0805:1_BODY-24" position="1.0 -2.22165265541e-18 -8.54883795023e-17 -8.54883795023e-17 2.22044604925e-16 -1.0 2.22165265541e-18 1.0 2.22044604925e-16 -2.49800180541e-16 -12.941121125 5.20838834345" positionType="rto">
 				</content>
 				<content node="loopLargePanel.iam:SOT23_5:1_BODY-3" position="1.0 -2.31821501341e-32 2.31821501341e-32 -9.39985989798e-33 2.22044604925e-16 -1.0 -9.39985989798e-33 1.0 2.22044604925e-16 4.89581207227e-32 -12.941121125 5.20838834345" positionType="rto">
 				</content>
@@ -5743,8 +5741,6 @@
 				</content>
 				<content node="loopLargePanel.iam:0805:1_BODY-34" position="1.0 2.85993522356e-16 2.02726795509e-16 2.02726795509e-16 2.22044604925e-16 -1.0 -2.85993522356e-16 1.0 2.22044604925e-16 3.21964677141e-15 -13.2617137668 5.52898098525" positionType="rto">
 				</content>
-				<content node="loopLargePanel.iam:0805:1_BODY-24" position="1.0 -2.22165265541e-18 -8.54883795023e-17 -8.54883795023e-17 2.22044604925e-16 -1.0 2.22165265541e-18 1.0 2.22044604925e-16 -2.49800180541e-16 -12.941121125 5.20838834345" positionType="rto">
-				</content>
 				<content node="loopLargePanel.iam:2mmSpacer:1_BODY" position="1.0 -5.55111512313e-17 -3.03286807504e-32 8.19060609089e-32 2.22044604925e-16 -1.0 0.0 1.0 2.22044604925e-16 -2.22044604925e-16 -12.941121125 1.20838834345" positionType="rto">
 				</content>
 				<content node="loopLargePanel.iam:0805:1_BODY-26" position="2.22044604925e-16 -1.0 -1.28902796209e-16 1.0 2.22044604925e-16 -1.23912582083e-15 1.23912582083e-15 -1.28902796209e-16 1.0 -4.80858613934 -12.5413189209 -5.88418203051e-15" positionType="rto">
@@ -5755,11 +5751,11 @@
 				</content>
 				<content node="loopLargePanel.iam:m3x8:1_BODY-2" position="0.324711272338 -0.821759531531 0.468266870443 0.821759531531 2.22044604925e-16 -0.569834425371 0.468266870443 0.569834425371 0.675288727662 -2.36927796921 -14.615909524 1.64293336229" positionType="rto">
 				</content>
-				<content node="loopLargePanel.iam:0805:1_BODY-27" position="2.22044604925e-16 -1.0 -1.28902796209e-16 1.0 2.22044604925e-16 -1.23912582083e-15 1.23912582083e-15 -1.28902796209e-16 1.0 -4.80858613934 -12.5413189209 -5.88418203051e-15" positionType="rto">
+				<content node="loopLargePanel.iam:pcb:1_BODY-6" position="1.0 1.42817711429e-32 8.43258420097e-32 -1.73275305018e-32 2.22044604925e-16 -1.0 -1.73275305018e-32 1.0 2.22044604925e-16 9.02485078863e-32 -12.941121125 5.20838834345" positionType="rto">
 				</content>
 				<content node="loopLargePanel.iam:loopLargePanel:1_BODY-4" position="1.0 0.0 0.0 0.0 2.22044604925e-16 -1.0 0.0 1.0 2.22044604925e-16 0.0 -12.941121125 1.20838834345" positionType="rto">
 				</content>
-				<content node="loopLargePanel.iam:pcb:1_BODY-3" position="1.0 1.42817711429e-32 8.43258420097e-32 -1.73275305018e-32 2.22044604925e-16 -1.0 -1.73275305018e-32 1.0 2.22044604925e-16 9.02485078863e-32 -12.941121125 5.20838834345" positionType="rto">
+				<content node="loopLargePanel.iam:0805:1_BODY-21" position="1.0 -2.22165265541e-18 -8.54883795023e-17 -8.54883795023e-17 2.22044604925e-16 -1.0 2.22165265541e-18 1.0 2.22044604925e-16 -2.49800180541e-16 -12.941121125 5.20838834345" positionType="rto">
 				</content>
 				<content node="loopLargePanel.iam:FH33-4S-1SH:1_BODY-11" position="1.0 -1.12316832769e-31 8.48983935365e-32 7.36146457069e-33 2.22044604925e-16 -1.0 -7.36146457069e-33 1.0 2.22044604925e-16 9.52656046666e-32 -12.941121125 5.20838834345" positionType="rto">
 				</content>
@@ -5769,9 +5765,9 @@
 				</content>
 				<content node="loopLargePanel.iam:pcb:1_BODY-7" position="1.0 1.42817711429e-32 8.43258420097e-32 -1.73275305018e-32 2.22044604925e-16 -1.0 -1.73275305018e-32 1.0 2.22044604925e-16 9.02485078863e-32 -12.941121125 5.20838834345" positionType="rto">
 				</content>
-				<content node="loopLargePanel.iam:0805:1_BODY-4" position="1.0 -2.18641894671e-32 2.18641894671e-32 1.28579928423e-33 2.22044604925e-16 -1.0 1.28579928423e-33 1.0 2.22044604925e-16 -6.69694200401e-33 -12.941121125 5.20838834345" positionType="rto">
+				<content node="loopLargePanel.iam:2mmSpacer:1_BODY-2" position="0.845312795335 -0.393302942609 -0.361606240789 0.393302942609 2.22044604925e-16 0.919408938033 -0.361606240789 -0.919408938033 0.154687204665 -0.00329058110871 -11.7410993121 -0.00769226302404" positionType="rto">
 				</content>
-				<content node="loopLargePanel.iam:pcb:1_BODY-5" position="1.0 1.42817711429e-32 8.43258420097e-32 -1.73275305018e-32 2.22044604925e-16 -1.0 -1.73275305018e-32 1.0 2.22044604925e-16 9.02485078863e-32 -12.941121125 5.20838834345" positionType="rto">
+				<content node="loopLargePanel.iam:0805:1_BODY-27" position="2.22044604925e-16 -1.0 -1.28902796209e-16 1.0 2.22044604925e-16 -1.23912582083e-15 1.23912582083e-15 -1.28902796209e-16 1.0 -4.80858613934 -12.5413189209 -5.88418203051e-15" positionType="rto">
 				</content>
 				<content node="loopLargePanel.iam:FH33-4S-1SH:1_BODY-10" position="1.0 -1.12316832769e-31 8.48983935365e-32 7.36146457069e-33 2.22044604925e-16 -1.0 -7.36146457069e-33 1.0 2.22044604925e-16 9.52656046666e-32 -12.941121125 5.20838834345" positionType="rto">
 				</content>
@@ -5835,8 +5831,6 @@
 				</content>
 				<content node="loopLargePanel.iam:MPPC:1_BODY-4" position="1.0 3.95607378192e-32 -2.58288288697e-33 1.0555870889e-32 2.22044604925e-16 -1.0 3.52077741771e-32 1.0 2.22044604925e-16 -2.7117093617e-31 -12.941121125 5.20838834345" positionType="rto">
 				</content>
-				<content node="loopLargePanel.iam:0805:1_BODY-21" position="1.0 -2.22165265541e-18 -8.54883795023e-17 -8.54883795023e-17 2.22044604925e-16 -1.0 2.22165265541e-18 1.0 2.22044604925e-16 -2.49800180541e-16 -12.941121125 5.20838834345" positionType="rto">
-				</content>
 				<content node="loopLargePanel.iam:0805:1_BODY-31" position="1.0 2.85993522356e-16 2.02726795509e-16 2.02726795509e-16 2.22044604925e-16 -1.0 -2.85993522356e-16 1.0 2.22044604925e-16 3.21964677141e-15 -13.2617137668 5.52898098525" positionType="rto">
 				</content>
 				<content node="loopLargePanel.iam:FH33-4S-1SH:1_BODY-15" position="1.0 -6.64309295998e-16 6.51826058038e-16 -6.51826058038e-16 2.22044604925e-16 1.0 -6.64309295998e-16 -1.0 2.22044604925e-16 -8.05952526939e-15 -12.1832314531 -4.45049867153" positionType="rto">
@@ -5863,6 +5857,8 @@
 				</content>
 				<content node="loopLargePanel.iam:0805:1_BODY-14" position="1.0 -2.42611693359e-16 3.95766545801e-16 3.95766545801e-16 2.22044604925e-16 -1.0 2.42611693359e-16 1.0 2.22044604925e-16 2.22044604925e-16 -12.941121125 5.20838834345" positionType="rto">
 				</content>
+				<content node="loopLargePanel.iam:pcb:1_BODY-3" position="1.0 1.42817711429e-32 8.43258420097e-32 -1.73275305018e-32 2.22044604925e-16 -1.0 -1.73275305018e-32 1.0 2.22044604925e-16 9.02485078863e-32 -12.941121125 5.20838834345" positionType="rto">
+				</content>
 				<content node="loopLargePanel.iam:loopLargePanel:1_BODY-6" position="1.0 0.0 0.0 0.0 2.22044604925e-16 -1.0 0.0 1.0 2.22044604925e-16 0.0 -12.941121125 1.20838834345" positionType="rto">
 				</content>
 				<content node="loopLargePanel.iam:loopLargePanel:1_BODY-7" position="1.0 0.0 0.0 0.0 2.22044604925e-16 -1.0 0.0 1.0 2.22044604925e-16 0.0 -12.941121125 1.20838834345" positionType="rto">
@@ -5876,6 +5872,8 @@
 				<content node="loopLargePanel.iam:loopLargePanel:1_BODY-3" position="1.0 0.0 0.0 0.0 2.22044604925e-16 -1.0 0.0 1.0 2.22044604925e-16 0.0 -12.941121125 1.20838834345" positionType="rto">
 				</content>
 				<content node="loopLargePanel.iam:loopLargePanel:1_BODY-1" position="1.0 0.0 0.0 0.0 2.22044604925e-16 -1.0 0.0 1.0 2.22044604925e-16 0.0 -12.941121125 1.20838834345" positionType="rto">
+				</content>
+				<content node="loopLargePanel.iam:pcb:1_BODY-5" position="1.0 1.42817711429e-32 8.43258420097e-32 -1.73275305018e-32 2.22044604925e-16 -1.0 -1.73275305018e-32 1.0 2.22044604925e-16 9.02485078863e-32 -12.941121125 5.20838834345" positionType="rto">
 				</content>
 				<content node="loopLargePanel.iam:m3Washer:1_BODY-2" position="0.999999999379 -2.49276933751e-05 2.49276933642e-05 2.4927693372e-05 2.22044604925e-16 -0.999999999689 2.49276933673e-05 0.999999999689 6.21390118969e-10 -3.01211963007e-05 -12.9410754803 1.20834269837" positionType="rto">
 				</content>
@@ -5923,7 +5921,7 @@
 				</content>
 				<content node="loopLargePanel.iam:0805:1_BODY-7" position="1.0 6.00017802013e-16 -9.26538856846e-16 -9.26538856846e-16 2.22044604925e-16 -1.0 -6.00017802013e-16 1.0 2.22044604925e-16 -1.30451205393e-15 -12.941121125 1.20838834345" positionType="rto">
 				</content>
-				<content node="loopLargePanel.iam:0805:1_BODY-4" position="1.0 -2.18641894671e-32 2.18641894671e-32 1.28579928423e-33 2.22044604925e-16 -1.0 1.28579928423e-33 1.0 2.22044604925e-16 -1.55374486709e-33 -12.941121125 1.20838834345" positionType="rto">
+				<content node="loopLargePanel.iam:2mmSpacer:1_BODY-2" position="0.845312795335 -0.393302942609 -0.361606240789 0.393302942609 2.22044604925e-16 0.919408938033 -0.361606240789 -0.919408938033 0.154687204665 0.783315304108 -11.7410993121 1.83112561304" positionType="rto">
 				</content>
 				<content node="loopLargePanel.iam:0805:1_BODY-8" position="1.0 6.00017802013e-16 -9.26538856846e-16 -9.26538856846e-16 2.22044604925e-16 -1.0 -6.00017802013e-16 1.0 2.22044604925e-16 -1.30451205393e-15 -12.941121125 1.20838834345" positionType="rto">
 				</content>
@@ -5933,7 +5931,7 @@
 				</content>
 				<content node="loopLargePanel.iam:pcb:1_BODY-1" position="1.0 1.42817711429e-32 8.43258420097e-32 -1.73275305018e-32 2.22044604925e-16 -1.0 -1.73275305018e-32 1.0 2.22044604925e-16 2.09383858792e-32 -12.941121125 1.20838834345" positionType="rto">
 				</content>
-				<content node="loopLargePanel.iam:pcb:1_BODY-6" position="1.0 1.42817711429e-32 8.43258420097e-32 -1.73275305018e-32 2.22044604925e-16 -1.0 -1.73275305018e-32 1.0 2.22044604925e-16 2.09383858792e-32 -12.941121125 1.20838834345" positionType="rto">
+				<content node="loopLargePanel.iam:0805:1_BODY-24" position="1.0 -2.22165265541e-18 -8.54883795023e-17 -8.54883795023e-17 2.22044604925e-16 -1.0 2.22165265541e-18 1.0 2.22044604925e-16 -4.4408920985e-16 -12.941121125 1.20838834345" positionType="rto">
 				</content>
 				<content node="loopLargePanel.iam:SOT23_5:1_BODY-3" position="1.0 -2.31821501341e-32 2.31821501341e-32 -9.39985989798e-33 2.22044604925e-16 -1.0 -9.39985989798e-33 1.0 2.22044604925e-16 1.13586811308e-32 -12.941121125 1.20838834345" positionType="rto">
 				</content>
@@ -5989,8 +5987,6 @@
 				</content>
 				<content node="loopLargePanel.iam:0805:1_BODY-34" position="1.0 2.85993522356e-16 2.02726795509e-16 2.02726795509e-16 2.22044604925e-16 -1.0 -2.85993522356e-16 1.0 2.22044604925e-16 3.10862446895e-15 -13.2617137668 1.52898098525" positionType="rto">
 				</content>
-				<content node="loopLargePanel.iam:0805:1_BODY-24" position="1.0 -2.22165265541e-18 -8.54883795023e-17 -8.54883795023e-17 2.22044604925e-16 -1.0 2.22165265541e-18 1.0 2.22044604925e-16 -4.4408920985e-16 -12.941121125 1.20838834345" positionType="rto">
-				</content>
 				<content node="loopLargePanel.iam:2mmSpacer:1_BODY" position="1.0 -5.55111512313e-17 -3.03286807504e-32 8.19060609089e-32 2.22044604925e-16 -1.0 0.0 1.0 2.22044604925e-16 -2.22044604925e-16 -12.941121125 -0.791611656547" positionType="rto">
 				</content>
 				<content node="loopLargePanel.iam:0805:1_BODY-26" position="2.22044604925e-16 -1.0 -1.28902796209e-16 1.0 2.22044604925e-16 -1.23912582083e-15 1.23912582083e-15 -1.28902796209e-16 1.0 -0.80858613934 -12.5413189209 -8.10462807976e-15" positionType="rto">
@@ -6001,11 +5997,11 @@
 				</content>
 				<content node="loopLargePanel.iam:m3x8:1_BODY-2" position="0.324711272338 -0.821759531531 0.468266870443 0.821759531531 2.22044604925e-16 -0.569834425371 0.468266870443 0.569834425371 0.675288727662 1.73951968844 -14.615909524 -1.20623876457" positionType="rto">
 				</content>
-				<content node="loopLargePanel.iam:0805:1_BODY-27" position="2.22044604925e-16 -1.0 -1.28902796209e-16 1.0 2.22044604925e-16 -1.23912582083e-15 1.23912582083e-15 -1.28902796209e-16 1.0 -0.80858613934 -12.5413189209 -8.10462807976e-15" positionType="rto">
+				<content node="loopLargePanel.iam:pcb:1_BODY-6" position="1.0 1.42817711429e-32 8.43258420097e-32 -1.73275305018e-32 2.22044604925e-16 -1.0 -1.73275305018e-32 1.0 2.22044604925e-16 2.09383858792e-32 -12.941121125 1.20838834345" positionType="rto">
 				</content>
 				<content node="loopLargePanel.iam:loopLargePanel:1_BODY-4" position="1.0 0.0 0.0 0.0 2.22044604925e-16 -1.0 0.0 1.0 2.22044604925e-16 0.0 -12.941121125 1.20838834345" positionType="rto">
 				</content>
-				<content node="loopLargePanel.iam:pcb:1_BODY-3" position="1.0 1.42817711429e-32 8.43258420097e-32 -1.73275305018e-32 2.22044604925e-16 -1.0 -1.73275305018e-32 1.0 2.22044604925e-16 2.09383858792e-32 -12.941121125 1.20838834345" positionType="rto">
+				<content node="loopLargePanel.iam:0805:1_BODY-21" position="1.0 -2.22165265541e-18 -8.54883795023e-17 -8.54883795023e-17 2.22044604925e-16 -1.0 2.22165265541e-18 1.0 2.22044604925e-16 -4.4408920985e-16 -12.941121125 1.20838834345" positionType="rto">
 				</content>
 				<content node="loopLargePanel.iam:FH33-4S-1SH:1_BODY-11" position="1.0 -1.12316832769e-31 8.48983935365e-32 7.36146457069e-33 2.22044604925e-16 -1.0 -7.36146457069e-33 1.0 2.22044604925e-16 9.52656046666e-32 -12.941121125 1.20838834345" positionType="rto">
 				</content>
@@ -6015,9 +6011,9 @@
 				</content>
 				<content node="loopLargePanel.iam:pcb:1_BODY-7" position="1.0 1.42817711429e-32 8.43258420097e-32 -1.73275305018e-32 2.22044604925e-16 -1.0 -1.73275305018e-32 1.0 2.22044604925e-16 2.09383858792e-32 -12.941121125 1.20838834345" positionType="rto">
 				</content>
-				<content node="loopLargePanel.iam:2mmSpacer:1_BODY-2" position="0.845312795335 -0.393302942609 -0.361606240789 0.393302942609 2.22044604925e-16 0.919408938033 -0.361606240789 -0.919408938033 0.154687204665 0.783315304108 -11.7410993121 1.83112561304" positionType="rto">
+				<content node="loopLargePanel.iam:0805:1_BODY-4" position="1.0 -2.18641894671e-32 2.18641894671e-32 1.28579928423e-33 2.22044604925e-16 -1.0 1.28579928423e-33 1.0 2.22044604925e-16 -1.55374486709e-33 -12.941121125 1.20838834345" positionType="rto">
 				</content>
-				<content node="loopLargePanel.iam:pcb:1_BODY-5" position="1.0 1.42817711429e-32 8.43258420097e-32 -1.73275305018e-32 2.22044604925e-16 -1.0 -1.73275305018e-32 1.0 2.22044604925e-16 2.09383858792e-32 -12.941121125 1.20838834345" positionType="rto">
+				<content node="loopLargePanel.iam:0805:1_BODY-27" position="2.22044604925e-16 -1.0 -1.28902796209e-16 1.0 2.22044604925e-16 -1.23912582083e-15 1.23912582083e-15 -1.28902796209e-16 1.0 -0.80858613934 -12.5413189209 -8.10462807976e-15" positionType="rto">
 				</content>
 				<content node="loopLargePanel.iam:FH33-4S-1SH:1_BODY-10" position="1.0 -1.12316832769e-31 8.48983935365e-32 7.36146457069e-33 2.22044604925e-16 -1.0 -7.36146457069e-33 1.0 2.22044604925e-16 9.52656046666e-32 -12.941121125 1.20838834345" positionType="rto">
 				</content>
@@ -6081,8 +6077,6 @@
 				</content>
 				<content node="loopLargePanel.iam:MPPC:1_BODY-4" position="1.0 3.95607378192e-32 -2.58288288697e-33 1.0555870889e-32 2.22044604925e-16 -1.0 3.52077741771e-32 1.0 2.22044604925e-16 -1.84889274661e-31 -12.941121125 1.20838834345" positionType="rto">
 				</content>
-				<content node="loopLargePanel.iam:0805:1_BODY-21" position="1.0 -2.22165265541e-18 -8.54883795023e-17 -8.54883795023e-17 2.22044604925e-16 -1.0 2.22165265541e-18 1.0 2.22044604925e-16 -4.4408920985e-16 -12.941121125 1.20838834345" positionType="rto">
-				</content>
 				<content node="loopLargePanel.iam:0805:1_BODY-31" position="1.0 2.85993522356e-16 2.02726795509e-16 2.02726795509e-16 2.22044604925e-16 -1.0 -2.85993522356e-16 1.0 2.22044604925e-16 3.10862446895e-15 -13.2617137668 1.52898098525" positionType="rto">
 				</content>
 				<content node="loopLargePanel.iam:FH33-4S-1SH:1_BODY-15" position="1.0 -6.64309295998e-16 6.51826058038e-16 -6.51826058038e-16 2.22044604925e-16 1.0 -6.64309295998e-16 -1.0 2.22044604925e-16 -8.03523914072e-15 -12.1832314531 -0.450498671526" positionType="rto">
@@ -6109,6 +6103,8 @@
 				</content>
 				<content node="loopLargePanel.iam:0805:1_BODY-14" position="1.0 -2.42611693359e-16 3.95766545801e-16 3.95766545801e-16 2.22044604925e-16 -1.0 2.42611693359e-16 1.0 2.22044604925e-16 1.33226762955e-15 -12.941121125 1.20838834345" positionType="rto">
 				</content>
+				<content node="loopLargePanel.iam:pcb:1_BODY-3" position="1.0 1.42817711429e-32 8.43258420097e-32 -1.73275305018e-32 2.22044604925e-16 -1.0 -1.73275305018e-32 1.0 2.22044604925e-16 2.09383858792e-32 -12.941121125 1.20838834345" positionType="rto">
+				</content>
 				<content node="loopLargePanel.iam:loopLargePanel:1_BODY-6" position="1.0 0.0 0.0 0.0 2.22044604925e-16 -1.0 0.0 1.0 2.22044604925e-16 0.0 -12.941121125 1.20838834345" positionType="rto">
 				</content>
 				<content node="loopLargePanel.iam:loopLargePanel:1_BODY-7" position="1.0 0.0 0.0 0.0 2.22044604925e-16 -1.0 0.0 1.0 2.22044604925e-16 0.0 -12.941121125 1.20838834345" positionType="rto">
@@ -6122,6 +6118,8 @@
 				<content node="loopLargePanel.iam:loopLargePanel:1_BODY-3" position="1.0 0.0 0.0 0.0 2.22044604925e-16 -1.0 0.0 1.0 2.22044604925e-16 0.0 -12.941121125 1.20838834345" positionType="rto">
 				</content>
 				<content node="loopLargePanel.iam:loopLargePanel:1_BODY-1" position="1.0 0.0 0.0 0.0 2.22044604925e-16 -1.0 0.0 1.0 2.22044604925e-16 0.0 -12.941121125 1.20838834345" positionType="rto">
+				</content>
+				<content node="loopLargePanel.iam:pcb:1_BODY-5" position="1.0 1.42817711429e-32 8.43258420097e-32 -1.73275305018e-32 2.22044604925e-16 -1.0 -1.73275305018e-32 1.0 2.22044604925e-16 2.09383858792e-32 -12.941121125 1.20838834345" positionType="rto">
 				</content>
 				<content node="loopLargePanel.iam:m3Washer:1_BODY-2" position="0.999999999379 -2.49276933751e-05 2.49276933642e-05 2.4927693372e-05 2.22044604925e-16 -0.999999999689 2.49276933673e-05 0.999999999689 6.21390118969e-10 4.46618838212e-05 -12.9410754803 -1.7916573007" positionType="rto">
 				</content>
@@ -6154,9 +6152,9 @@
 			</display_state>
 		</bookmark>
 		<bookmark duration="1.0" name="__INITIAL__">
-			<navigation_state center_of_interest="-0.168919086456 -0.580010414124 -12.7911211103" look_at_point="6.82407302649 -2.72153513283 -26.365955729" stepper="VectorStep" roll="4.3251832855e-16" position="-33.3019105681 37.4044484618 13.7600278656">
+			<navigation_state center_of_interest="-0.168919086456 2.25000002177 -10.2986211032" look_at_point="-7.7581287409 23.0660674197 -6.11830926747" stepper="VectorStep" roll="-1.06581410364e-16" position="-13.5316314328 28.8395701116 -0.344806575574">
 			</navigation_state>
-			<display_state field_of_view="26.991" stepper="DisplayStep" ortho_distance="153.247589687" isOrtho="0">
+			<display_state field_of_view="26.991" stepper="DisplayStep" ortho_distance="1.0" isOrtho="0">
 			</display_state>
 		</bookmark>
 	</bookmarks>

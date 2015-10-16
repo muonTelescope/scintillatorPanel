@@ -7,7 +7,7 @@
 		</material_assignment>
 	</material_assignments>
 	<models>
-		<light use_node_pivot="1" type="directional" transformation="0.780330339482 -0.126826287755 0.612372153203 -0.126826287755 0.926776837421 0.353553088452 -0.612372153203 -0.353553088452 0.707107176903 -3762.589 -2172.334 4344.674" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" name="__EnvironmentMainLight__">
+		<light use_node_pivot="1" type="directional" transformation="0.780330339482 -0.126826287755 0.612372153203 -0.126826287755 0.926776837421 0.353553088452 -0.612372153203 -0.353553088452 0.707107176903 -3762.59108091 -2172.32999999 4344.67162209" original_transform="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0" name="__EnvironmentMainLight__">
 			<parameter type="double" name="RTambientTraceDistance" value="50.0">
 			</parameter>
 			<parameter type="double" name="RayTracingLightSize" value="2.0">
@@ -111,7 +111,7 @@
 		</parameter>
 		<parameter type="double" name="isBackdropOverride" value="1">
 		</parameter>
-		<parameter type="double" name="fit_type" value="3">
+		<parameter type="double" name="fit_type" value="1">
 		</parameter>
 		<parameter type="double" name="scale" value="1.0">
 		</parameter>
