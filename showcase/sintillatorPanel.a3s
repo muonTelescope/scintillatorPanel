@@ -5437,49 +5437,49 @@
 		</material>
 	</materials>
 	<materials src="materials.adsklib">
-		<material label="0,0,0" id="670D4D92-2E09-46AF-A747-41287E8A52F3" name="0,0,0" ids="loopLargePanel.iam">
+		<material label="0,0,0" id="D4D486ED-936B-4F50-843E-7D171243FF88" name="0,0,0" ids="loopLargePanel.iam">
 		</material>
-		<material label="192,192,192" id="582D354D-2157-4194-B953-AD11695BF36C" name="192,192,192" ids="loopLargePanel.iam">
+		<material label="192,192,192" id="A785C17C-6D8B-47E5-AD5C-9C170C070FE3" name="192,192,192" ids="loopLargePanel.iam">
 		</material>
-		<material label="192,192,192" id="48C5557A-B8A7-481E-8539-BCAED7E4C729" name="192,192,192[0]" ids="loopLargePanel.iam(1)">
+		<material label="192,192,192" id="5C8C3AB9-4175-41C2-A1D0-59AD8432BFC2" name="192,192,192[0]" ids="loopLargePanel.iam(1)">
 		</material>
-		<material label="255,255,255" id="D1C25FCF-5BA8-45AA-906F-B141153E88B3" name="255,255,255" ids="loopLargePanel.iam">
+		<material label="255,255,255" id="0BD139DF-4E03-4A32-8E23-2FA2425BF2CD" name="255,255,255" ids="loopLargePanel.iam">
 		</material>
-		<material label="64,0,128" id="53031240-99F0-4976-B57F-2644F5A1C436" name="RenderStyle_99[0]" ids="loopLargePanel.iam|loopLargePanel.iam(1)">
+		<material label="64,0,128" id="528080BA-F09A-40A1-971E-BF2FE2B1BED3" name="RenderStyle_99[0]" ids="loopLargePanel.iam|loopLargePanel.iam(1)">
 		</material>
-		<material label="Clear (1)" id="CD088892-C15E-4587-80CF-43217A701726" name="RenderStyle_2" ids="loopLargePanel.iam|loopLargePanel.iam(1)">
+		<material label="Clear (1)" id="33FB1FBE-5FE6-428B-B21C-40A7C85B59D0" name="RenderStyle_2" ids="loopLargePanel.iam|loopLargePanel.iam(1)">
 		</material>
-		<material label="Clear (2)" id="A46F7A94-B28B-40A6-8768-47E31F2297A1" name="Clear[0]" ids="sensor.iam">
+		<material label="Clear (2)" id="C42863EF-0608-4388-8C0E-540211837CF6" name="Clear[0]" ids="sensor.iam">
 		</material>
-		<material label="Clear - Green 1" id="59768E88-248D-454C-A36E-1038A9CFCA98" name="Clear - Green 1" ids="loopLargePanel.iam|loopLargePanel.iam(1)">
+		<material label="Clear - Green 1" id="6EBBDC5F-D88C-4A40-883D-12BCDA2B3CDF" name="Clear - Green 1" ids="loopLargePanel.iam|loopLargePanel.iam(1)">
 		</material>
-		<material label="Copper - Satin" id="4D848D8B-9F9A-4A2D-8DE8-E3D9EA9E9CB9" name="Copper - Satin" ids="loopLargePanel.iam">
+		<material label="Copper - Satin" id="569F78F5-D70F-454E-9632-214BDE1EF699" name="Copper - Satin" ids="loopLargePanel.iam">
 		</material>
-		<material label="Default" id="E5821875-64DB-476A-9BDB-39100BAE8478" name="Default" ids="loopLargePanel.iam|loopLargePanel.iam(1)">
+		<material label="Default" id="D9C4B004-9464-4E7C-A4AB-A51F14AD1333" name="Default" ids="loopLargePanel.iam|loopLargePanel.iam(1)">
 		</material>
-		<material label="Galvanized" id="58B3208C-EC72-4D26-A7B4-012D131BC7A1" name="Galvanized" ids="loopLargePanel.iam">
+		<material label="Galvanized" id="DEC4FFCA-6F6E-4F60-B8DD-356C5695B44A" name="Galvanized" ids="loopLargePanel.iam">
 		</material>
-		<material label="Glossy - Black" id="85BB1D7E-E7FB-4837-8B9B-BFCFE2632517" name="Glossy - Black" ids="loopLargePanel.iam">
+		<material label="Glossy - Black" id="33221461-B89F-4BE6-9D9A-43EF32BB911E" name="Glossy - Black" ids="loopLargePanel.iam">
 		</material>
-		<material label="Glossy - Gold" id="3A834FF7-7F06-42D0-BFF2-AF8448B5502B" name="Glossy - Gold" ids="sensor.iam|loopLargePanel.iam(1)">
+		<material label="Glossy - Gold" id="7808E868-B103-4514-A1CC-7705966AD4E3" name="Glossy - Gold" ids="sensor.iam|loopLargePanel.iam(1)">
 		</material>
-		<material label="Gold" id="0B5A58BF-6C3E-4A50-AC0F-EB19BB2D2159" name="Gold" ids="loopLargePanel.iam|loopLargePanel.iam(1)">
+		<material label="Gold" id="8FFCAE5F-CF24-4B23-BB2F-0AFF1146D04B" name="Gold" ids="loopLargePanel.iam|loopLargePanel.iam(1)">
 		</material>
-		<material label="Gold - Metal" id="18382332-CAAE-4DF5-BDAC-B1E3ADC64B57" name="Gold - Metal" ids="loopLargePanel.iam">
+		<material label="Gold - Metal" id="66800714-6327-4876-97A1-5FDE96471B2C" name="Gold - Metal" ids="loopLargePanel.iam">
 		</material>
-		<material label="Nylon 6" id="9CBFC465-9C22-4E6B-8734-65F05D434BAF" name="Nylon 6" ids="loopLargePanel.iam|loopLargePanel.iam(1)">
+		<material label="Nylon 6" id="C799CE14-14B1-43EE-9CA0-FF3F4FE9CF52" name="Nylon 6" ids="loopLargePanel.iam|loopLargePanel.iam(1)">
 		</material>
-		<material label="Silver" id="260607E6-93B0-4BEC-AE62-A91A74280C38" name="Silver" ids="loopLargePanel.iam|loopLargePanel.iam(1)">
+		<material label="Silver" id="CD3C6C25-0EEB-45B8-95A4-0DF01EA90966" name="Silver" ids="loopLargePanel.iam|loopLargePanel.iam(1)">
 		</material>
-		<material label="Smooth - Black" id="91F4A51B-42A6-4971-8902-B9536ED2DC7E" name="Smooth - Black" ids="loopLargePanel.iam|loopLargePanel.iam(1)">
+		<material label="Smooth - Black" id="3675300B-117B-43BF-AA9D-A392B6393307" name="Smooth - Black" ids="loopLargePanel.iam|loopLargePanel.iam(1)">
 		</material>
-		<material label="Smooth - Ivory" id="DC63DD7E-DEFF-4B9B-B83F-80E5963338D1" name="Smooth - Ivory" ids="loopLargePanel.iam">
+		<material label="Smooth - Ivory" id="D2700D52-3EEF-4890-885E-2FF3B2E561B5" name="Smooth - Ivory" ids="loopLargePanel.iam">
 		</material>
-		<material label="Smooth - Off-White" id="070BA697-B509-475A-B96E-20E5E5241CA4" name="Smooth - Off-White" ids="loopLargePanel.iam|loopLargePanel.iam(1)">
+		<material label="Smooth - Off-White" id="D1001B88-0CDB-493B-9FE6-8320F330496A" name="Smooth - Off-White" ids="loopLargePanel.iam|loopLargePanel.iam(1)">
 		</material>
-		<material label="Smooth - White" id="277A550E-A0B5-4EF5-889A-F76E5D18A70F" name="Smooth - White" ids="loopLargePanel.iam|loopLargePanel.iam(1)">
+		<material label="Smooth - White" id="F7883CE5-C832-4586-8B99-817019077C50" name="Smooth - White" ids="loopLargePanel.iam|loopLargePanel.iam(1)">
 		</material>
-		<material label="Steel - Polished" id="C804DF14-BFCD-4242-BE71-2CA1883C21D2" name="Steel - Polished" ids="loopLargePanel.iam|loopLargePanel.iam(1)">
+		<material label="Steel - Polished" id="3B30F4E5-33DA-4932-BA4B-564CF9A8DC48" name="Steel - Polished" ids="loopLargePanel.iam|loopLargePanel.iam(1)">
 		</material>
 	</materials>
 	<material_assignments>
@@ -5497,7 +5497,7 @@
 		</material_assignment>
 		<material_assignment visible="" material="RenderStyle_2" target="loopLargePanel.iam(1):loopLargePanel:1_BODY-7">
 		</material_assignment>
-		<material_assignment visible="" material="Luminous::LED Green on" target="loopLargePanel.iam(1):fiberLargeLoop:1_BODY">
+		<material_assignment visible="" material="Glass::Glass Green" target="loopLargePanel.iam(1):fiberLargeLoop:1_BODY">
 		</material_assignment>
 		<material_assignment visible="" material="Plastics::Plastic Smooth Ivory" target="loopLargePanel.iam(1):m3Washer:1_BODY">
 		</material_assignment>
@@ -6373,7 +6373,7 @@
 				</content>
 			</alternative>
 		</alternative_set>
-		<alternative_set current="Alternate5" type="MATERIAL" name="Lineup3" label="Fiber Loop">
+		<alternative_set current="Alternate3" type="MATERIAL" name="Lineup3" label="Fiber Loop">
 			<alternative image="alternativeImage (9).jpg" name="Alternate1" label="Green Plastic">
 				<content node="loopLargePanel.iam(1):fiberLargeLoop:1_BODY" layers="" material="Plastics::Plastic Dark Sea Green Smooth" visible="">
 					<associations>
@@ -7079,9 +7079,9 @@
 		</shot>
 		<shot bloom_size="3" shot_type="ShotStill" bloom_intensity="20.0" thumbnail="shot-Shot3-Keyframe.png" transition_duration="0.0" duration="5.0" use_own_camera_properties="False" exposure_compensation="2.36" ortho_distance="8.99882959026" center_of_interest="-0.168919086456 2.25000002177 -10.2986211032" fov="26.991" position="-38.0953181064 2.25000002177 27.6277779167" name="Shot3" depth_of_field_lens_radius="0.3125" depth_of_field_focal_distance="300.0" label="Top Angle" depth_of_field_enable="False" bloom_enable="False" isOrtho="False" look_at_point="19.5420615098 2.25000002177 -30.0096016994" bloom_threshold="64.0" transition_type="Cut to shot" roll="-1.58922131643e-16">
 		</shot>
-		<shot bloom_intensity="20.0" fov2="26.991" transition_duration="0.0" duration="10.0" exposure_compensation="2.36" fov="26.991" use_own_camera_properties="False" thumbnail2="shot-Shot4-Keyframe2.png" center_of_interest2="-0.168919086456 2.25000002177 -10.2986211032" position2="-13.5316314328 28.8395701116 -0.344806575574" depth_of_field_lens_radius="0.3125" bloom_size2="3" depth_of_field_focal_distance="300.0" label="Track To board" depth_of_field_enable="False" bloom_enable="False" depth_of_field_lens_radius2="0.3125" bloom_threshold="64.0" depth_of_field_focal_distance2="300.0" roll="-1.58922131643e-16" bloom_intensity2="20.0" isOrtho2="False" ortho_distance2="8.99882959026" shot_type="ShotKeyframed" bloom_size="3" bloom_enable2="False" depth_of_field_enable2="False" position="-38.0953181064 2.25000002177 27.6277779167" do_ease="True" roll2="1.24126707662e-16" ortho_distance="8.99882959026" look_at_point2="33.5290919574 -18.2211532786 -47.4055299658" center_of_interest="-0.168919086456 2.25000002177 -10.2986211032" name="Shot4" exposure_compensation2="2.36" thumbnail="shot-Shot4-Keyframe (1).png" isOrtho="False" look_at_point="19.5420615098 2.25000002177 -30.0096016994" transition_type="Cut to shot" bloom_threshold2="64.0">
+		<shot bloom_intensity="20.0" fov2="26.991" transition_duration="4.0" duration="10.0" exposure_compensation="2.36" fov="26.991" use_own_camera_properties="False" thumbnail2="shot-Shot4-Keyframe2.png" center_of_interest2="-0.168919086456 2.25000002177 -10.2986211032" position2="-13.5316314328 28.8395701116 -0.344806575574" depth_of_field_lens_radius="0.3125" bloom_size2="3" depth_of_field_focal_distance="300.0" label="Track To board" depth_of_field_enable="False" bloom_enable="False" depth_of_field_lens_radius2="0.3125" bloom_threshold="64.0" depth_of_field_focal_distance2="300.0" roll="-1.58922131643e-16" bloom_intensity2="20.0" isOrtho2="False" ortho_distance2="8.99882959026" shot_type="ShotKeyframed" bloom_size="3" bloom_enable2="False" depth_of_field_enable2="False" position="-38.0953181064 2.25000002177 27.6277779167" do_ease="True" roll2="1.24126707662e-16" ortho_distance="8.99882959026" look_at_point2="33.5290919574 -18.2211532786 -47.4055299658" center_of_interest="-0.168919086456 2.25000002177 -10.2986211032" name="Shot4" exposure_compensation2="2.36" thumbnail="shot-Shot4-Keyframe (1).png" isOrtho="False" look_at_point="19.5420615098 2.25000002177 -30.0096016994" transition_type="Animate to shot" bloom_threshold2="64.0">
 		</shot>
-		<shot bloom_intensity="20.0" fov2="26.991" transition_duration="3.0" duration="5.0" exposure_compensation="2.36" fov="26.991" use_own_camera_properties="False" thumbnail2="shot-Shot9-Keyframe2.png" center_of_interest2="-0.168919086456 2.25000002177 -10.2986211032" position2="-6.12107729131 31.6355018804 -3.05368924605" depth_of_field_lens_radius="0.3125" bloom_size2="3" depth_of_field_focal_distance="300.0" label="PCB Detail" depth_of_field_enable="False" bloom_enable="False" depth_of_field_lens_radius2="0.3125" bloom_threshold="64.0" depth_of_field_focal_distance2="300.0" roll="3.17531452721e-16" bloom_intensity2="20.0" isOrtho2="False" ortho_distance2="50.3519948467" shot_type="ShotKeyframed" bloom_size="3" bloom_enable2="False" depth_of_field_enable2="False" position="-13.4120828749 24.3545959499 -3.06378889908" do_ease="True" roll2="3.17531452721e-16" ortho_distance="50.3519948467" look_at_point2="40.9396460989 -15.4252215098 -50.1144126363" center_of_interest="-0.168919086456 2.25000002177 -10.2986211032" name="Shot9" exposure_compensation2="2.36" thumbnail="shot-Shot9-Keyframe (1).png" isOrtho="False" look_at_point="33.6486405153 -22.7061274403 -50.1245122893" transition_type="Animate to shot" bloom_threshold2="64.0">
+		<shot orbit_elevation="0.0" fix_look="True" bloom_intensity="20.0" keyframe_type="Start here" transition_duration="3.0" duration="6.0" exposure_compensation="2.36" horizontal_orbit_angle="360.0" fov="26.991" depth_of_field_lens_radius="0.3125" move_type="Track left" lock_tilt="True" depth_of_field_focal_distance="300.0" label="PCB Detail" depth_of_field_enable="False" bloom_enable="False" bloom_threshold="64.0" roll="-1.06581410364e-16" bloom_size="3" shot_type="ShotParametric" position="-11.9491211073 25.1307744201 -2.37700560166" use_own_camera_properties="False" ortho_distance="50.3519948467" distance="10.0" name="Shot9" center_of_interest="-0.168919086456 2.25000002177 -10.2986211032" thumbnail="shot-Shot9-Keyframe (2).png" horizontal_orbit_type="Left" isOrtho="False" look_at_point="-6.17561841536 19.3572717282 -8.15050829356" transition_type="Animate to shot" vertical_orbit_type="Up">
 		</shot>
 		<shot orbit_elevation="5.0" fix_look="True" bloom_intensity="20.0" keyframe_type="Start here" transition_duration="1.0" duration="15.0" exposure_compensation="2.36" horizontal_orbit_angle="180.0" fov="26.991" depth_of_field_lens_radius="0.3125" move_type="Orbit" lock_tilt="True" depth_of_field_focal_distance="300.0" label="Orbit" depth_of_field_enable="False" bloom_enable="False" bloom_threshold="64.0" roll="1.73100917627e-15" bloom_size="3" shot_type="ShotParametric" position="-32.5963480261 -33.8929978309 -4.20349280784" use_own_camera_properties="False" ortho_distance="50.3519948467" distance="29.6530675068" name="Shot10" center_of_interest="-0.168919086456 2.20000016144 -7.65187446773" thumbnail="shot-Shot10-Keyframe.png" horizontal_orbit_type="Left" isOrtho="False" look_at_point="8.19474155213 7.41193090876 -16.3364035505" transition_type="Animate to shot" vertical_orbit_type="Up">
 		</shot>
@@ -7098,7 +7098,7 @@
 			</display_state>
 		</bookmark>
 		<bookmark duration="1.0" name="__INITIAL__">
-			<navigation_state center_of_interest="-0.168919086456 2.25000002177 -10.2986211032" look_at_point="40.9396460989 -15.4252215098 -50.1144126363" stepper="VectorStep" roll="3.17531452721e-16" position="-6.12107729131 31.6355018804 -3.05368924605">
+			<navigation_state center_of_interest="-0.168919086456 2.25000002177 -10.2986211032" look_at_point="-5.82829894396 30.1465805518 -2.92951361745" stepper="VectorStep" roll="-1.06581410364e-16" position="-6.17561841536 30.9042771119 -2.37700560166">
 			</navigation_state>
 			<display_state field_of_view="26.991" stepper="DisplayStep" ortho_distance="50.3519948467" isOrtho="0">
 			</display_state>
@@ -7123,13 +7123,13 @@
 				</value>
 			</slide_item>
 		</slide>
-		<slide duration="11.0571428571" thumbnail="slide-slide2.png" name="Track To PCB" id="slide2">
+		<slide duration="14.0" thumbnail="slide-slide2.png" name="Track To PCB" id="slide5">
 			<slide_item start_time="0.0" type="shot">
 				<value value="Shot4">
 				</value>
 			</slide_item>
 		</slide>
-		<slide duration="8.0" thumbnail="slide-slide1 (8).png" name="PCB Detail" id="slide1">
+		<slide duration="9.0" thumbnail="slide-slide1 (8).png" name="PCB Detail" id="slide1">
 			<slide_item start_time="0.0" type="shot">
 				<value value="Shot9">
 				</value>
