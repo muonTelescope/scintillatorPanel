@@ -1,0 +1,10 @@
+﻿Simulation Simulation:1 started: 2/18/2016, 3:43:05 PM
+Number of configurations: 1
+Default mesh: 426 elements, 1152 nodes
+The deformation is large compared to the model size. Please verify that load and constraint settings are appropriately scaled.
+Solution time 0.7s
+Convergence rate: 7.45%
+Problem converged 
+Simulation Simulation:1 finished: 2/18/2016, 3:43:08 PM
+Total time 0:00:03
+
