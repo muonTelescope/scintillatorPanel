@@ -1,4 +1,4 @@
-# Loop Scintillator Panel
+# Scintillator Panel
 Large scintillator panel with embedded fibre loop to channel light to attached photo-sensor. The tile has a loop pattern with a single fibre to attempt to gather light from as much of the effective area of scintillator and minimize losses from tight curves and open fibre ends. The fibre groove follows along the top surface and comes out perpendicular to end face.
 
 ![][assembled]
@@ -20,5 +20,5 @@ The optical fibres are cut to length (score and breaking) and the end is polishe
 ### Covering
 The fingers are then covered with either degreased aluminium foil and electrical tape or a coating of reflective spray followed by a dip inside rubberized coating (successful tests have been done with [Spaz Stix Ultimate Mirror Chrome](http://www.hobbyrecreationproducts.com/collections/spazstix-ultimate-mirror-chrome) and [Plasti Dip](https://plastidip.com/)) providing a more even surface finish and reduced labour. This covering shields external light, and provides higher efficiency by capturing stray photons by reflecting them back towards the fibre optic.
 
-[assembled]: renderings/scintillatorPanel.jpg "When assembled only the coating and fibre exit is visible"
-[exploded]: renderings/scintillatorPaneExploded.jpg "An exploded view of the two coatings, panel and fibre"
+[assembled]: renderings/scintillatorPanel.png "When assembled only the coating and fibre exit is visible"
+[exploded]: renderings/scintillatorPaneExploded.png "An exploded view of the two coatings, panel and fibre"
