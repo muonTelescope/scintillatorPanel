@@ -4,7 +4,7 @@ Large scintillator panel with embedded fibre loop to channel light to attached p
 ![][assembled]
 
 ## Theory
-The scintillator panel is a doped plastic (available from many suppliers [Eljen](http://www.eljentechnology.com/) being the one used in our prototypes) that emits light in response to being struck by an electron, alpha particle, ion, or high energy photon. The light emitted (blue in our case) is then expected to hit the embedded fibre that can absorb that light, and retransmit at the lower green frequency based on the chartists of the fibre. This green light is captured and guided by the fibre to the end of finger where it can be read out. Each event is expected to produce about 30 photons, with a lower number reaching the sensor placed on the fibre side.
+The scintillator panel is a doped plastic (available from many suppliers [Eljen](http://www.eljentechnology.com/) being the one used in our prototypes) that emits light in response to being struck by an electron, alpha particle, ion, or high energy photon. The light emitted (blue in our case) is then expected to hit the embedded fibre that can absorb that light, and retransmit at the lower green frequency based on the chartists of the fibre. This green light is captured and guided by the fibre to the end of the panel where it can be read out. Each event is expected to produce about 30 photons, with a lower number reaching the sensor placed on the fibre side.
 
 ## Assembly
 Currently the parts must be hand assembled although further production may yield an injection moulding scheme. The following lists the procedure to construct a single plate.
